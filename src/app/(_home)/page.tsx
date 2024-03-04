@@ -30,14 +30,14 @@ export default async function myPage() {
   return (
     <main className="content-grid">
       <div className="flex flex-col items-center justify-center mb-32">
-        <div className="h-[15vh] flex flex-col items-end justify-end">
+        <div className="h-[15vh] flex flex-col items-end justify-end mb-8">
         <Link
               href={`/admin-home/`}>
               <Image
-              width={189}
+              width={300}
               height={170}
-                className="w-60"
-                src="/NewTeachingJobsLogo.png"
+                className="w-30"
+                src="/newteachingjobslogo.png"
                 alt=""
               />
             </Link>
