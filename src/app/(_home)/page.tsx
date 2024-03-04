@@ -317,8 +317,6 @@ export default async function myPage() {
               globally. Connect with your next career move in the academic
               sector through our comprehensive online job board. Find your next
               academic job now!
-              
-              
             </p>
           </div>
         </div>
