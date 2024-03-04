@@ -60,7 +60,7 @@ export default function Page({ params, searchParams }: any) {
   //console.log(company_description)
   content = (
     <div className="content-grid flex-col md:gap-2">
-      {/* <Link className="text-[#f4a10c] " href="/executive/">
+      {/* <Link className="text-[#e79d36] " href="/executive/">
         View all Lecturer Jobs →
       </Link> */}
 

@@ -6,54 +6,7 @@ type JobCategoryLinksProps = {
 
 const JobCategoryLinks = ({ nativeOn }: JobCategoryLinksProps) => {
   return (
-    <ul className="faculty-container flex flex-wrap gap-4 items-center justify-center text-gray-400 px-2">
-      <li className="hover:underline">
-        <Link href="/lecturer">Lecturer{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/research/">Research{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/professor/">Professor{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/executive/">Executive{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/faculty/">Faculty{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/staff-jobs/">Staff{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/hr-jobs/">HR{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/student-jobs/">Student{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/industry/">Industry{'  '}</Link>
-      </li>
-      {nativeOn ? (
-        <li className="hover:underline">
-          <Link href="/Australia/indigenous">Indigenous</Link>
-        </li>
-      ) : null}
-      <li className="hover:underline">
-        <Link href="/graduate"> Graduate{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/postdoc"> Postdoc{'  '}</Link>
-      </li>
-      <li className="hover:underline">
-        <Link href="/phd">PhD</Link>
-      </li>
-      <li className="hover:underline md:hidden">
-        <Link href="/jobs?l=&q=tenure"> Tenure-Track{'  '}</Link>
-      </li>
- 
-  
-    </ul>
+<ul className="faculty-container flex flex-wrap gap-4 items-center justify-center text-[#334680] "><ul className="w-full  md:w-auto flex items-center  justify-center gap-4"><li className=" hover:underline"><a href="/early-childhood/"> Kindergarten</a></li><li className=" hover:underline"><a href="/primary/"> Primary </a></li><li className=" hover:underline"><a href="/secondary/"> Secondary</a></li><li className=" hover:underline"><a href="/relief-teaching-jobs/"> Relief teaching</a></li></ul><li className=" hover:underline"><a href="/administrative/">Admin</a></li><li className=" hover:underline"><a href="/jobs/online/"> Online </a></li></ul>
   );
 };
 

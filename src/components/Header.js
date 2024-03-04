@@ -116,22 +116,22 @@ export default function Header() {
             url={`/${countryMappings2[region.toLowerCase()].url}/jobs`}
             icon="/dotted-arrow.svg"
             navLink="Seek Jobs"
-            forceClass="border-b hover:border-amber-500" //this is optional
-            forceButtonClass="border-b hover:border-amber-500 mr-2 "
+            forceClass="border-b hover:border-[#e79d36]" //this is optional
+            forceButtonClass="border-b hover:border-[#e79d36] mr-2 "
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
             url={`/${countryMappings2[region.toLowerCase()].url}/jobs-by-top-universities`}
             icon="/upward-arrow.svg"
             navLink="Top Universities"
-            forceButtonClass="border-b hover:border-amber-500 "
+            forceButtonClass="border-b hover:border-[#e79d36] "
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
             url="/career-help"
             icon="/network-icon.svg"
             navLink="Career Help"
-            forceButtonClass="border-b hover:border-amber-500 "
+            forceButtonClass="border-b hover:border-[#e79d36] "
             onClick={() => setIsNavOpen(false)}
           />
           <div
