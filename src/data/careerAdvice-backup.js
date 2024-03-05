@@ -35,7 +35,7 @@ const data = [
 <p style="padding-left: 40px; margin-bottom: 40px;"><span >Seek feedback from mentors and colleagues to identify areas for improvement. Embrace opportunities for professional development and acquire new skills that are relevant to your field. Demonstrating your commitment to lifelong learning and growth will make you a more attractive candidate to academic institutions.</span></p>
 <p><span style="padding-top: 40px;" >In conclusion, landing your dream job in the field of academics requires a combination of purpose, strategic planning, and a strong dedication to your research and teaching pursuits. By clarifying your academic interests, building a robust network, developing your research profile, tailoring your application materials, preparing for interviews, pursuing postdoctoral opportunities, and embracing continuous learning, you can position yourself as a competitive candidate for academic positions. Stay resilient, persistent, and passionate about your academic journey, and you will be well on your way to achieving your dream job in academia.</span></p>
 <div>
-<p><span style="padding-top: 40px;" >If you want to talk to us more about how to land your dream college job, contact us at <a  href="https://academicjobs.com/contact-us/">AcademicJobs</a>.</span></p>
+<p><span style="padding-top: 40px;" >If you want to talk to us more about how to land your dream college job, contact us at <a  href="https://academicjobs.com/contact-us/">TeachingJobs</a>.</span></p>
 </div>
 <div>
 
@@ -48,14 +48,14 @@ const data = [
     // Blog 2
     Name: 'exploring the global landscape of academic jobs opportunities and challenges',
     Title:
-      'Exploring the Global Landscape of Academic Jobs: Opportunities and Challenges',
+      'Exploring the Global Landscape of Teaching Jobs: Opportunities and Challenges',
     Description:
       'Find out how to prepare yourself for the future of work in academia and discover the best academic jobs across different regions and disciplines.',
-    Keyword: 'Global Landscape of Academic Jobs. opportunities and challenges',
+    Keyword: 'Global Landscape of Teaching Jobs. opportunities and challenges',
     content: '07 Jul, 2023',
     content2: `  
   <div class="blog__content">
-  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Global_Opportunities_2.png" alt="Exploring the Global Landscape of Academic Jobs: Opportunities and Challenges">
+  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Global_Opportunities_2.png" alt="Exploring the Global Landscape of Teaching Jobs: Opportunities and Challenges">
   <p>&nbsp;</p>
                 <p><span style="">Exploring the global landscape of academic jobs reveals a diverse range of opportunities and challenges for individuals pursuing careers in academia. Academic jobs encompass various roles, including professors, researchers, postdoctoral fellows, lecturers, and staff positions within educational institutions.</span></p>
 <p><span style="">Let's delve into the opportunities and challenges associated with academic careers on a global scale.</span></p>
@@ -76,7 +76,7 @@ const data = [
 <p><span style="">Despite the challenges, academic careers can be immensely rewarding for those passionate about research, teaching, and contributing to knowledge advancement in their respective fields. The pursuit of academic excellence, impactful teaching, and the opportunity to shape future generations make academic jobs an exciting and fulfilling choice for many.&nbsp;</span></p>
 <div>
 <p>&nbsp;</p>
-<p><span style="">If you want to talk to us more about global opportunities in academia, contact us at <a style="" href="https://academicjobs.com/contact-us/">AcademicJobs</a>.</span></p>
+<p><span style="">If you want to talk to us more about global opportunities in academia, contact us at <a style="" href="https://academicjobs.com/contact-us/">TeachingJobs</a>.</span></p>
 </div>
 
 
@@ -90,13 +90,13 @@ const data = [
     // Blog 3
     Name: 'exploring the benefits of academic jobs online why virtual hiring is on the rise',
     Title:
-      'Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise',
+      'Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise',
     Description:
       'Learn how to find, apply, and succeed in your dream academic position with our expert tips and resources. ',
     Keyword: 'benefits of academic jobs online. virtual hiring is on the rise',
     content: '20 Jun, 2023',
     content2: `   
-  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Virtual_Hiring.png" alt="Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise">
+  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Virtual_Hiring.png" alt="Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise">
   <div class="blog__content">
   <p>&nbsp;</p>
   <p><span style="">Virtual hiring for academic jobs has gained significant popularity in recent years, and there are several reasons why it is on the rise beyond just coping with a pandemic!</span></p>
@@ -117,7 +117,7 @@ const data = [
 <p style="padding-left: 40px;"><span style=""><strong>&gt; Remote is Part of the New Normal:</strong> Prior to the pandemic, many employers believed that job seekers wouldn’t be comfortable interviewing online. But as we all know, technology played a huge part in maintaining some semblance of ‘normal’ life during the health crisis, from remote work and telehealth to online ordering and contactless pickup. Employers that adopted virtual recruiting early in the pandemic quickly learned that job seekers not only respond positively to this application of technology, but that virtual recruiting enabled them to reach more candidates, meet more diverse talent, and more effectively engage with job seekers throughout the recruiting process.&nbsp;</span></p>
 <p>&nbsp;</p>
 <p><span style="">Overall, the rise of virtual hiring for academic jobs offers numerous benefits, including expanded access to talent, cost savings, time efficiency, enhanced diversity, increased satisfaction and flexibility for candidates, environmental sustainability, and leveraging advanced technologies. As these advantages continue to be recognized, it is likely that virtual hiring will become increasingly common in the academic job market.</span></p>
-<p><span style="">If you want to talk to us more about virtual hiring, contact us at <a style="" href="https://academicjobs.com/contact-us/">AcademicJobs</a>.</span></p>
+<p><span style="">If you want to talk to us more about virtual hiring, contact us at <a style="" href="https://academicjobs.com/contact-us/">TeachingJobs</a>.</span></p>
 </div>
   `,
   },
@@ -131,7 +131,7 @@ const data = [
     Keyword: 'Academic Happiness. happiness and academics',
     content: '16 Oct, 2023',
     content2: `   
-  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/how-to-be-a-happy-academic.jpg" alt="Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise">
+  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/how-to-be-a-happy-academic.jpg" alt="Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise">
  
       <div className="container mx-auto py-4">
       
@@ -190,13 +190,13 @@ const data = [
   {
     // Blog 5
     Name: 'top academic jobs australia',
-    Title: 'Top Academic Jobs Australia',
+    Title: 'Top Teaching Jobs Australia',
     Description:
       'Looking for the best academic jobs in Australia? This blog shows the best of faculty, research, and staff positions at leading universities. ',
-    Keyword: 'Top Academic Jobs Australia. Academic Jobs Australia',
+    Keyword: 'Top Teaching Jobs Australia. Teaching Jobs Australia',
     content: '10 Aug, 2023',
     content2: `   
-  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/top-academic-jobs-australia.jpg" alt="Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise">
+  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/top-academic-jobs-australia.jpg" alt="Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise">
  
   <div class="blog__content">
   <div tabindex="0">
@@ -223,7 +223,7 @@ const data = [
 <p>&nbsp;</p></ul>
 <p><span style="">These rankings are based on five main categories: teaching (30%), research (30%), citations (30%), international outlook (7.5%), and industry income (2.5%). Each category has several sub-indicators that measure different aspects of university performance. For example, teaching includes indicators such as student-to-staff ratio, doctorate-to-bachelor’s ratio, doctorates awarded-to-academic staff ratio, institutional income, and reputation survey. Research includes indicators such as research income, research productivity, research reputation survey, and research influence. Citations measure how often a university’s research is cited by other scholars around the world. International outlook includes indicators such as international-to-domestic-student ratio, international-to-domestic-staff ratio, international collaboration, and international reputation survey. Industry income measures how much a university earns from its knowledge transfer activities with industry partners.</span></p>
 <p>&nbsp;</p><p><span style="">While rankings can be useful to compare universities at a glance, they are not the only factor to consider when choosing a university. Rankings do not capture everything that matters to students, such as campus culture, student support services, extracurricular activities, learning environment, social life, and personal fit. Rankings also do not reflect the quality of specific programs or courses within a university. Therefore, it is important to look beyond rankings and do your own research on different universities and their offerings.</span></p>
-<p>&nbsp;</p><h3><span style="font-weight: bold;">Top Academic Jobs Australia 2023</span></h3>
+<p>&nbsp;</p><h3><span style="font-weight: bold;">Top Teaching Jobs Australia 2023</span></h3>
 </p><p><span style="">Another factor to consider when choosing a university and career path is the job market. What are the skills and qualifications that employers are looking for? What are the industries and sectors that are growing and hiring? What are the salaries and benefits that different jobs offer?</span></p>
 <p>&nbsp;</p><p><span style="">Some of the highest paying jobs in Australia for 2023 include positions in the legal, executive, retail, accountancy &amp; finance, property, energy, construction, sustainability, technology, and healthcare sectors. The top 10 highest paying jobs in Australia for 2023 according to Hays are:</span></p>
 <p>&nbsp;</p><ul>
@@ -241,7 +241,7 @@ const data = [
 <p>&nbsp;</p><p><span style="">These salaries are based on the average annual income for each role across different states and territories in Australia. They may vary depending on the size and type of the organisation, the level of experience and expertise, the location and demand of the role, and the negotiation skills of the candidate.</span></p>
 <p>&nbsp;</p><p><span style="">These jobs are not only high-paying, but also high-demanding. They require a combination of hard skills, such as technical knowledge, qualifications, and certifications, and soft skills, such as communication, leadership, problem-solving, and creativity. They also require a high level of commitment, responsibility, and performance. Therefore, they are not suitable for everyone, and they may not be aligned with your personal interests, values, and goals.</span></p>
 <p>&nbsp;</p><p><span style="">When choosing a career path, it is important to consider not only the salary, but also the job satisfaction, work-life balance, career progression, and social impact. You should also consider your strengths, passions, and personality. What are you good at? What do you enjoy doing? What kind of work environment suits you best? What kind of impact do you want to make in the world?</span></p>
-<p>&nbsp;</p><h3><span style="font-weight: bold;">Conclusions of Top Academic Jobs Australia</span></h3>
+<p>&nbsp;</p><h3><span style="font-weight: bold;">Conclusions of Top Teaching Jobs Australia</span></h3>
 </p><p><span style="">Choosing the best university and career path in Australia for 2023 is not an easy task. It requires careful planning, research, and reflection. It also requires flexibility, adaptability, and resilience. The world is changing rapidly, and so are the education and employment landscapes. You may need to update your skills and qualifications, change your direction or goals, or explore new opportunities along the way.</span></p>
 <p>&nbsp;</p><p><span style="">However, choosing the best university jobs and career path in Australia for 2023 is also an exciting and rewarding journey. It can help you achieve your academic potential, your professional success, and your personal fulfilment. It can also help you contribute to the society and the world in a positive and meaningful way.</span></p>
 <p>&nbsp;</p><p><span style="">We hope this blog post has given you some useful tips and insights to help you make an informed decision about your future education and career in Australia. We wish you all the best in your endeavours!</span></p>
@@ -262,11 +262,11 @@ const data = [
       'evolution of university recruitment. evolution of academic recruitment',
     content: 'May 15, 2023',
     content2: `   
-  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Recruitment_Evolution_2.png " alt="Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise">
+  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Recruitment_Evolution_2.png " alt="Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise">
  
   <div class="blog__content">
   <p>&nbsp;</p><p><p><span style="";">The evolution of university recruitment has undergone significant changes in recent years, with the increasing adoption and integration of digital platforms. Traditional methods of recruitment, such as on-campus career fairs and job postings, have been supplemented and, in some cases, replaced by innovative digital strategies. This shift has been driven by several factors, including advancements in technology, changing candidate preferences, and the need for more efficient and cost-effective recruitment processes. According to a report by McKinsey, companies can reduce their cost per hire by 60% using digital recruiting methods. The Society for Human Resource Management (SHRM) estimates that recruiters can save up to 80% of their time by using AI-powered recruitment tools.</span></p>
-  <p>&nbsp;</p><p><p style="padding-left: 40px;"><span style="";">&gt; One of the key drivers behind the embrace of digital platforms in university recruitment is the rise of online job boards and professional networking sites. Platforms like AcademicJobs.com, LinkedIn, Indeed, and Glassdoor have become popular destinations for both candidates and employers. These platforms offer a vast pool of talent and provide an efficient way for employers to reach out to potential candidates. Employers can post job openings, search for qualified candidates, and even engage in direct communication through messaging features.</span></p>
+  <p>&nbsp;</p><p><p style="padding-left: 40px;"><span style="";">&gt; One of the key drivers behind the embrace of digital platforms in university recruitment is the rise of online job boards and professional networking sites. Platforms like TeachingJobs.com, LinkedIn, Indeed, and Glassdoor have become popular destinations for both candidates and employers. These platforms offer a vast pool of talent and provide an efficient way for employers to reach out to potential candidates. Employers can post job openings, search for qualified candidates, and even engage in direct communication through messaging features.</span></p>
   <p>&nbsp;</p><p><p style="padding-left: 40px;"><span style="";">&gt; Social media platforms have also played a significant role in the evolution of university recruitment. Platforms like Facebook, Twitter, and Instagram have become powerful tools for employers to connect with candidates and build their employer brand. Companies now leverage social media to showcase their company culture, share job openings, and engage with potential candidates. This shift has allowed for more personalized and targeted recruitment efforts.</span></p>
   <p>&nbsp;</p><p><p style="padding-left: 80px; font-weight: bold;"><span style="";"><em>&gt; Some interesting data on the impact of Social Media:</em></span></p>
 <ul>
@@ -316,7 +316,7 @@ const data = [
 <p>&nbsp;</p><p><p><span style="";">The benefits of embracing digital platforms in university recruitment are numerous. Employers can reach a larger and more diverse pool of candidates, reduce costs associated with travel and logistics, and leverage technology to streamline and automate recruitment processes. Candidates also benefit from increased accessibility and the ability to explore job opportunities beyond their immediate geographic area.</span></p>
 <p>&nbsp;</p><p><p><span style="";">However, it's important to note that while digital platforms offer many advantages, they should not completely replace in-person interactions and on-campus engagement. Building personal connections, networking, and experiencing company culture firsthand are still essential aspects of the recruitment process. Therefore, a well-rounded recruitment strategy should incorporate both digital and traditional methods to maximize effectiveness.</span></p>
 <p>&nbsp;</p><p><p><span style="";">In conclusion, the evolution of university recruitment has been shaped by the embrace of digital platforms. The use of online job boards, social media, virtual career fairs, AI-powered tools, and data analytics has transformed the way employers connect with candidates and identify top talent. While digital platforms offer numerous benefits, it's crucial to strike a balance between online and in-person engagement to create a comprehensive and effective recruitment strategy.</span></p>
-<p><span style="";">If you want to talk to us more about university recruitment in academia, contact us at <a href="https://academicjobs.com/contact-us/">AcademicJobs</a>.</span></p>
+<p><span style="";">If you want to talk to us more about university recruitment in academia, contact us at <a href="https://academicjobs.com/contact-us/">TeachingJobs</a>.</span></p>
             </div>
   `,
   },
@@ -324,13 +324,13 @@ const data = [
   {
     // Blog 7
     Name: 'highest paid academic jobs australia 2023',
-    Title: 'The Highest Paid Academic Jobs Australia for 2023',
+    Title: 'The Highest Paid Teaching Jobs Australia for 2023',
     Description:
       'If you are looking for a rewarding and lucrative career in the academic sector, you might be wondering what is the highest paid job in Australian higher education.',
     Keyword: 'highest paid academic jobs Australia 2023 .',
     content: 'May 15, 2023',
     content2: `   
-  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Recruitment_Evolution_2.png " alt="Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise">
+  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Recruitment_Evolution_2.png " alt="Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise">
  
   <div class="container">
   <p style="padding-bottom: 2rem">If you are looking for a rewarding and lucrative career in academia, you might be interested in knowing which academic jobs pay the best. According to the latest data from the Australian Taxation Office, the highest paid academic jobs in Australia for 2023 are:</p>
@@ -410,7 +410,7 @@ const data = [
     Keyword: 'highest paid academic job 2023 .',
     content: 'May 15, 2023',
     content2: `   
-  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Recruitment_Evolution_2.png " alt="Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise">
+  <Image src="https://academicjobs.s3.amazonaws.com/img/_misc/Recruitment_Evolution_2.png " alt="Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise">
  
 
   <div class="container">
@@ -490,12 +490,12 @@ const data = [
 
 <p><Image src="https://academicjobs.mysmartjobboard.com/files/userfiles/mceclip1.png"></p>
 <p>&nbsp;</p>
-<p>Academic Jobs can help you kick start your career at Queensland University of Technology today! <o:p></o:p></p>
+<p>Teaching Jobs can help you kick start your career at Queensland University of Technology today! <o:p></o:p></p>
 <p><br>A career at QUT University in academic positions offers an opportunity for professionals to thrive in a stimulating and innovative higher ed environment.<o:p></o:p></p>
 <p><o:p>&nbsp;</o:p></p>
 <p>With a strong commitment to academic excellence, QUT provides a platform for educators and researchers to engage in innovative teaching and research that shapes the future of higher education. The university's focus on global perspectives, interdisciplinary collaboration, and state-of-the-art facilities fosters an environment where individuals can contribute significantly to advancements in knowledge and learning. <o:p></o:p></p>
 <p><o:p>&nbsp;</o:p></p>
-<p>Academic Jobs can find your perfect uni job in the vibrant community of Brisbane. A career at QUT combines the rewards of academic excellence, professional growth, and a diverse, inclusive workplace, making it an ideal destination for those dedicated to making a meaningful impact in the field of higher education.<o:p></o:p></p>
+<p>Teaching Jobs can find your perfect uni job in the vibrant community of Brisbane. A career at QUT combines the rewards of academic excellence, professional growth, and a diverse, inclusive workplace, making it an ideal destination for those dedicated to making a meaningful impact in the field of higher education.<o:p></o:p></p>
 <p><o:p>&nbsp;</o:p></p>
 <p><o:p>&nbsp;</o:p></p>
 <p>QUT offer a diverse range of academic career opportunities. <o:p></o:p></p>
@@ -567,7 +567,7 @@ const data = [
     
     <div><Image src="https://academicjobs.mysmartjobboard.com/files/userfiles/mceclip3.png"><br><o:p></o:p>
 <div>
-<p>Academic Jobs can help you kick start your career at Bond Uni today! <o:p></o:p></p>
+<p>Teaching Jobs can help you kick start your career at Bond Uni today! <o:p></o:p></p>
 <p><br>A career at Bond University in academic positions offers an opportunity for professionals to thrive in a stimulating and innovative higher ed environment. With a commitment to excellence in education and research, Bond University provides a platform for employees to contribute meaningfully to the academic community. The small class sizes allow personalised interactions with students, creating a unique and impactful teaching experience. The university's state-of-the-art facilities, global perspective, and interdisciplinary approach to research offer a stimulating environment for continuous learning and professional development. <o:p></o:p></p>
 <p><o:p>&nbsp;</o:p></p>
 <p>A higher ed career at Bond would see you to the breathtaking Gold Coast, where Bond University provides a picturesque backdrop for work. The supportive community and a commitment to work-life balance, making it an ideal destination for those who aspire to make a meaningful impact in academia and beyond.<o:p></o:p></p>
@@ -778,7 +778,7 @@ const data = [
     content2: `              <div>
               <p><Image src="https://academicjobs.mysmartjobboard.com/files/userfiles/mceclip8.png"></p>
               <p>&nbsp;</p>
-              <p>Academic Jobs can help you kick start your career at UCLA today!<o:p></o:p></p>
+              <p>Teaching Jobs can help you kick start your career at UCLA today!<o:p></o:p></p>
               <p><br>A career at The University of California, Los Angeles (UCLA) in academic positions offers an opportunity for professionals to thrive in a stimulating and innovative higher ed environment. Whether in faculty roles such as Assistant, Associate, or Full Professors, or engaging in dynamic staff positions within higher education, UCLA provides a platform for professionals to thrive, fostering a culture of innovation, diversity, and continuous learning. <o:p></o:p></p>
               <p><o:p>&nbsp;</o:p></p>
               <p>A career at UCLA opens doors to a vibrant community of scholars, offering academic positions and higher education opportunities that empower individuals to contribute to the excellence of the nation's top public university. Joining UCLA means embracing a commitment to True Bruin Values, upholding ethical standards, and playing a pivotal role in shaping the future of higher education while enjoying the picturesque campus in Westwood, just five miles from the Pacific Ocean.<o:p></o:p></p>

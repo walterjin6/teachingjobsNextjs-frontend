@@ -7,12 +7,12 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: `Revolutionize Academic Hiring with Our Global Talent Pool`, //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'Empower your university with Academic Jobs: a leading platform for matching top academic talent globally using innovative AI technology. Transform your talent strategy now!',
+    'Empower your university with Teaching Jobs: a leading platform for matching top academic talent globally using innovative AI technology. Transform your talent strategy now!',
   keywords:
-    'Academic Talent Acquisition, Higher Education Recruitment Platform, University Talent Matching, College Recruitment Solutions, Global Academic Talent Pool, Academic Jobs Platform, Educational Institution Hiring, Faculty Recruitment Services, Academic Staffing Solutions, Dynamic Talent Matching for Universities, AI-Powered Academic Recruitment, Higher Ed Talent Search, Academic Professional Networking, Innovative University Hiring, Research Staff Recruitment, Academic Career Opportunities, Educational Talent Management, Higher Education Job Matching, University Faculty Recruitment, College Staff Hiring',
+    'Academic Talent Acquisition, Higher Education Recruitment Platform, University Talent Matching, College Recruitment Solutions, Global Academic Talent Pool, Teaching Jobs Platform, Educational Institution Hiring, Faculty Recruitment Services, Academic Staffing Solutions, Dynamic Talent Matching for Universities, AI-Powered Academic Recruitment, Higher Ed Talent Search, Academic Professional Networking, Innovative University Hiring, Research Staff Recruitment, Academic Career Opportunities, Educational Talent Management, Higher Education Job Matching, University Faculty Recruitment, College Staff Hiring',
 };
 
 export default function myPage() {
@@ -26,7 +26,7 @@ export default function myPage() {
               candidates to come to you?
               {/* Watch as Excellence Meets Opportunity */}
             </h1>
-            {/* <h1>Transform Your Talent Acquisition with the Academic Jobs Talent Pool</h1> */}
+            {/* <h1>Transform Your Talent Acquisition with the Teaching Jobs Talent Pool</h1> */}
             <h2>
               Empowering Universities & Colleges with Dynamic Talent Matching
             </h2>
@@ -87,7 +87,7 @@ export default function myPage() {
         </a>{' '}
         to find out more.
       </p>
-      <p>What the Academic Jobs Talent Pool can do for you…</p>
+      <p>What the Teaching Jobs Talent Pool can do for you…</p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mt-8">
         {/* Card 1 */}
         <Card
@@ -146,7 +146,7 @@ export default function myPage() {
       <HeroCard
         heading="Join Us and Shape the Future"
         para1="Embark on a journey of discovery and opportunity with the Academic Talent Pool. Our commitment to innovation, quality, and partnership positions us as the go-to resource for Universities and Colleges aiming to excel in talent acquisition. Let's redefine the future of academic staffing together."
-        para2="Posting a job with Academic Jobs is so easy! Give it a try now and see how we can help you find the perfect candidate for your academic institution."
+        para2="Posting a job with Teaching Jobs is so easy! Give it a try now and see how we can help you find the perfect candidate for your academic institution."
         imagePath="/talent-pool/teamwork-makes-the-dream-work.jpg"
         alt="See how Teamwork Makes the Dream Work"
         btnLink="/post-a-job"
@@ -226,7 +226,7 @@ export default function myPage() {
           <ul className="mb-4">
             <li>
               <span className="text-green-600 text-lg">✓</span> Free Access for
-              Academic Jobs Unlimited customers
+              Teaching Jobs Unlimited customers
             </li>
             <li>
               <span className="text-green-600 text-lg">✓</span> AI Matching

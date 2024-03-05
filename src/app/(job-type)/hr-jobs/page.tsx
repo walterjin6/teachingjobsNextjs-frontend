@@ -12,8 +12,8 @@ export const metadata: Metadata = {
     absolute: '  Higher Ed HR jobs', //Option 2 overrides the title in layout.tsx
   },
   description:
-    'Welcome to the top job board for Academic Jobs, listing higher education jobs available in international colleges and universities daily. Use filters such as city, employment type, and institution name to help your job search ',
-  keywords: 'Find Academic Jobs, Seek Academic Jobs, Academic Jobs Search',
+    'Welcome to the top job board for Teaching Jobs, listing higher education jobs available in international colleges and universities daily. Use filters such as city, employment type, and institution name to help your job search ',
+  keywords: 'Find Teaching Jobs, Seek Teaching Jobs, Teaching Jobs Search',
 };
 export default function myPage() {
   return (
@@ -23,7 +23,7 @@ export default function myPage() {
         h1="Transform Your Hiring Strategy: Use Quick Post Technology to save time and money"
         h2="Job Seekers: Find the best University & College Staff Positions"
         para1="Discover your perfect human resource position through the world’s
-        best job board! At Academic Jobs we offer the most renowned HR
+        best job board! At Teaching Jobs we offer the most renowned HR
         jobs at the top universities."
         btnPrimaryText="Post a Job Now"
         btnPrimaryURL="/post-a-job"

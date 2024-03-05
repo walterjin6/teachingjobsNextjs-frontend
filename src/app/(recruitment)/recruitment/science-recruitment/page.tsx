@@ -7,12 +7,11 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: `Science Jobs Recruitment`, //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'Boost your Science Recruitment with Academic Jobs, a premier platform that uses cutting-edge AI technology to connect outstanding academic talent worldwide. Change your talent strategy right away!',
-  keywords:
-    'Science Recruitment',
+    'Boost your Science Recruitment with Teaching Jobs, a premier platform that uses cutting-edge AI technology to connect outstanding academic talent worldwide. Change your talent strategy right away!',
+  keywords: 'Science Recruitment',
 };
 
 export default function myPage() {
@@ -22,15 +21,15 @@ export default function myPage() {
         <div className="container py-16 flex flex-col lg:flex-row gap-2">
           <div>
             <h1>
-            Science Jobs Recruitment
+              Science Jobs Recruitment
               {/* Watch as Excellence Meets Opportunity */}
             </h1>
-            {/* <h1>Transform Your Talent Acquisition with the Academic Jobs Talent Pool</h1> */}
-            <h2>
-              Empowering Universities with Dynamic Talent Matching
-            </h2>
+            {/* <h1>Transform Your Talent Acquisition with the Teaching Jobs Talent Pool</h1> */}
+            <h2>Empowering Universities with Dynamic Talent Matching</h2>
             <p>
-            We are a leading science recruitment job board that specialises in finding and placing talented science professionals in various fields and sectors.
+              We are a leading science recruitment job board that specialises in
+              finding and placing talented science professionals in various
+              fields and sectors.
             </p>
             <p className="pb-8">
               In the ever-evolving landscape of higher education, finding the
@@ -84,8 +83,7 @@ export default function myPage() {
         </a>{' '}
         to find out more.
       </p>
-      {/* <p>What the Academic Jobs Talent Pool can do for you…</p> */}
-  
+      {/* <p>What the Teaching Jobs Talent Pool can do for you…</p> */}
 
       {/* <h2 className="mt-28 underline-full">We just make it easy!</h2>
 
@@ -102,7 +100,7 @@ export default function myPage() {
       <HeroCard
         heading="Join Us and Shape the Future"
         para1="We have a team of experienced and qualified consultants who understand your skills, interests, and career goals. They will provide you with personalised advice and guidance throughout the recruitment process."
-        para2="Posting a job with Academic Jobs is so easy! Give it a try now and see how we can help you find the perfect candidate for your academic institution."
+        para2="Posting a job with Teaching Jobs is so easy! Give it a try now and see how we can help you find the perfect candidate for your academic institution."
         imagePath="/talent-pool/teamwork-makes-the-dream-work.jpg"
         alt="See how Teamwork Makes the Dream Work"
         btnLink="/post-a-job"
@@ -118,7 +116,9 @@ export default function myPage() {
           iconPath="/icons/rank-indicator.svg"
         >
           <p>
-          We have a large and diverse database of science jobs, covering all levels and disciplines. You can browse our current vacancies online, or register with us to receive regular job alerts and updates.
+            We have a large and diverse database of science jobs, covering all
+            levels and disciplines. You can browse our current vacancies online,
+            or register with us to receive regular job alerts and updates.
           </p>
         </Card>
         {/* Card 5 */}
@@ -128,7 +128,10 @@ export default function myPage() {
           heading="Real Relationships"
         >
           <p>
-          We have strong relationships with our clients, and we can give you insights into their culture, expectations, and hiring criteria. We can also help you prepare for interviews, negotiate salaries, and secure contracts.
+            We have strong relationships with our clients, and we can give you
+            insights into their culture, expectations, and hiring criteria. We
+            can also help you prepare for interviews, negotiate salaries, and
+            secure contracts.
           </p>
         </Card>
         {/* Card 6 */}
@@ -138,7 +141,9 @@ export default function myPage() {
           heading="Our Customer Service"
         >
           <p>
-            Contact us directly and speak to one of our consultants. They will be happy to discuss your career aspirations and help you find the best science jobs for you.
+            Contact us directly and speak to one of our consultants. They will
+            be happy to discuss your career aspirations and help you find the
+            best science jobs for you.
           </p>
         </Card>
       </div>
@@ -174,7 +179,7 @@ export default function myPage() {
           <ul className="mb-4">
             <li>
               <span className="text-green-600 text-lg">✓</span> Free Access for
-              Academic Jobs Unlimited customers
+              Teaching Jobs Unlimited customers
             </li>
             <li>
               <span className="text-green-600 text-lg">✓</span> AI Matching

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     absolute: 'Teaching Jobs Thank you Page', //Option 2 overrides the title in layout.tsx
   },
   description:
-    'Find out about academic positions at all universities right now! Visit our FAQ Academic Jobs Online page to find if your next question has already been answered.',
+    'Find out about academic positions at all universities right now! Visit our FAQ Teaching Jobs Online page to find if your next question has already been answered.',
   keywords: 'FAQ academicjobs, academicjobs FAQ, Frequently Asked Questions',
 };
 export default function myPage() {

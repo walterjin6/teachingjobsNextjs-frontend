@@ -25,7 +25,7 @@ const Button = ({
       data-title={title}
       rel=""
       onClick={() => {
-        let subject = `Application for ${title} position at ${company_name} from AcademicJobs.com`;
+        let subject = `Application for ${title} position at ${company_name} from TeachingJobs.com`;
         if (how_to_apply.includes('@')) {
           window.location.href = `mailto:${how_to_apply}?subject=${encodeURIComponent(
             subject

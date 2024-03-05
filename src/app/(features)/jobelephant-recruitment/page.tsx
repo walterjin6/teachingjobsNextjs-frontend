@@ -5,11 +5,11 @@ import PricingTable from '@/components/PricingTable';
 export const metadata: Metadata = {
   title: 'JobElephant Recruitment', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'Please choose a different region to view pricing. All prices are in USD. Aside from the employer logo and ad success analytics, the ads run for a maximum of sixty days each.u',
-  keywords: 'Post Academic Jobs, Post a Job AcademicJobs',
+  keywords: 'Post Teaching Jobs, Post a Job TeachingJobs',
 };
 
 type PricingTypes = {
@@ -46,7 +46,7 @@ export default function Page() {
   }
 
   function createMessage(productName: string, price: number) {
-    return encodeURIComponent(`Hi Academic Jobs,
+    return encodeURIComponent(`Hi Teaching Jobs,
   
   I would like to post my Institutional Profile. 
             
@@ -85,7 +85,7 @@ export default function Page() {
                   </p> */}
                   <p className=" font-bold text-[#265882] text-xl">
                     Making it easy for you to post all your jobs on
-                    AcademicJobs.com <br />
+                    TeachingJobs.com <br />
                     Your #1 college and university job board... for price, reach
                     and results
                   </p>
@@ -108,7 +108,7 @@ export default function Page() {
           <div className=" mx-auto bg-slate-200">
             <div className="hero-content flex-col lg:flex-row md:gap-8 max-w-screen-lg mx-auto">
               <p className="p-8  md:text-2xl font-bold  text-gray-600">
-                Get YOUR FREE college or university PROFILE on AcademicJobs with
+                Get YOUR FREE college or university PROFILE on TeachingJobs with
                 your first job listing!
               </p>
               <Link
@@ -238,7 +238,7 @@ export default function Page() {
                   'Priority Employer Branding'
                 </h2>
                 <p className="pt-6 font-bold">
-                  When you have a job listing on AcademicJobs
+                  When you have a job listing on TeachingJobs
                 </p>
 
                 {/* <a href="https://jobelephant.com/what-we-do/college-university/" className="btn mt-8 bg-[#265882] text-white">
@@ -278,14 +278,14 @@ export default function Page() {
                   and their amazing staff.
                 </h1>
                 <p className="pt-6 italic">
-                  "AcademicJobs have partnered with JobElephant to give amazing
+                  "TeachingJobs have partnered with JobElephant to give amazing
                   ‘job listings exposure’ to their higher education clients,
                   which in turn produces great academic and staff candidates. If
                   you are a university or college looking for a great
                   advertising partner, then JobElephant is a brilliant choice.""
                 </p>
                 <p className="pt-6 font-bold">
-                  Jarrod Kanizay C.E.O - AcademicJobs.com
+                  Jarrod Kanizay C.E.O - TeachingJobs.com
                 </p>
                 {/* <a href="#pricing-table-cards" className="btn btn-aj">
                     Post a Job

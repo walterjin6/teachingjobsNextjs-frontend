@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   },
   description:
     'In Post Doc, you will have the opportunity to work with talented and dedicated staff, students, alumni, and stakeholders, contribute to the vision and mission.  ',
-  keywords: 'Academic Postdoc Jobs, Postdoc AcademicJobs',
+  keywords: 'Academic Postdoc Jobs, Postdoc TeachingJobs',
 };
 export default function myPage() {
   return (
@@ -25,14 +25,14 @@ export default function myPage() {
           <div className="">
             <p className="px-7 mb-4 mt-1">
               Discover your ideal postdoctoral position through the world’s best
-              job board! At Academic Jobs, we offer postdoc opportunities at the
+              job board! At Teaching Jobs, we offer postdoc opportunities at the
               most prestigious universities worldwide. Engage with domestic and
               international partners, collaborate with brilliant minds, and
               access state-of-the-art facilities and resources in a fulfilling
               postdoctoral experience.
             </p>
             <p className="px-7 md:flex hidden">
-              The No.1 job board for academics, Academic Jobs, offers a
+              The No.1 job board for academics, Teaching Jobs, offers a
               comprehensive list of opportunities to shape the trajectory of
               your career. We carefully categorise top Higher Ed fellowships,
               scholarships, and programs, making it your go-to resource for
@@ -55,7 +55,7 @@ export default function myPage() {
               Academic Postdoc Jobs
               </h1>
               <p>
-              View all of the Post Doc jobs that respectable universities now have available on AcademicJobs. Our academic institutions are constantly seeking the greatest, you can apply for fantastic global academic Post Doc positions through our website.</p> */}
+              View all of the Post Doc jobs that respectable universities now have available on TeachingJobs. Our academic institutions are constantly seeking the greatest, you can apply for fantastic global academic Post Doc positions through our website.</p> */}
       <JobSearchBox q="postdoc" forceClass="my-6" />
 
       <section className="jobs_grid job_post_search_container">

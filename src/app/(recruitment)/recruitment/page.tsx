@@ -3,13 +3,13 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import PricingTable2 from '@/components/PricingTable2';
 export const metadata: Metadata = {
-  title: 'Academic Jobs Recruitment', //Option 1 replaces the %s in layout.tsx
+  title: 'Teaching Jobs Recruitment', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'We make the job posting process quick and easy, Academic Jobs is the best  recruitment platform for higher education institutions to discover academics. ',
-  keywords: 'Academic Jobs Recruitment, Academic Recruitment Platform',
+    'We make the job posting process quick and easy, Teaching Jobs is the best  recruitment platform for higher education institutions to discover academics. ',
+  keywords: 'Teaching Jobs Recruitment, Academic Recruitment Platform',
 };
 export default function myPage() {
   return (
@@ -32,7 +32,7 @@ export default function myPage() {
                     Join the Global No. 1 Academic Job Board & Community
                   </h1>
                   <h4 className="">
-                    Academic Jobs is the Premier Destination for Academic and
+                    Teaching Jobs is the Premier Destination for Academic and
                     University staff Recruitment
                   </h4>
                   <p className="py-6">
@@ -42,7 +42,6 @@ export default function myPage() {
                     we go above and beyond to help you achieve this.
                   </p>
                   <Link
-                   
                     className="btn btn-aj"
                     href="/post-a-job"
                     // href="https://www.postmyjob.online/academicjobs-job-portal"
@@ -64,7 +63,7 @@ export default function myPage() {
           <div className="text-col-2 rounded-2xl shadow-lg pb-12 px-auto">
             <p className="max-w-xl mx-auto ">
               Leverage the power of the Global No. 1 Academic Job Board for
-              unparalleled access to top-tier academic talent. Academic Jobs
+              unparalleled access to top-tier academic talent. Teaching Jobs
               simplifies your recruitment process, offering an affordable,
               efficient way to find academics and university support staff.
             </p>
@@ -133,7 +132,7 @@ export default function myPage() {
                   Customer Service with Innovative AI Recruitment
                 </h2>
                 <p>
-                  Revolutionize your hiring process with Academic Jobs. Our
+                  Revolutionize your hiring process with Teaching Jobs. Our
                   platform combines genuine customer service with advanced AI
                   technology, making the recruitment experience efficient and
                   enjoyable.
@@ -199,7 +198,7 @@ export default function myPage() {
             <div className="card-body w-full">
               <h2 className="card-title">A whole new way to&nbsp;recruit</h2>
               <p className="max-w-screen-sm">
-                At Academic Jobs, we make connecting with a global pool of
+                At Teaching Jobs, we make connecting with a global pool of
                 qualified academics and support staff easier and more efficient.
                 By bringing back genuine customer service and leveraging the
                 power of AI, we create a pleasurable customer experience that
@@ -252,7 +251,7 @@ export default function myPage() {
             </h2>
             {/* <div className="text-col-2"> */}
             <p className="mb-4 text-center max-w-[500px] mx-auto">
-              Academic Jobs doesn't just find academics, we specialize in
+              Teaching Jobs doesn't just find academics, we specialize in
               finding the best candidates for Admin/Support roles in academia,
               Executive positions and HR specialists
             </p>
@@ -348,7 +347,7 @@ export default function myPage() {
                   Global Leading Admin & Staff Job Board
                 </h2>
                 <p>
-                  Academic Jobs shines as the #1&nbsp;Job Board in the World for
+                  Teaching Jobs shines as the #1&nbsp;Job Board in the World for
                   Admin and Staff positions in academia, renowned for connecting
                   top-tier administrative professionals with leading
                   institutions.
@@ -433,7 +432,7 @@ export default function myPage() {
               ></path>
             </svg>
             <span>
-              ​​Try out Academic Jobs today, not because we are number 1 but for
+              ​​Try out Teaching Jobs today, not because we are number 1 but for
               the best customer service and support you will ever experience.
             </span>
             <div>
@@ -446,7 +445,7 @@ export default function myPage() {
         <div className="bg-teal-100 mb-8 mt-16 py-8 px-4">
           <div className="container mx-auto">
             <h2 className="text-5xl font-bold mb-8 text-sky-600">
-              Why Experience Academic Jobs?
+              Why Experience Teaching Jobs?
             </h2>
             <div className="text-col-2">
               <p className="mb-4">
@@ -454,7 +453,7 @@ export default function myPage() {
                   Discover the Ease of Academic Recruitment with the Global
                   Leading Job Board
                 </blockquote>
-                Choosing Academic Jobs means partnering with the Global foremost
+                Choosing Teaching Jobs means partnering with the Global foremost
                 academic job board, renowned for its simplicity, affordability,
                 and unparalleled access to a global talent pool. As the premier
                 destination for academic recruitment, we cater specifically to
@@ -468,7 +467,7 @@ export default function myPage() {
                 candidates. With options like unlimited job postings for two or
                 three months at competitive prices, we make it feasible and
                 highly advantageous for you to connect with the best minds in
-                academia. Academic Jobs stands out for its extensive reach and
+                academia. Teaching Jobs stands out for its extensive reach and
                 commitment to making recruitment a smooth and rewarding
                 experience.
               </p>
@@ -477,7 +476,7 @@ export default function myPage() {
                 Support
               </blockquote>
               <p className="mb-4">
-                At Academic Jobs, we redefine the recruitment experience. By
+                At Teaching Jobs, we redefine the recruitment experience. By
                 integrating genuine customer service with advanced AI
                 technology, our platform offers a fresh and efficient approach
                 to connecting with qualified academics worldwide. This synergy
@@ -494,7 +493,7 @@ export default function myPage() {
               </p>
               <p className="mb-4">
                 Our suite of tools simplifies listing and managing job posts,
-                enhancing your talent acquisition strategy. Choose Academic Jobs
+                enhancing your talent acquisition strategy. Choose Teaching Jobs
                 not just for our prestigious status but for an unmatched level
                 of customer service and support, ensuring you find the right
                 academic talent effortlessly and efficiently.
@@ -512,10 +511,19 @@ export default function myPage() {
           </h3>
 
           <p className="text-center p-4">
-            <a className="link link-warning hover:text-orange-500 font-bold" href="/recruitment/science-recruitment">Science Recruitment</a> 
-            <a className="link link-warning hover:text-orange-500 mx-4 font-bold" href="/recruitment/research-recruitment/">Research Recruitment</a>
-            </p>
-
+            <a
+              className="link link-warning hover:text-orange-500 font-bold"
+              href="/recruitment/science-recruitment"
+            >
+              Science Recruitment
+            </a>
+            <a
+              className="link link-warning hover:text-orange-500 mx-4 font-bold"
+              href="/recruitment/research-recruitment/"
+            >
+              Research Recruitment
+            </a>
+          </p>
         </section>
       </main>
     </>

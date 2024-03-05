@@ -49,7 +49,7 @@ const JobDetailPage = async ({ params, searchParams }) => {
   if (!job) notFound();
   const {
     employer_id,
-    id: jobId,   
+    id: jobId,
     title,
     location,
     activation_date,
@@ -60,16 +60,13 @@ const JobDetailPage = async ({ params, searchParams }) => {
     clientType,
     headlineOnly,
     ranking,
-    employer: {
-      company_name,
-      logo,
-    }
+    employer: { company_name, logo },
   } = job.data;
   console.log('ranking==============', ranking);
   const subject = encodeURIComponent('You might like this job posting!');
   const bccEmail = encodeURIComponent('post@academicjobs.com');
   const bodyEmail = encodeURIComponent(
-    `I came across this job posting on AcademicJobs and thought you might be interested: https://www.academicjobs.com/jobs/myjob/${jobId}`
+    `I came across this job posting on TeachingJobs and thought you might be interested: https://www.academicjobs.com/jobs/myjob/${jobId}`
   );
 
   let bgColor = 'bg-white';
@@ -93,7 +90,9 @@ const JobDetailPage = async ({ params, searchParams }) => {
                 >
                   <Image
                     className="w-full "
-                    src={`https://academicjobs.s3.amazonaws.com/img/university-logo/${logo || 'favicon.jpg'}`}
+                    src={`https://academicjobs.s3.amazonaws.com/img/university-logo/${
+                      logo || 'favicon.jpg'
+                    }`}
                     alt={company_name}
                     width={300}
                     height={200}
@@ -203,13 +202,13 @@ const JobDetailPage = async ({ params, searchParams }) => {
                         src="/academic-jobs-heart.svg"
                         width={90}
                         height={90}
-                        alt="Academic Jobs Heart"
+                        alt="Teaching Jobs Heart"
                       />
                       <Image
                         src="/love-messages/i-love-this-job.svg"
                         width={90}
                         height={90}
-                        alt="Academic Jobs Heart"
+                        alt="Teaching Jobs Heart"
                         className="mr-20"
                       />
                       <div className="grow">
@@ -264,7 +263,7 @@ const JobDetailPage = async ({ params, searchParams }) => {
       </section>
       {new Date(expiration_date) < new Date() && expiration_date && (
         <div className="bg-opacity-50 bg-red-500 text-white text-4xl px-8 py-8 rounded-full absolute top-[200px] left-[50%] transform -translate-x-1/2 translate-y-1/2 rotate-45 skew-y-0">
-          Job Fulfilled By AcademicJobs.com
+          Job Fulfilled By TeachingJobs.com
         </div>
       )}
     </>

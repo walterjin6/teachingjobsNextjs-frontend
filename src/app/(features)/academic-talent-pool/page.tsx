@@ -8,7 +8,7 @@ import TalentPoolForm from '@/components/forms/TalentPoolForm';
 export const metadata: Metadata = {
   title: 'Academic Talent Pool', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'Join our exclusive Talent Pool to connect and collaborate with top employers and academics worldwide. Sign up today to explore exciting job opportunities, gain industry exposure, and fast-track your career. Perfect for academics seeking to elevate their career paths.',
@@ -22,34 +22,34 @@ export default function Page() {
   return (
     <main className="content-grid">
       <div className="bg-slate-200 mb-8 full-width">
-      <h1 className="mb-0">
-        {/* Unlock Your Academic Potential!  */}
-        Join Our Talent Pool Today!
-      </h1>
+        <h1 className="mb-0">
+          {/* Unlock Your Academic Potential!  */}
+          Join Our Talent Pool Today!
+        </h1>
 
-      <h3 className="">
-        We are looking for people who want to connect and collaborate!
-      </h3>
-      <div className="text-2-cols mb-6">
-        <p className="mb-6">
-          Our Talent Pool network is a rich community to innovate, and
-          collaborate. We're fostering a dynamic community of passionate
-          academics dedicated to sharing ideas, sparking innovation, and driving
-          academic excellence. Our platform is more than a mere network; it's a
-          thriving space for like-minded scholars to engage, motivate, and forge
-          lasting professional connections.
-        </p>
-        <p>
-          Dive into Academic Jobs' Talent Pool for tailored academic
-          opportunities. Be the first to discover roles that perfectly match
-          your skills and interests. Select your preferred areas, and receive
-          notifications about positions that align with your unique academic
-          profile. Seize the opportunity to find your ideal academic role and
-          become part of a community that truly values your expertise and
-          vision.
-        </p>
+        <h3 className="">
+          We are looking for people who want to connect and collaborate!
+        </h3>
+        <div className="text-2-cols mb-6">
+          <p className="mb-6">
+            Our Talent Pool network is a rich community to innovate, and
+            collaborate. We're fostering a dynamic community of passionate
+            academics dedicated to sharing ideas, sparking innovation, and
+            driving academic excellence. Our platform is more than a mere
+            network; it's a thriving space for like-minded scholars to engage,
+            motivate, and forge lasting professional connections.
+          </p>
+          <p>
+            Dive into Teaching Jobs' Talent Pool for tailored academic
+            opportunities. Be the first to discover roles that perfectly match
+            your skills and interests. Select your preferred areas, and receive
+            notifications about positions that align with your unique academic
+            profile. Seize the opportunity to find your ideal academic role and
+            become part of a community that truly values your expertise and
+            vision.
+          </p>
 
-        {/* Option 2
+          {/* Option 2
         Elevate your academic journey by becoming part of our vibrant community.
       We're on the lookout for individuals eager to connect, collaborate, and
       share their passions. Joining our talent pool offers you a unique space to
@@ -59,8 +59,8 @@ export default function Page() {
       Join our talent pool to stay informed about exciting opportunities
       tailored to your interests. Don't miss out – take the first step towards
       academic excellence by connecting with us today! */}
-        {/* Suggested new text */}
-      </div>
+          {/* Suggested new text */}
+        </div>
       </div>
 
       <div className="flex flex-col lg:flex-row lg:gap-8">
@@ -147,7 +147,7 @@ export default function Page() {
       <h2 className="underline-full">
         Power-up Your Academic Potential: Join Our Dynamic Talent Pool Today!
       </h2>
-     
+
       {/* Cards */}
       <h2 className="text-center my-8">Join the community</h2>
       {/* <div className="container mx-auto"> */}
@@ -266,141 +266,246 @@ export default function Page() {
         </div>
       </ul>
       {/* testimonial */}
-<div className="bg-sky-100 rounded-3xl mt-8">
+      <div className="bg-sky-100 rounded-3xl mt-8">
         <div className="testimonial max-w-screen-xl mx-auto">
-  <h2 className="pt-8">Hear from our Academics </h2>
-  
-  <p className="">Free to Join. Get Global Academic Exposure. Increase your academic earning</p>
-  <div className="flex flex-wrap">
+          <h2 className="pt-8">Hear from our Academics </h2>
 
+          <p className="">
+            Free to Join. Get Global Academic Exposure. Increase your academic
+            earning
+          </p>
+          <div className="flex flex-wrap">
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/05/image-6.jpg"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
 
-    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/05/image-6.jpg" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Prof Sarah</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★</span>
-                    <p className="font-bold">Clinical, Health</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“It is a great privilege for me to be part of the AcademicJobs Faculty. Moreover, AcademicJobs is always expanding with new ideas and educational opportunities.”</p>
-           </div>
-    </div>
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Prof Sarah</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★
+                  </span>
+                  <p className="font-bold">Clinical, Health</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “It is a great privilege for me to be part of the TeachingJobs
+                  Faculty. Moreover, TeachingJobs is always expanding with new
+                  ideas and educational opportunities.”
+                </p>
+              </div>
+            </div>
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/05/image-2.jpg"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
 
-    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/05/image-2.jpg" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Prof Sam</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★★</span>
-                    <p className="font-bold">Computer Science</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“AcademicJobs has revoluntionised the way I worked from home and how I connected with universities around the world”</p>
-           </div>
-    </div>
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Prof Sam</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★★
+                  </span>
+                  <p className="font-bold">Computer Science</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “TeachingJobs has revoluntionised the way I worked from home
+                  and how I connected with universities around the world”
+                </p>
+              </div>
+            </div>
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/06/image3.png"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
 
-    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/06/image3.png" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Prof Hayley</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★</span>
-                    <p className="font-bold">Social Sciences</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“It is a great honor to be part of the AcademicJobs. It has been an intense academic experience for me as a lecturer, AcademicJobs is attracting great and highly-motivated lecturers.”</p>
-           </div>
-    </div>
-    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/06/image8.png" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Senior Prof John</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★★</span>
-                    <p className="font-bold">Business</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“I am very pleased to have been part of the AcademicJobs and I particularly enjoyed working with many reputable universities from many different countries.”</p>
-           </div>
-    </div>
-    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/06/image5.png" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Assoc Prof Ben</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★</span>
-                    <p className="font-bold">Psychology</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“The AcademicJobs module on human cognition was an excellent opportunity for me to do my best to draw them to our wonderful subspeciality of human cognition. I strongly recommend it!”</p>
-           </div>
-    </div>
-    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/05/image-4.jpg" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Dr Elisa</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★★</span>
-                    <p className="font-bold">Arts & Humanities</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“It is a great honor to be part of the AcademicJobs. Interactive is what makes the difference and a lot of time is given for each issue. I feel privileged for the interactive experience I had with AcademicJobs. Thank you all!”</p>
-           </div>
-    </div>
-    <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/05/image.jpg" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Dr Kylie</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★★</span>
-                    <p className="font-bold">Mathematics</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“Being part of AcademicJobs gives me the opportunity to really teach as interactively as I wish and offers a unique feedback from the lecture class. It is challenging and stimulating at the same time. Thank you AcademicJobs!”</p>
-           </div>
-    </div>   <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
-         <div className="flex gap-4">
-          <div className="uniiq-face rounded-full w-1/3"><Image width={180}
-                height={170} src="https://uniiq.com/wp-content/uploads/2021/06/image7.png" alt="Prof Sarah" className=" rounded-full items mt-8"></Image></div>
-        
-          <div className="uniiq-user-name">
-            <h3 className="mb-0">Prof Amanda</h3>
-            <span className="fa fa-star checked text-[#e79d36]">★★★★</span>
-                    <p className="font-bold">Physical Sciences</p>
-          </div>
-        </div>
-        <div className="uniiq-user-quote mt-4">
-          <p>“I am a new member to AcademicJobs. It has been a wonderful experience! One of the features of AcademicJobs is the variety of participants from all over the world. It was a pleasure and a privilege to teach (and learn) from lecturers from around the world.”</p>
-           </div>
-    </div>
-  
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Prof Hayley</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★
+                  </span>
+                  <p className="font-bold">Social Sciences</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “It is a great honor to be part of the TeachingJobs. It has
+                  been an intense academic experience for me as a lecturer,
+                  TeachingJobs is attracting great and highly-motivated
+                  lecturers.”
+                </p>
+              </div>
+            </div>
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/06/image8.png"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
 
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Senior Prof John</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★★
+                  </span>
+                  <p className="font-bold">Business</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “I am very pleased to have been part of the TeachingJobs and I
+                  particularly enjoyed working with many reputable universities
+                  from many different countries.”
+                </p>
+              </div>
+            </div>
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/06/image5.png"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
 
-  </div>
-</div>
-</div>
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Assoc Prof Ben</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★
+                  </span>
+                  <p className="font-bold">Psychology</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “The TeachingJobs module on human cognition was an excellent
+                  opportunity for me to do my best to draw them to our wonderful
+                  subspeciality of human cognition. I strongly recommend it!”
+                </p>
+              </div>
+            </div>
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/05/image-4.jpg"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
+
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Dr Elisa</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★★
+                  </span>
+                  <p className="font-bold">Arts & Humanities</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “It is a great honor to be part of the TeachingJobs.
+                  Interactive is what makes the difference and a lot of time is
+                  given for each issue. I feel privileged for the interactive
+                  experience I had with TeachingJobs. Thank you all!”
+                </p>
+              </div>
+            </div>
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/05/image.jpg"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
+
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Dr Kylie</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★★
+                  </span>
+                  <p className="font-bold">Mathematics</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “Being part of TeachingJobs gives me the opportunity to really
+                  teach as interactively as I wish and offers a unique feedback
+                  from the lecture class. It is challenging and stimulating at
+                  the same time. Thank you TeachingJobs!”
+                </p>
+              </div>
+            </div>{' '}
+            <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-4">
+              <div className="flex gap-4">
+                <div className="uniiq-face rounded-full w-1/3">
+                  <Image
+                    width={180}
+                    height={170}
+                    src="https://uniiq.com/wp-content/uploads/2021/06/image7.png"
+                    alt="Prof Sarah"
+                    className=" rounded-full items mt-8"
+                  ></Image>
+                </div>
+
+                <div className="uniiq-user-name">
+                  <h3 className="mb-0">Prof Amanda</h3>
+                  <span className="fa fa-star checked text-[#e79d36]">
+                    ★★★★
+                  </span>
+                  <p className="font-bold">Physical Sciences</p>
+                </div>
+              </div>
+              <div className="uniiq-user-quote mt-4">
+                <p>
+                  “I am a new member to TeachingJobs. It has been a wonderful
+                  experience! One of the features of TeachingJobs is the variety
+                  of participants from all over the world. It was a pleasure and
+                  a privilege to teach (and learn) from lecturers from around
+                  the world.”
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       {/* </div> */}
       {/* </div> */}
     </main>

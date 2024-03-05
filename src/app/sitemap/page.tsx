@@ -24,11 +24,11 @@ import USA from '@/components/topUnis/USA';
 export const metadata: Metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
-    absolute: '  Sitemap Academic Jobs', //Option 2 overrides the title in layout.tsx
+    absolute: '  Sitemap Teaching Jobs', //Option 2 overrides the title in layout.tsx
   },
   description:
     'Discover academic job board sitemap committed to equity and accessibility, with thousands of jobs to explore ',
-  keywords: 'Sitemap Academic Jobs, AcademicJobs Sitemap',
+  keywords: 'Sitemap Teaching Jobs, TeachingJobs Sitemap',
 };
 export default function myPage() {
   return (
@@ -36,7 +36,7 @@ export default function myPage() {
       <div className="w-full h-full text-2xl pd-1 space-y-6">
         <div className="blurb text-left py-8 text-2xl">
           <h1 className="bg-[#e79d36] text-white rounded-3xl font-bold mb-2 text-lg md:text-2xl px-7">
-            AcademicJobs Sitemap
+            TeachingJobs Sitemap
           </h1>
           <div className="newLine mb-4">
             <p className="font-semibold"></p>
@@ -417,8 +417,7 @@ export default function myPage() {
         <div className="cate-group section23 ">
           <div className="widget__text-block">
             <div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-8 py-2 px-7">
-           
-            <USA heading="UNITED STATES" />
+              <USA heading="UNITED STATES" />
 
               <div className="column">
                 <ul className="">
@@ -917,7 +916,7 @@ export default function myPage() {
         </div>
 
         <h2 className="py-3 px-7 bg-[#e79d36] text-white rounded-3xl font-bold mb-2 text-xl md:text-xl lg:text-xl text-transform: uppercase">
-          Academic Jobs australia
+          Teaching Jobs australia
         </h2>
         <div className=" mt-[1rem] pb-8">
           <ul className="faculty-container flex flex-wrap gap-6 items-center justify-center text-[#e79d36] ">
@@ -963,7 +962,7 @@ export default function myPage() {
         </div>
 
         <h1 className="py-3 px-7 bg-[#e79d36] text-white rounded-3xl font-bold mb-2 text-xl md:text-xl lg:text-xl text-transform: uppercase">
-          usa Academic Jobs Online
+          usa Teaching Jobs Online
         </h1>
         <div className=" mt-[1rem] pb-8">
           <ul className="faculty-container flex flex-wrap gap-6 items-center justify-center text-[#e79d36] ">

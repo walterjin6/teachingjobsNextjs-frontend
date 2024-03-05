@@ -13,12 +13,12 @@ export const metadata: Metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
     absolute:
-      '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+      '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   },
   description:
     'Discover academic jobs at all universities today! Explore your next academic positions through visiting our higher ed jobs, with new academic jobs added daily.',
   keywords:
-    'Academic Jobs. Higher Ed Jobs, Academic positions, University Jobs, College Jobs',
+    'Teaching Jobs. Higher Ed Jobs, Academic positions, University Jobs, College Jobs',
 };
 
 export default async function myPage() {
@@ -52,7 +52,7 @@ export default async function myPage() {
                   height={170}
                   src="https://academicjobs.s3.amazonaws.com/img/_misc/JobElephantClientCenter.jpg"
                   className="rounded-3xl mt-4 bg-white border-2 border-[#265882] items-center justify-center mx-auto"
-                  alt="AcademicJobs Job Elephant Client Center"
+                  alt="TeachingJobs Job Elephant Client Center"
                 />
               </a>
             </div>
@@ -200,7 +200,7 @@ export default async function myPage() {
                       width={1280}
                       height={380}
                       src="/academic-job-postings/university-of-sydney.jpg"
-                      alt="Top Academic Jobs Australia"
+                      alt="Top Teaching Jobs Australia"
                       className="h-[5rem]"
                     />
                   </figure>
@@ -297,7 +297,7 @@ export default async function myPage() {
               Academic&nbsp;Awards 2023'&nbsp;NOW
             </Link>
           </p> */}
-        <h2 className="underline-full">Top Academic Jobs Today</h2>
+        <h2 className="underline-full">Top Teaching Jobs Today</h2>
         <div className="cate-group section23 ">
           <div className="widget__text-block">
             {/* <div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-4 py-2 px-7 ">
@@ -1388,7 +1388,7 @@ export default async function myPage() {
               <Link href="/ai-recruitment">AI Recruitment</Link>
             </li>
             <li>
-              <Link href="/about">About Academic Jobs</Link>
+              <Link href="/about">About Teaching Jobs</Link>
             </li>
             <li>
               <Link href="/recruitment">Recruitment Assistance</Link>

@@ -6,11 +6,12 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Worlds Best AI Recruitment Platform', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'Academic Jobs is the leading AI Recruitment Platform specializing in helping Higher Education Institutions, Research & Development (R&D) Industries, and many other sectors find candidates with our specialized AI tools that significantly enhance the job posting process..',
-  keywords: 'AI Recruitment Platform, AI Recruitment, Number 1 AI Recruitment Platform',
+    'Teaching Jobs is the leading AI Recruitment Platform specializing in helping Higher Education Institutions, Research & Development (R&D) Industries, and many other sectors find candidates with our specialized AI tools that significantly enhance the job posting process..',
+  keywords:
+    'AI Recruitment Platform, AI Recruitment, Number 1 AI Recruitment Platform',
 };
 export default function myPage() {
   return (
@@ -28,16 +29,19 @@ export default function myPage() {
             />
             <div>
               <h1 className="text-4xl font-bold text-aj">
-                No. 1 AI Recruitment Platform for Academic Jobs & Higher
+                No. 1 AI Recruitment Platform for Teaching Jobs & Higher
                 Education Positions
               </h1>
               <p className="py-6">
-                Academic Jobs is the leading AI Recruitment Platform
+                Teaching Jobs is the leading AI Recruitment Platform
                 specializing in helping Higher Education Institutions, Research
                 & Development (R&D) Industries, and many other sectors find the
                 right candidate for the job.
               </p>
-              <Link className="btn btn-aj" href="/ai-recruitment/ai-job-posting-optimization">
+              <Link
+                className="btn btn-aj"
+                href="/ai-recruitment/ai-job-posting-optimization"
+              >
                 Learn more about AI
               </Link>
             </div>
@@ -201,7 +205,10 @@ export default function myPage() {
               job.
             </p>
             <div className="card-actions justify-end">
-              <Link href="/ai-recruitment/ai-job-posting-optimization" className="btn btn-aj">
+              <Link
+                href="/ai-recruitment/ai-job-posting-optimization"
+                className="btn btn-aj"
+              >
                 Learn about AI Optimization
               </Link>
             </div>
@@ -263,7 +270,10 @@ export default function myPage() {
             Word, PDF & JPEG). Coming soon!
           </span>
           <div>
-            <Link href="/ai-recruitment/ai-resume-extraction" className="btn btn-sm btn-aj">
+            <Link
+              href="/ai-recruitment/ai-resume-extraction"
+              className="btn btn-sm btn-aj"
+            >
               More about Resume Parsing
             </Link>
           </div>
@@ -271,7 +281,7 @@ export default function myPage() {
 
         <div className="mb-16 max-w-lg mx-auto">
           <h3 className="mb-4">
-            Choose Academic Jobs and Gain the Superpowers that AI-Enhanced
+            Choose Teaching Jobs and Gain the Superpowers that AI-Enhanced
             Recruitment&nbsp;Delivers
           </h3>
           <li>
@@ -290,7 +300,7 @@ export default function myPage() {
       </section>
       <div className="hero min-h-fit bg-orange-100 mb-8">
         <div className="container mx-auto text-center py-8 px-4">
-          <h2 className="text-5xl font-bold">Why Choose Academic Jobs?</h2>
+          <h2 className="text-5xl font-bold">Why Choose Teaching Jobs?</h2>
           <p className="py-6 max-w-2xl mx-auto">
             Elevate your job postings with our intelligent analytics. Our
             platform transforms listings into data-rich resources, offering

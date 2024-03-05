@@ -4,11 +4,10 @@ import Link from 'next/link';
 import HeroBanner from '@/components/HeroBanner';
 import Australia from '@/components/topUnis/Australia';
 
-
 export const metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
-    absolute: "The Best Universities to Work for in Australia", //Option 2 overrides the title in layout.tsx
+    absolute: 'The Best Universities to Work for in Australia', //Option 2 overrides the title in layout.tsx
   },
   description:
     'Browse through our comprehensive list of universities from around the world and find the best one for you. Whether you want to study in Australia, Canada, UK, USA, or anywhere else, we have the information you need to make an informed decision.',
@@ -23,50 +22,53 @@ function countryRegionPlural() {
 }
 export default function myPage() {
   return (
-   
-    
-      <main>
-        {/* Hero banner */}
-        <section>
-          <div className="hero max-h-fit bg-slate-200 py-8 mx-auto">
-            <div className="container mx-auto">
-              <div className="hero-content flex-col xl:flex-row gap-8 mx-auto max-w-full">
-                <Image width={1280}
-                height={380 }
-                  src="/academic-job-postings/university-of-sydney.jpg"
-                  className="object-none h-60 w-96  rounded-xl shadow-2xl mb-8 lg:mb-0"
-                  alt="university of sydney"
-                />
-                <div>
-                  <h1 className="text-3xl font-bold text-aj">
-                  Find the best Australian universities to work for here...
-Use university rankings to search for jobs in higher education.
+    <main>
+      {/* Hero banner */}
+      <section>
+        <div className="hero max-h-fit bg-slate-200 py-8 mx-auto">
+          <div className="container mx-auto">
+            <div className="hero-content flex-col xl:flex-row gap-8 mx-auto max-w-full">
+              <Image
+                width={1280}
+                height={380}
+                src="/academic-job-postings/university-of-sydney.jpg"
+                className="object-none h-60 w-96  rounded-xl shadow-2xl mb-8 lg:mb-0"
+                alt="university of sydney"
+              />
+              <div>
+                <h1 className="text-3xl font-bold text-aj">
+                  Find the best Australian universities to work for here... Use
+                  university rankings to search for jobs in higher education.
+                </h1>
 
-                  </h1>
-            
-                  <p className="py-1">
-                  All uni jobs in Australia can be found through the No.1 job board, Academic Jobs. The 'find employers' page helps you explore all academic careers and current job openings, at the world’s top colleges and universities.</p>
-              <p className="py-1">
-              Our employer rankings help you to find amazing academic positions at the university of your choice. You can see details about employers, like their mission, vision, values, history, achievements, and culture.
-              </p>
-              <p className="py-1">
-              Use the Australian university rankings in your search for the perfect academic job…</p>
-                  <div className="card-actions flex ">
-                <Link href="/academic-talent-pool" className="btn btn-aj">
-                  Join our Talent Pool
-                </Link>
-             
-              </div>
-                
-                 
+                <p className="py-1">
+                  All uni jobs in Australia can be found through the No.1 job
+                  board, Teaching Jobs. The 'find employers' page helps you
+                  explore all academic careers and current job openings, at the
+                  world’s top colleges and universities.
+                </p>
+                <p className="py-1">
+                  Our employer rankings help you to find amazing academic
+                  positions at the university of your choice. You can see
+                  details about employers, like their mission, vision, values,
+                  history, achievements, and culture.
+                </p>
+                <p className="py-1">
+                  Use the Australian university rankings in your search for the
+                  perfect academic job…
+                </p>
+                <div className="card-actions flex ">
+                  <Link href="/academic-talent-pool" className="btn btn-aj">
+                    Join our Talent Pool
+                  </Link>
                 </div>
               </div>
             </div>
           </div>
-        </section>
-       
+        </div>
+      </section>
 
-        <div className="md:flex bg-gray-800 shadow-xl rounded-2xl mb-4 max-w-screen-lg mx-2 md:auto mt-4 p-4 gap-8 md:mx-auto ">
+      <div className="md:flex bg-gray-800 shadow-xl rounded-2xl mb-4 max-w-screen-lg mx-2 md:auto mt-4 p-4 gap-8 md:mx-auto ">
         <Image
           className=" rounded-xl md:w-2/3  "
           width={880}
@@ -75,75 +77,61 @@ Use university rankings to search for jobs in higher education.
           src="https://academicjobs.s3.amazonaws.com/img/_misc/maxresdefault.png"
         />
 
-<div className="md:w-1/3">
-<div className="md:grid  flex gap-4 text-gray-200 mt-3">
-           
-
+        <div className="md:w-1/3">
+          <div className="md:grid  flex gap-4 text-gray-200 mt-3">
             {/* Card 2 */}
             <div className="md:flex  ">
-           
-            <div className="icon-ai ">
-           <p className="text-purple-500 font-bold px-2">
-           ✓
-           </p>
-           </div>
-           
+              <div className="icon-ai ">
+                <p className="text-purple-500 font-bold px-2">✓</p>
+              </div>
+
               <div className="items-center text-center">
-                <p className="text-md font-bold  ">
-                No. 1 Higher Ed Job Board
-                </p>
-             
+                <p className="text-md font-bold  ">No. 1 Higher Ed Job Board</p>
               </div>
             </div>
             {/* Card 3 */}
             <div className="md:flex ">
-          
-            <div className="icon-ai ">
-           <p className="text-purple-500 font-bold px-2">
-           ✓
-           </p>
-           </div>
-               
-         
+              <div className="icon-ai ">
+                <p className="text-purple-500 font-bold px-2">✓</p>
+              </div>
+
               <div className=" items-center text-center ">
                 <p className="text-md font-bold ">
-                Best Global Academic Talent Pool
+                  Best Global Academic Talent Pool
                 </p>
-            
               </div>
             </div>
 
- {/* Card 1 */}
- <div className=" md:flex ">
-           
-           <div className="icon-ai ">
-           <p className="text-purple-500 font-bold px-2">
-           ✓
-           </p>
-           </div>
-      
-         <div className=" items-center text-center">
-           <p className="text-md font-bold ">
-           A.I. Powered Applicant Matching
-           </p>
-                       </div>
-       </div>
+            {/* Card 1 */}
+            <div className=" md:flex ">
+              <div className="icon-ai ">
+                <p className="text-purple-500 font-bold px-2">✓</p>
+              </div>
 
-       {/* <Link href="/industry/recruitment"  className="text-md font-bold underline text-sky-500 mb-4 ">
+              <div className=" items-center text-center">
+                <p className="text-md font-bold ">
+                  A.I. Powered Applicant Matching
+                </p>
+              </div>
+            </div>
+
+            {/* <Link href="/industry/recruitment"  className="text-md font-bold underline text-sky-500 mb-4 ">
          See Industry Recruitment Information
            </Link> */}
 
-
             {/* End Cards */}
           </div>
-         
-              <Link href="/recruitment" className="btn  btn-aj ml-4 text-lg font-bold p-2 mt-4">
-               Post A Job
-              </Link>
-            </div>
-          </div>
-       
-              {/* <div className="bg-gradient-to-b to-white from-orange-100 m-8 rounded-3xl  max-w-screen-xl mx-auto">
+
+          <Link
+            href="/recruitment"
+            className="btn  btn-aj ml-4 text-lg font-bold p-2 mt-4"
+          >
+            Post A Job
+          </Link>
+        </div>
+      </div>
+
+      {/* <div className="bg-gradient-to-b to-white from-orange-100 m-8 rounded-3xl  max-w-screen-xl mx-auto">
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7 mt-4 mb-16">
 
                   <ul>
@@ -275,38 +263,28 @@ Use university rankings to search for jobs in higher education.
                   </ul>
                 </div>
               </div> */}
-<div className="content-grid">
-<Australia id="section1"  />
-</div>
-              <section>
-          <h3 className="container mx-auto text-center py-8 px-4 items-end">
-         {" "}
-            <Link
-              className="border rounded-3xl  p-4"
-              href="/employers/"
-            >
-              View All 
-            </Link>
-          </h3>
-        </section>
-        {/* Contact us CTA */}
-        <section className="container mx-auto px-4 mt-12">
-          
-        </section>
-    
-        <section>
-          <h3 className="container mx-auto text-center py-8 px-4 items-end">
-            If you're interested in a great experience while saving time &
-            money…{" "}
-            <Link
-              className="btn btn-aj"
-              href="https://postmyjob.online/"
-            >
-              Post a Job Today
-            </Link>
-          </h3>
-        </section>
-      </main>
-   
+      <div className="content-grid">
+        <Australia id="section1" />
+      </div>
+      <section>
+        <h3 className="container mx-auto text-center py-8 px-4 items-end">
+          {' '}
+          <Link className="border rounded-3xl  p-4" href="/employers/">
+            View All
+          </Link>
+        </h3>
+      </section>
+      {/* Contact us CTA */}
+      <section className="container mx-auto px-4 mt-12"></section>
+
+      <section>
+        <h3 className="container mx-auto text-center py-8 px-4 items-end">
+          If you're interested in a great experience while saving time & money…{' '}
+          <Link className="btn btn-aj" href="https://postmyjob.online/">
+            Post a Job Today
+          </Link>
+        </h3>
+      </section>
+    </main>
   );
-};
+}

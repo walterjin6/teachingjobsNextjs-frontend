@@ -30,7 +30,8 @@ export default function myPage() {
             <div className="container mx-auto">
               <div className="hero-content flex-col xl:flex-row gap-8 mx-auto max-w-full">
                 <Image
-                 width={1280} height={380}
+                  width={1280}
+                  height={380}
                   src="/academic-job-postings/asian-university.jpg"
                   className="object-none h-60 w-96  rounded-xl shadow-2xl mb-8 lg:mb-0"
                   alt="Asian University"
@@ -43,7 +44,7 @@ export default function myPage() {
 
                   <p className="py-1">
                     All uni roles in Asia can be found through the No.1 job
-                    board, Academic Jobs. The 'find employers' page helps you
+                    board, Teaching Jobs. The 'find employers' page helps you
                     explore all academic careers and current job openings, at
                     the world’s top colleges and universities.
                   </p>
@@ -75,7 +76,7 @@ export default function myPage() {
         </section>
 
         <div className=" m-8 mb-12 rounded-3xl max-w-screen-xl mx-auto">
-        <Asia id="section3" heading="" />
+          <Asia id="section3" heading="" />
         </div>
 
         <section>
@@ -103,7 +104,7 @@ export default function myPage() {
               ></path>
             </svg>
             <span>
-              ​​Try out Academic Jobs today, not because we are number 1 but for
+              ​​Try out Teaching Jobs today, not because we are number 1 but for
               the best customer service and support you will ever experience.
             </span>
             <div>

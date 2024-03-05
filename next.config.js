@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  env: {
   images: {
     domains: [
       'academicjobs.s3.amazonaws.com',
@@ -39,7 +40,7 @@ const nextConfig = {
         destination: '/student-jobs',
         permanent: true,
       },
-      
+
       {
         source: '/employer',
         destination: '/jobs-by-top-universities',
@@ -55,7 +56,7 @@ const nextConfig = {
         destination: '/jobs-by-top-universities',
         permanent: true,
       },
-      
+
       {
         source: '/Global/jobs-by-top-universities',
         destination: '/jobs-by-top-universities',

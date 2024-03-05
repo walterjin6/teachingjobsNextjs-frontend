@@ -57,8 +57,8 @@ export default function myPage() {
         <HeroBanner
           h1="Student Jobs on Campus"
           // h2=""
-          para1="Find the perfect student job near you through Academic Jobs. At Academic Jobs we offer the most exciting student jobs, for young professionals looking for some extra cash for the weekends. Our job listings offer great hourly rates, flexible hours, and access to many perks and opportunities."
-          para2="The No.1 job board for students, Academic Jobs, provides an extensive list of opportunities for the next step of your career, carefully sectioning the top jobs to find the best position for you!"
+          para1="Find the perfect student job near you through Teaching Jobs. At Teaching Jobs we offer the most exciting student jobs, for young professionals looking for some extra cash for the weekends. Our job listings offer great hourly rates, flexible hours, and access to many perks and opportunities."
+          para2="The No.1 job board for students, Teaching Jobs, provides an extensive list of opportunities for the next step of your career, carefully sectioning the top jobs to find the best position for you!"
           btnPrimaryText="Learn About Student Jobs"
           btnPrimaryURL="/student-jobs-on-campus"
           btnSecondaryText="Student FAQ"

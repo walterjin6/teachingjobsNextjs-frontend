@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   },
   description:
     'If you are looking for academic jobs online, you can browse through our job board to find the latest opportunities in this flexible and rewarding field.   ',
-  keywords: 'Academic Jobs Online. online positions',
+  keywords: 'Teaching Jobs Online. online positions',
 };
 export default function myPage() {
   return (

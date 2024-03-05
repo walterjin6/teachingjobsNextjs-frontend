@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description:
     'As an University admin and staff workers will have the opportunity to work with diverse and talented people, contribute to the academic excellence and innovation of your institution.  ',
   keywords:
-    'University Admin and Staff Jobs, Admin and Support Academic Jobs, Academic Staff Jobs, University Admin Jobs',
+    'University Admin and Staff Jobs, Admin and Support Teaching Jobs, Academic Staff Jobs, University Admin Jobs',
 };
 export default function myPage() {
   return (
@@ -26,15 +26,16 @@ export default function myPage() {
 
           <div className="">
             <p className="px-7 mb-4 mt-1">
-              Find all university staff jobs on academic jobs. Search University administration staff and support roles at the best universities.
+              Find all university staff jobs on academic jobs. Search University
+              administration staff and support roles at the best universities.
               Seek your perfect admin position through the world’s best job
-              board! At Academic Jobs we offer the most renowned Higher Ed jobs
+              board! At Teaching Jobs we offer the most renowned Higher Ed jobs
               at the top universities. Positions in admin will provide you with
               the chance to engage with some of the brightest minds, and use
               top-notch facilities and resources.
             </p>
             <p className="px-7 md:flex hidden">
-              The No.1 job board, Academic Jobs, provides an extensive list of
+              The No.1 job board, Teaching Jobs, provides an extensive list of
               opportunities for the future of your career, carefully sectioning
               the top admin jobs to find the best position for you!
             </p>
@@ -58,7 +59,9 @@ export default function myPage() {
               className={`pb-2 flex ${' md:break'} ${' font-bold text-gray-400'}`}
               key={key}
             >
-              <Link href={`/staff-jobs/${Name?.replace(/\s+/g, '-')}/`}>{Name}</Link>
+              <Link href={`/staff-jobs/${Name?.replace(/\s+/g, '-')}/`}>
+                {Name}
+              </Link>
             </li>
           ))}
         </ul>

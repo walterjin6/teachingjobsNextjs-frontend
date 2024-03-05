@@ -41,7 +41,7 @@ export default function myPage() {
 
                 <p className="py-1">
                   All university jobs in the Middle East can be found through
-                  the No.1 job board, Academic Jobs. The 'find employers' page
+                  the No.1 job board, Teaching Jobs. The 'find employers' page
                   helps you explore all academic careers and current job
                   openings, at the world’s top colleges and universities.
                 </p>
@@ -70,7 +70,7 @@ export default function myPage() {
       </section>
 
       <div className=" m-8 mb-12 rounded-3xl max-w-screen-xl mx-auto">
-      <ME heading="" />
+        <ME heading="" />
       </div>
 
       <section>
@@ -98,7 +98,7 @@ export default function myPage() {
             ></path>
           </svg>
           <span>
-            ​​Try out Academic Jobs today, not because we are number 1 but for
+            ​​Try out Teaching Jobs today, not because we are number 1 but for
             the best customer service and support you will ever experience.
           </span>
           <div>
