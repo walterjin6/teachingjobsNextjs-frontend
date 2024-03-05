@@ -13,7 +13,7 @@ const Footer = () => {
                   <li className='text-white font-bold text-xl pb-1 '>Navigation</li>
                   {/* <li><a className="footer-nav__link" href="/">Home</a></li> */}
                   <li><Link href="/">Home</Link></li>
-                  <li><Link href="/school-career-advice/">Career Advice</Link></li>                    
+                  {/* <li><Link href="/school-career-advice/">Career Advice</Link></li>                     */}
                   <li><Link href="/sitemap/">Site Map</Link></li>
              
               </ul>
@@ -35,9 +35,9 @@ const Footer = () => {
                   <li className='text-white font-bold text-xl pb-1 '>School</li>
               
                   <li ><Link href="/about/">About TJ</Link></li>
-                  <li  ><a target="_blank"  className="footer-nav__link" href="https://postmyjob.online/school-pricing/">Post a Job</a></li>
+                  <li  ><a target="_blank"  className="footer-nav__link" href="/post-a-job/">Post a Job</a></li>
                                        
-                                       <li  ><Link target="_blank"  href="/contact-us/">Contact Us</Link></li>
+                                       <li  ><Link   href="/contact-us/">Contact Us</Link></li>
                                       
                  
               </ul>

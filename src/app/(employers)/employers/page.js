@@ -30,13 +30,13 @@ export default function myPage() {
       {/* Hero banner */}
       <HeroBanner
         bgColorClass="bg-slate-200"
-        h1="Find the best universities and Schools to work for here..."
-        h2="Use School rankings to search for jobs in higher education."
-        para1="Search for higher ed career opportunities by School rankings worldwide on the number 1 Teaching job board. Discover Teaching positions at the world's top universities with current openings through our 'Top Universities' page."
+        h1="Find the best  Schools to work for here..."
+        h2="Use Top School to search for Teaching Jobs."
+        para1="Search for Teaching career opportunities by Schools on the number 1 Teaching job board. Discover Teaching positions at the top schools with current openings through our 'Top Schools' page."
         src="/employers/top-universities-world-wide.jpg"
         alt="People immersed in Teaching blogs at our vibrant Teaching Hub"
-        btnPrimaryText="Join our Talent Pool"
-        btnPrimaryURL="/talent-pool"
+        // btnPrimaryText="Join our Talent Pool"
+        // btnPrimaryURL="/talent-pool"
         reorder={false}
         imgRight={false}
       />
