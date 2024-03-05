@@ -25,14 +25,14 @@ export default function myPage() {
           <div className="">
             <p className="px-7 mb-4 mt-1">
               Seek your perfect PhD position through the world’s best job board!
-              At Academic Jobs we offer PhD positions at the most renowned
+              At Teaching Jobs we offer PhD positions at the most renowned
               universities across the globe. PhD opportunities will provide you
               with the chance to engage with partners domestically and
               internationally, work with some of the brightest minds, and use
               top-notch facilities and resources.
             </p>
             <p className="px-7 md:flex hidden">
-              The No.1 job board for academics, Academic Jobs, provides an
+              The No.1 job board for academics, Teaching Jobs, provides an
               extensive list of opportunities for the future of your career,
               carefully sectioning the top Higher Ed fellowships, scholarships,
               and programmes.

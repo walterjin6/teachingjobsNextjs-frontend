@@ -96,7 +96,7 @@ const Job = () => {
               data-title={title}
               rel=""
               onClick={() => {
-                let subject = `Application for ${title} position at ${company_name} from AcademicJobs.com`;
+                let subject = `Application for ${title} position at ${company_name} from TeachingJobs.com`;
                 if (how_to_apply.includes('@')) {
                   window.location.href = `mailto:${how_to_apply}?subject=${encodeURIComponent(
                     subject
@@ -134,11 +134,11 @@ const Job = () => {
         <div className="job-content">
           <div dangerouslySetInnerHTML={{ __html: description }} />
         </div>
-        <TalentPool  />
+        <TalentPool />
       </article>
       {new Date(expiration_date) < new Date() && expiration_date && (
         <div className="bg-opacity-50 bg-red-500 text-white text-4xl px-8 py-8 rounded-full absolute top-[200px] left-[50%] transform -translate-x-1/2 -translate-y-1/2 rotate-45 skew-y-0">
-          Job Fulfilled By AcademicJobs.com
+          Job Fulfilled By TeachingJobs.com
         </div>
       )}
     </div>

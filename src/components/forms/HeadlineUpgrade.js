@@ -243,14 +243,14 @@ const PostJobForm = ({
             <p className="mt-4">
               Fun Fact: The average time to Post a Job and fill out a form on
               the major Job Seeking platforms is 9 min or more. At
-              AcademicJobs.com, we make your life easier and save you time …
+              TeachingJobs.com, we make your life easier and save you time …
             </p>
             <ul>
               <li>Reducing Job Posting times to seconds rather than minutes</li>
               <li>
                 We do the heavy lifting for you (having your job already loaded)
               </li>
-              <li>Academic Jobs QUICK POSTS = ^ VIEWS = + APPLICANTS</li>
+              <li>Teaching Jobs QUICK POSTS = ^ VIEWS = + APPLICANTS</li>
             </ul>
           </div>
         </div>

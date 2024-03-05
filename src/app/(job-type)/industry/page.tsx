@@ -17,10 +17,10 @@ function countryRegionPlural() {
 export const metadata: Metadata = {
   title: 'Industry Jobs in Academia', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'Industry Jobs in Academia greatly improve the exerience of academics, Academic Jobs is the top Industry jobs platform, allowing higher education institutions to find the right people for their industries. ',
+    'Industry Jobs in Academia greatly improve the exerience of academics, Teaching Jobs is the top Industry jobs platform, allowing higher education institutions to find the right people for their industries. ',
   keywords: 'Industry Jobs in Academia, Academic Industry Platform',
 };
 export default function myPage() {
@@ -42,7 +42,7 @@ export default function myPage() {
             <div className="max-w-2xl">
               <h1 className="mb-5  text-white md:text-2xl text-2xl font-normal">
                 <span className="text-5xl font-bold text-[#e79d36]">
-                  Academic Jobs in Industry{' '}
+                  Teaching Jobs in Industry{' '}
                 </span>
                 <br />
                 The World’s #1 Job Board for connecting the brightest minds to

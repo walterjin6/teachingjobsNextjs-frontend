@@ -11,15 +11,13 @@ function countryRegionPlural() {
 }
 
 export const metadata: Metadata = {
-  title:
-    'The University Rankings', //Option 1 replaces the %s in layout.tsx
+  title: 'The University Rankings', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'AcademicJobs presents the University Rankings, based on employment for your academic job seeker needs.',
-  keywords:
-    'The University Rankings',
+    'TeachingJobs presents the University Rankings, based on employment for your academic job seeker needs.',
+  keywords: 'The University Rankings',
 };
 export default function myPage() {
   return (
@@ -263,7 +261,7 @@ export default function myPage() {
             </h2>
             <div className="text-col-2">
               <p className="mb-4">
-                Academic Jobs stands out as the {countryRegionPlural()} premier
+                Teaching Jobs stands out as the {countryRegionPlural()} premier
                 platform for Academic Rankings, celebrated for linking
                 students with valuable on-campus employment opportunities. Our
                 platform is meticulously crafted to meet the specific needs of
@@ -274,7 +272,7 @@ export default function myPage() {
                 roles. Whether its part-time positions or work-study
                 opportunities, we connect you with roles that enhance your
                 academic experience and provide practical work skills. Opt for
-                Academic Jobs for unrivaled access to the{' '}
+                Teaching Jobs for unrivaled access to the{' '}
                 {countryRegionPlural()} most sought-after Academicpositions in
                 academia.
               </p>

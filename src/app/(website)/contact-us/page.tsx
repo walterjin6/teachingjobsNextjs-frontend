@@ -6,12 +6,12 @@ import ContactUsForm from '@/components/forms/ContactUsForm';
 export const metadata: Metadata = {
   title: 'Contact Us', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'Contact our knowledgeable team today for assistance and information on our number 1 academic job board site in higher education and academia. ',
   keywords:
-    'Contact Us Academicjobs, Contact Academic Jobs, Academicjobs Contact',
+    'Contact Us Academicjobs, Contact Teaching Jobs, Academicjobs Contact',
 };
 export default function myPage() {
   return (
@@ -21,10 +21,10 @@ export default function myPage() {
           <h1 className="mt-8">Let’s Get Together!</h1>
           <h2 className="mt-4">
             Tell us what you need, and we will be straight back to you. At
-            Academic Jobs we make it easy for you!
+            Teaching Jobs we make it easy for you!
           </h2>
           <h4 className="mt-4 mb-0">
-            <span className="font-bold">Fun Fact: </span> AcademicJobs.com is
+            <span className="font-bold">Fun Fact: </span> TeachingJobs.com is
             the go-to job board in higher education, experiencing rapid growth
             with a larger audience and more job opportunities than any other.
             Join the success story that even has our mothers beaming with pride!

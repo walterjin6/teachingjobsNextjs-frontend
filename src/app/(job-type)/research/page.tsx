@@ -26,7 +26,7 @@ export default function myPage() {
           <div className="">
             <p className="px-7 mb-4 mt-1">
               Find your perfect research position through the world’s best job
-              board! At Academic Jobs we offer the most renowned research jobs
+              board! At Teaching Jobs we offer the most renowned research jobs
               at the top universities. A career as an academic researcher will
               provide you with the chance to engage with partners domestically
               and internationally, work with some of the brightest minds, and

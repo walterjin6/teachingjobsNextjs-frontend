@@ -10,7 +10,7 @@ import Stats from '@/components/Stats';
 export const metadata: Metadata = {
   title: 'Higher Ed Quick Job Post Technology', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'Discover Quick Job Post Technology: The game-changer in academic recruitment that lets universities and colleges post job vacancies in just 32 seconds! Embrace the future where efficiency meets innovation, transforming your hiring process and saving invaluable time. Revolutionize your recruitment strategy now!',
@@ -53,7 +53,7 @@ export default function Page() {
             academic vacancy on a job board. The cumbersome process of
             categorizing, and promoting job listings on various platforms such
             as Seek, Indeed, and <span className="uni-jobs">Uni</span>Jobs has
-            been dramatically simplified by AcademicJobs.
+            been dramatically simplified by TeachingJobs.
           </p>
           <p>
             Higher Ed Quick Job Post Technology addresses these inefficiencies
@@ -87,7 +87,7 @@ export default function Page() {
               <ul>
                 <li>
                   <strong>Instant Activation:</strong> Find and activate your
-                  headline listing on the Academic Jobs Website in seconds.
+                  headline listing on the Teaching Jobs Website in seconds.
                 </li>
                 <li>
                   <strong>Effortless Uploading:</strong> Upload your job listing

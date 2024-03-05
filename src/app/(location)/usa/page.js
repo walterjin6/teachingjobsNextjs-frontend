@@ -10,12 +10,12 @@ import USA from '@/components/topUnis/USA';
 
 export const metadata = {
   title: {
-    absolute: ' USA Academic Jobs Online',
+    absolute: ' USA Teaching Jobs Online',
   },
   description:
     'Search for academic jobs in USA colleges and apply to the top universities and institutions at USA college jobs with faculty, postdoc or staff roles and more. ',
   keywords:
-    'Academic Jobs Online. USA Academic Jobs Online, academic jobs in USA, USA college jobs',
+    'Teaching Jobs Online. USA Teaching Jobs Online, academic jobs in USA, USA college jobs',
 };
 export default function Page() {
   // useEffect(() => {
@@ -27,7 +27,7 @@ export default function Page() {
       <div className="pt-[8rem] flex flex-col items-center justify-center">
         <Image
           src="https://academicjobs.s3.amazonaws.com/img/_misc/simply-the-best-us-min.png"
-          alt="AcademicJobs USA Logo"
+          alt="TeachingJobs USA Logo"
           className=" w-[20rem] mb-[1rem] "
           width={330}
           height={220}
@@ -114,7 +114,7 @@ export default function Page() {
           height={170}
           src="https://academicjobs.s3.amazonaws.com/img/_misc/JobElephantClientCenter.jpg"
           className="rounded-3xl my-4 bg-white border-2 border-[#265882] items-center justify-center mx-auto mt-8"
-          alt="AcademicJobs USA logo"
+          alt="TeachingJobs USA logo"
         />{' '}
       </a>
 
@@ -135,16 +135,16 @@ export default function Page() {
             <div>
               <p className="px-7 mb-4 mt-1">
                 Explore what academic positions the United States has to offer
-                through Academic Jobs! We value the importance of an easy to
+                through Teaching Jobs! We value the importance of an easy to
                 navigate website where your future academic career path is one
-                click away. Academic Jobs provides an extensive list of
+                click away. Teaching Jobs provides an extensive list of
                 opportunities for the future of your career in education,
                 carefully sectioning the top Higher Ed jobs to curate the best
                 fitting position for you.{' '}
               </p>
               <p className="px-7 md:flex hidden">
                 The number 1 job board for academics can help you find your
-                dream Higher Ed job through our services. At Academic Jobs, we
+                dream Higher Ed job through our services. At Teaching Jobs, we
                 value our customers interests by providing the best career
                 choices possible, making us the best job board for higher
                 education positions globally!
@@ -155,13 +155,13 @@ export default function Page() {
             {/* <div className="bg-gradient-to-b to-white from-orange-100 rounded-t-[3rem] mt-[-1rem]"> */}
             {/* <div className=" max-w-screen-xl mx-auto">
           <div className="blurb text-left py-8 mt-[30rem]">
-            <h1 className="py-3 px-7 bg-[#e79d36] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl ">USA Academic Jobs Online</h1>
+            <h1 className="py-3 px-7 bg-[#e79d36] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl ">USA Teaching Jobs Online</h1>
             <div className="newLine mb-4">
               <p className="font-semibold"></p>
               <p className="font-semibold"></p> */}
             {/* </div> */}
             {/* <div className="newLine">
-              <p className="px-7 pb-8">On Academic Jobs Online find all University Positions in the USA. We have all academic jobs online job for researchers, scientists, university staff, lecturers, professors, and researchers.
+              <p className="px-7 pb-8">On Teaching Jobs Online find all University Positions in the USA. We have all academic jobs online job for researchers, scientists, university staff, lecturers, professors, and researchers.
                 Find academic jobs in USA colleges and apply to the top universities and institutions with faculty, postdoc or staff roles and more.</p> */}
           </div>
           <div className="  flex flex-wrap gap-6 px-7 pb-4 text-gray-400 mx-auto">
@@ -171,7 +171,7 @@ export default function Page() {
           <p className="font-semibold"></p>
         </div>
       </div>
-      <USA heading="USA Academic Jobs Online: Academia Jobs by University" />
+      <USA heading="USA Teaching Jobs Online: Academia Jobs by University" />
     </main>
   );
 }

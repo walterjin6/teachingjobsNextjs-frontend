@@ -9,12 +9,12 @@ import Australia from '@/components/topUnis/Australia';
 //import { useParams } from 'next/navigation'
 export const metadata = {
   title: {
-    absolute: '  Academic Jobs Australia',
+    absolute: '  Teaching Jobs Australia',
   },
   description:
     'Browse through hundreds of opportunities in higher education and research across various disciplines and institutions in Australia today. ',
   keywords:
-    'Academic Jobs Australia. university jobs Australia, Uni jobs Australia',
+    'Teaching Jobs Australia. university jobs Australia, Uni jobs Australia',
 };
 export default function Page() {
   // useEffect(() => {
@@ -25,7 +25,7 @@ export default function Page() {
       <div className="pt-[4rem] flex flex-col items-center justify-center">
         <Image
           src="https://academicjobs.s3.amazonaws.com/img/_misc/simply-the-best-australia-min.png"
-          alt="AcademicJobs Australia Logo"
+          alt="TeachingJobs Australia Logo"
           className="  mb-[1rem] "
           width={330}
           height={220}
@@ -106,7 +106,7 @@ export default function Page() {
           height={200}
           src="https://academicjobs.s3.amazonaws.com/img/_misc/The+Academic+Rankings+Logo4+(002).JPG"
           className=" mt-4 bg-white border-2 border-[#265882] items-center justify-center mx-auto text-center"
-          alt="AcademicJobs Job Elephant Client Center"
+          alt="TeachingJobs Job Elephant Client Center"
         />{' '}
       </a> */}
       {/* <div className="text-center items-center justify-center px-auto mx-auto text-sm text-gray-500 animate-pulse pb-12">
@@ -131,8 +131,8 @@ export default function Page() {
             <div>
               <p className="px-7 mb-4 mt-1">
                 Australia’s No.1 university job website! Seek uni jobs in
-                Australia at Academic Jobs, where we list all the best jobs for
-                academics globally! Academic Jobs provides an extensive list of
+                Australia at Teaching Jobs, where we list all the best jobs for
+                academics globally! Teaching Jobs provides an extensive list of
                 opportunities for the future of your career in education,
                 carefully sectioning the top Higher Ed jobs to curate the best
                 fitting position for you.
@@ -246,7 +246,7 @@ export default function Page() {
                 <div className="column">
                   <ul className=" rounded-3xl p-4 shadow-md">
                     <li className="mb-1 mt-4 mt-4 flex">
-                      <Image 
+                      <Image
                         width={100}
                         height={100}
                         src="https://www.academicjobs.com/_next/image?url=https%3A%2F%2Facademicjobs.s3.amazonaws.com%2Fimg%2Funiversity-logo%2FBondTwitterIcon_400x400.jpg&w=384&q=75"
@@ -297,7 +297,7 @@ export default function Page() {
                 <div className="column">
                   <ul className=" rounded-3xl p-4 shadow-md">
                     <li className="mb-1 mt-4 mt-4 flex">
-                      <Image 
+                      <Image
                         width={100}
                         height={100}
                         src="https://images.all-free-download.com/images/graphiclarge/the_university_of_adelaide_1_111801.jpg"
@@ -348,7 +348,7 @@ export default function Page() {
                 <div className="column">
                   <ul className=" rounded-3xl p-4 shadow-md">
                     <li className="mb-1 mt-4 mt-4 flex">
-                      <Image 
+                      <Image
                         width={100}
                         height={100}
                         src="https://dentalstudents.com.au/wp-content/uploads/2021/04/0001_UWA-logo.jpg"
@@ -401,23 +401,23 @@ export default function Page() {
         <div className="bg-white flex flex-col mx-auto mb-4">
           <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 items-stretch  px-1 mb-8 text-left px-4">
             <div className="card bg-slate-300 shadow-xl">
-                  <div className="card-body">
-                    <h2 className="card-title">
-                      {' '}
-                      Top HR Professional of the Month{' '}
-                    </h2>
-                    <a className=" text-gray-400"> 23 Feb, 2024</a>
-                  </div>
-                  <figure  >
-                    <Image
-                      width={200}
-                      height={200}
-                      src="https://academicjobs.s3.amazonaws.com/img/_misc/1694053173648.jpg"
-                      alt="How to Land Your Dream College Job: A Step-by-Step Guide"
-                      className="rounded-full"
-                    />
-                  </figure>
-                  {/* <ul className=" p-4 pl-12 list-disc text-gray-500" >
+              <div className="card-body">
+                <h2 className="card-title">
+                  {' '}
+                  Top HR Professional of the Month{' '}
+                </h2>
+                <a className=" text-gray-400"> 23 Feb, 2024</a>
+              </div>
+              <figure>
+                <Image
+                  width={200}
+                  height={200}
+                  src="https://academicjobs.s3.amazonaws.com/img/_misc/1694053173648.jpg"
+                  alt="How to Land Your Dream College Job: A Step-by-Step Guide"
+                  className="rounded-full"
+                />
+              </figure>
+              {/* <ul className=" p-4 pl-12 list-disc text-gray-500" >
                     <li >University of Oxford</li>
                     <li>	Imperial College London</li>
                     <li> University of Cambridge</li>
@@ -429,18 +429,16 @@ export default function Page() {
                 <li>Karen Lamont - Curtin University</li>
               </ul>
 
-                  {/* <Link
+              {/* <Link
                       href={'/academic-talent-pool'}
                       className="btn btn-aj btn-sm w-2/3 md:w-1/4 mx-auto my-2 "
                     >
                    Nominate HR Award
                     </Link> */}
-                         </div>
+            </div>
 
-
-             
-              {/* /top-10-australian-universities */}
-              <div className="">
+            {/* /top-10-australian-universities */}
+            <div className="">
               <div className="card bg-slate-100 shadow-xl">
                 <div className="card-body">
                   <h2 className="card-title">
@@ -454,7 +452,7 @@ export default function Page() {
                     width={1280}
                     height={380}
                     src="/academic-job-postings/university-of-sydney.jpg"
-                    alt="Top Academic Jobs Australia"
+                    alt="Top Teaching Jobs Australia"
                     className="h-[5rem]"
                   />
                 </figure>
@@ -490,28 +488,23 @@ export default function Page() {
                 </Link> */}
               </div>
             </div>
-           
-               
-                         <div>
-<a div className="card-title mx-8 mt-8 text-[#3b5683]"> Top 20 HR jobs today</a>
-                         <div className=" h-96 ml-8 overflow-y-scroll"> 
-        
-          <SearchResults q={{ q: "hr", l: "Australia" }} /> </div></div>
 
-                       </ul>
-          </div>
-  
-      
-
-
-
+            <div>
+              <a div className="card-title mx-8 mt-8 text-[#3b5683]">
+                {' '}
+                Top 20 HR jobs today
+              </a>
+              <div className=" h-96 ml-8 overflow-y-scroll">
+                <SearchResults q={{ q: 'hr', l: 'Australia' }} />{' '}
+              </div>
+            </div>
+          </ul>
+        </div>
 
         <div id="myUniversity" class="myUniversity">
           <div class="widget__text-block1">
             <div>
-              <h2 className="">
-                Academic Jobs Australia: All University Jobs
-              </h2>
+              <h2 className="">Teaching Jobs Australia: All University Jobs</h2>
               <Australia id="section1" heading="" />
             </div>
           </div>

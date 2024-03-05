@@ -12,12 +12,12 @@ import { getContentRegion } from '@/actions/getContentRegion';
 export const metadata: Metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
-    absolute: '  Academic Jobs: All Higher Ed Positions Locally and Globally.', //Option 2 overrides the title in layout.tsx
+    absolute: '  Teaching Jobs: All Higher Ed Positions Locally and Globally.', //Option 2 overrides the title in layout.tsx
   },
   description:
     'Search for academic positions, research, science and university staff jobs here. Find higher ed jobs at all universities today!',
   keywords:
-    'Academic Jobs. Higher Ed Jobs, Academic positions, University Jobs, College Jobs',
+    'Teaching Jobs. Higher Ed Jobs, Academic positions, University Jobs, College Jobs',
 };
 
 export default async function myPage() {

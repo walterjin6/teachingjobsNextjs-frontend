@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   },
   description:
     'If you are looking for academic jobs online, you can browse through our job board to find the latest opportunities in this flexible and rewarding field.   ',
-  keywords: 'Academic Jobs Online. online positions',
+  keywords: 'Teaching Jobs Online. online positions',
 };
 export default function myPage() {
   return (
@@ -19,7 +19,7 @@ export default function myPage() {
       <div className="bg-slate-200 full-width">
         <div className="hero-content flex-col lg:flex-row mx-auto items-start py-12">
           <h1 className="md:text-6xl font-bold m-0 md:text-right text-gray-500 pb-4">
-            Online Academic Jobs
+            Online Teaching Jobs
           </h1>
 
           <div className="">

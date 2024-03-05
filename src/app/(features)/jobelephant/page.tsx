@@ -3,13 +3,13 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import PricingTable from '@/components/PricingTable';
 export const metadata: Metadata = {
-  title: 'AcademicJobs Partnered with JobElephant', //Option 1 replaces the %s in layout.tsx
+  title: 'TeachingJobs Partnered with JobElephant', //Option 1 replaces the %s in layout.tsx
   // title: {//
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'To alter pricing, select a different area. All prices are shown in USD. The employer logo and ad success indicators are included in the live ads, which run for up to 60 days.',
-  keywords: 'Post Academic Jobs, Post a Job AcademicJobs',
+  keywords: 'Post Teaching Jobs, Post a Job TeachingJobs',
 };
 
 type PricingTypes = {
@@ -46,7 +46,7 @@ export default function Page() {
   }
 
   function createMessage(productName: string, price: number) {
-    return encodeURIComponent(`Hi Academic Jobs,
+    return encodeURIComponent(`Hi Teaching Jobs,
   
   I would like to purchase the ${productName}. Please send me an
   invoice for $${formatNumberWithCommas(price)}.
@@ -78,7 +78,7 @@ export default function Page() {
                       Welcome!&nbsp;
                     </span>{' '}
                     <br />
-                    you've landed on the new AcademicJobs JobElephant portal
+                    you've landed on the new TeachingJobs JobElephant portal
                   </h1>
                   <p className="pt-6">
                     We've just made it easier for all JobElephant staff to post
@@ -227,7 +227,7 @@ export default function Page() {
                     Any university can use JobElephant, here's how:&nbsp;
                   </span>{' '}
                   <br />
-                  Use JobElephant to load jobs on AcademicJobs!
+                  Use JobElephant to load jobs on TeachingJobs!
                 </h2>
                 <p className="pt-6">
                   Working with JobElephant to create and place your recruitment
@@ -267,14 +267,14 @@ export default function Page() {
                   and their amazing staff.
                 </h1>
                 <p className="pt-6 italic">
-                  "AcademicJobs have partnered with JobElephant to give amazing
+                  "TeachingJobs have partnered with JobElephant to give amazing
                   ‘job listings exposure’ to their higher education clients,
                   which in turn produces great academic and staff candidates. If
                   you are a university or college looking for a great
                   advertising partner, then JobElephant is a brilliant choice.""
                 </p>
                 <p className="pt-6 font-bold">
-                  Jarrod Kanizay C.E.O - AcademicJobs.com
+                  Jarrod Kanizay C.E.O - TeachingJobs.com
                 </p>
                 {/* <a href="#pricing-table-cards" className="btn btn-aj">
                     Post a Job

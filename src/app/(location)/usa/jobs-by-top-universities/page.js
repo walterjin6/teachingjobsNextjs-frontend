@@ -22,7 +22,7 @@ function countryRegionPlural() {
 }
 export default function myPage() {
   return (
-    <main >
+    <main>
       {/* Hero banner */}
       <section>
         <div className="hero max-h-fit bg-slate-200 py-8 mx-auto full-width">
@@ -44,7 +44,7 @@ export default function myPage() {
 
                 <p className="py-1">
                   All staff positions and academic jobs in the US can be found
-                  through the No.1 job board, Academic Jobs. The 'find
+                  through the No.1 job board, Teaching Jobs. The 'find
                   employers' page helps you explore all academic positions with
                   current job openings, at the world’s top colleges and
                   universities.
@@ -656,11 +656,8 @@ export default function myPage() {
         </div>
       </div> */}
 
-
-
       <div className="content-grid mt-4">
-
-      <USA />
+        <USA />
 
         <h3 className="container mx-auto text-center py-8 px-4 items-end">
           {' '}
@@ -686,7 +683,7 @@ export default function myPage() {
             ></path>
           </svg>
           <span>
-            ​​Try out Academic Jobs today, not because we are number 1 but for
+            ​​Try out Teaching Jobs today, not because we are number 1 but for
             the best customer service and support you will ever experience.
           </span>
           <div>

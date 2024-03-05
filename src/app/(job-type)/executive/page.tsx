@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   },
   description:
     'As an academic executive, you will have the opportunity to work with talented and dedicated staff, students, alumni, and stakeholders, contribute to the vision and mission.  ',
-  keywords: 'Academic Executive Jobs, Executive AcademicJobs',
+  keywords: 'Academic Executive Jobs, Executive TeachingJobs',
 };
 export default function myPage() {
   return (
@@ -25,10 +25,10 @@ export default function myPage() {
             <div>
             
             <p className="px-7 mb-4 mt-1">
-            Find your perfect executive position through the world’s best job board! At Academic Jobs we offer the most renowned High Ed jobs at the top universities. Positions in executive roles will provide you with the chance to engage with partners domestically and internationally, work with some of the brightest minds, and use top-notch facilities and resources.
+            Find your perfect executive position through the world’s best job board! At Teaching Jobs we offer the most renowned High Ed jobs at the top universities. Positions in executive roles will provide you with the chance to engage with partners domestically and internationally, work with some of the brightest minds, and use top-notch facilities and resources.
             </p>
             <p className="px-7 md:flex hidden">
-            The No.1 job board for academics, Academic Jobs, provides an extensive list of opportunities for the future of your career, carefully sectioning the top executive jobs to find the best position for you!
+            The No.1 job board for academics, Teaching Jobs, provides an extensive list of opportunities for the future of your career, carefully sectioning the top executive jobs to find the best position for you!
             </p>
             <p className="px-7 md:flex hidden">
             Find all the best executive jobs here…
@@ -60,12 +60,12 @@ export default function myPage() {
 
             <p className="px-7 mb-4 mt-1 font-bold">
               Find your perfect executive position through the world’s best job
-              board! At Academic Jobs we offer the most renowned High Ed jobs at
+              board! At Teaching Jobs we offer the most renowned High Ed jobs at
               the top universities. Work with some of the brightest minds, and
               use top-notch facilities & resources.
             </p>
             {/* <p className="px-7 md:flex hidden">
-            The No.1 job board for academics, Academic Jobs, provides an extensive list of opportunities for the future of your career, carefully sectioning the top executive jobs to find the best position for you!
+            The No.1 job board for academics, Teaching Jobs, provides an extensive list of opportunities for the future of your career, carefully sectioning the top executive jobs to find the best position for you!
             </p> */}
             <p className="px-7 md:flex hidden font-bold">
               Find all the best executive jobs here…

@@ -58,7 +58,7 @@ const JobPostForm = ({ partner, region = 'USA' }) => {
 
   let avatarPath = '';
   let textColor = 'text-aj';
-  let partnerName = 'AcademicJobs';
+  let partnerName = 'TeachingJobs';
   let partnerLogo = '';
   let partnerImage = '/partners/post-a-job.jpg';
   let partnerPullDown = false;
@@ -79,7 +79,7 @@ const JobPostForm = ({ partner, region = 'USA' }) => {
   }
   useEffect(() => {
     //alert(partnerName)
-    if (partnerName === '' || partnerName === 'AcademicJobs') {
+    if (partnerName === '' || partnerName === 'TeachingJobs') {
       setStandardMode(true);
     } else {
       setStandardMode(false);
@@ -408,12 +408,12 @@ const JobPostForm = ({ partner, region = 'USA' }) => {
               height={800}
               src={partnerImage}
               className=""
-              alt="AcademicJobs and JobElephant Partnership"
+              alt="TeachingJobs and JobElephant Partnership"
             />
             <div className="prose">
               <p className="mt-4">
                 The average time to Post a Job and fill out a form on the major
-                Job Seeking platforms is 9 min or more. With AcademicJobs we
+                Job Seeking platforms is 9 min or more. With TeachingJobs we
                 make your life easier and save you time by…
               </p>
               <ul>
