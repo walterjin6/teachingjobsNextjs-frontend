@@ -11,16 +11,14 @@ function countryRegionPlural() {
 }
 
 export const metadata: Metadata = {
-  title:
-    'Industry Jobs in Academia Recruitment ', //Option 1 replaces the %s in layout.tsx
+  title: 'Industry Jobs in Academia Recruitment ', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'View our insanely smart Academics for your Industry Jobs in Higher Education.',
-  keywords:
-    'Academic Industry Jobs Recruitment',
-}; 
+  keywords: 'Academic Industry Jobs Recruitment',
+};
 export default function myPage() {
   return (
     <>
@@ -37,24 +35,20 @@ export default function myPage() {
         >
           <div className="hero-overlay bg-opacity-70 p-4"></div>
           <div className=" text-white p-4">
-           
-              <h1 className="mb-5 text-2xl text-white md:text-4xl font-bold">
-              <span className="text-[#e79d36] md:text-7xl text-4xl"> Industry Jobs for Academics </span> <br/> "Get YOUR next crazy SMART employee HERE."
-              </h1>
-              <Link className="btn btn-aj" href="/post-a-job">
-                  Post A Job
-                </Link>
-            </div>
-           
+            <h1 className="mb-5 text-2xl text-white md:text-4xl font-bold">
+              <span className="text-[#e79d36] md:text-7xl text-4xl">
+                {' '}
+                Industry Jobs for Academics{' '}
+              </span>{' '}
+              <br /> "Get YOUR next crazy SMART employee HERE."
+            </h1>
+            <Link className="btn btn-aj" href="/post-a-job">
+              Post A Job
+            </Link>
           </div>
-        
-       
-       
-         
-         
-         
+        </div>
+
         <div className="content-grid">
-         
           <div className="card card-side bg-slate-100 shadow-xl my-16 px-6 grid sm:grid-cols-1 md:grid-cols-2">
             <figure>
               <Image
@@ -64,21 +58,22 @@ export default function myPage() {
                 alt="Choose from diverse campus roles"
                 className="w-full lg:max-w-lg rounded-xl m-6"
               />
-           
             </figure>
-            
-            
-            
-            
+
             <div className="card-body w-full">
               <h2 className="card-title uppercase">
-              We work with our clients to create a better future.
+                We work with our clients to create a better future.
               </h2>
               <p className="max-w-screen-sm">
-              Connect with the Global top academic talent on the No. 1 Academic Job Board. Posting jobs is simple and affordable, targeting both local and global candidates.
-              Access thousands of top academics without the high costs. We offer the most affordable job listing fees, paired with a comprehensive talent pool. Meaning better results with an exceptional recruiter experience.
+                Connect with the Global top academic talent on the No. 1
+                Academic Job Board. Posting jobs is simple and affordable,
+                targeting both local and global candidates. Access thousands of
+                top academics without the high costs. We offer the most
+                affordable job listing fees, paired with a comprehensive talent
+                pool. Meaning better results with an exceptional recruiter
+                experience.
               </p>
-        
+
               <div className="card-actions justify-center md:justify-end">
                 <Link className="btn btn-aj" href="/recruitment">
                   Recruitment
@@ -99,10 +94,12 @@ export default function myPage() {
             </figure>
             <div className="card-body w-full">
               <h2 className="card-title uppercase">
-             Ambitous Academics and their transition to industry.
+                Ambitous Academics and their transition to industry.
               </h2>
               <p className="max-w-screen-sm">
-              With the most comprehensive Academic Talent Pool, you can identify the most sought-after candidates and make informed decisions about who will join your organization.
+                With the most comprehensive Academic Talent Pool, you can
+                identify the most sought-after candidates and make informed
+                decisions about who will join your organization.
               </p>
               <div className="card-actions justify-center md:justify-start">
                 <Link className="btn btn-aj" href="/recruitment">
@@ -111,80 +108,95 @@ export default function myPage() {
               </div>
             </div>
           </div>
-   
-        {/* Breakout Section */}
 
-        <div className="bg-sky-100 mb-8 mt-16 py-8 px-4 full-width"><div className="container mx-auto"><h2 className="text-3xl text-center font-bold mb-8 text-sky-600">#1 Job Board for for ALL University&nbsp;Positions</h2><p className="mb-4 text-center max-w-[500px] mx-auto">Academic Jobs doesn't just find academics, we specialize in finding the best in academia for Industry positions.</p></div></div>
+          {/* Breakout Section */}
 
-        <section className="container mx-auto px-4 mt-12">
-          {/* Gain Real-World Experience in Academic Settings Card */}
-          <div className="card card-side bg-slate-100 shadow-xl my-16 px-6 grid sm:grid-cols-1 md:grid-cols-2">
-            <figure>
-              <Image
-                width={2000}
-                height={534}
-                src="https://academicjobs.s3.amazonaws.com/img/_misc/female-scientist_place-her-to-the-right.png"
-                alt="Experience the Real-World in Academic Settings"
-                className="w-full lg:max-w-lg rounded-xl m-6"
-              />
-            </figure>
-            <div className="card-body w-full">
-              <h2 className="card-title">
-              Helpful tools and AI make it easy to list
+          <div className="bg-sky-100 mb-8 mt-16 py-8 px-4 full-width">
+            <div className="container mx-auto">
+              <h2 className="text-3xl text-center font-bold mb-8 text-sky-600">
+                #1 Job Board for for ALL University&nbsp;Positions
               </h2>
-              <p className="max-w-screen-sm">
-              Revolutionize your hiring process with Academic Jobs. Our platform combines genuine customer service with advanced AI technology, making the recruitment experience efficient and enjoyable.
+              <p className="mb-4 text-center max-w-[500px] mx-auto">
+                Teaching Jobs doesn't just find academics, we specialize in
+                finding the best in academia for Industry positions.
               </p>
-              <div className="card-actions justify-center md:justify-end">
-                <Link className="btn btn-aj" href="/ai-recruitment">
-                  More Info
-                </Link>
-              </div>
             </div>
           </div>
 
-          {/* Build Your Network with On-Campus Employment Card */}
-          <div className="card card-side bg-sky-50 shadow-xl my-16 px-6 grid sm:grid-cols-1 md:grid-cols-2">
-            <figure className="lg:order-1">
-              <Image
-                width={2000}
-                height={534}
-                src="https://academicjobs.s3.amazonaws.com/img/_misc/miller_nemea_AP-scaled.jpg"
-                alt="Build Your Network with On-Campus Employment"
-                className="w-full lg:max-w-lg rounded-xl m-6"
-              />
-            </figure>
-            <div className="card-body w-full">
-              <h2 className="card-title">
-              Access to thousands of top academics
-              </h2>
-              <p className="max-w-screen-sm">
-              With the most comprehensive Academic Talent Pool, you can identify the most sought-after candidates and make informed decisions about who will join your organization.
-              </p>
-              <div className="card-actions justify-center md:justify-start">
-                <Link className="btn btn-aj" href="/recruitment">
-                  Develop Your Network
-                </Link>
+          <section className="container mx-auto px-4 mt-12">
+            {/* Gain Real-World Experience in Academic Settings Card */}
+            <div className="card card-side bg-slate-100 shadow-xl my-16 px-6 grid sm:grid-cols-1 md:grid-cols-2">
+              <figure>
+                <Image
+                  width={2000}
+                  height={534}
+                  src="https://academicjobs.s3.amazonaws.com/img/_misc/female-scientist_place-her-to-the-right.png"
+                  alt="Experience the Real-World in Academic Settings"
+                  className="w-full lg:max-w-lg rounded-xl m-6"
+                />
+              </figure>
+              <div className="card-body w-full">
+                <h2 className="card-title">
+                  Helpful tools and AI make it easy to list
+                </h2>
+                <p className="max-w-screen-sm">
+                  Revolutionize your hiring process with Teaching Jobs. Our
+                  platform combines genuine customer service with advanced AI
+                  technology, making the recruitment experience efficient and
+                  enjoyable.
+                </p>
+                <div className="card-actions justify-center md:justify-end">
+                  <Link className="btn btn-aj" href="/ai-recruitment">
+                    More Info
+                  </Link>
+                </div>
               </div>
             </div>
-          </div>
-        </section>
-        {/* <div className="bg-teal-100 mb-8 mt-16 py-8 px-4">
+
+            {/* Build Your Network with On-Campus Employment Card */}
+            <div className="card card-side bg-sky-50 shadow-xl my-16 px-6 grid sm:grid-cols-1 md:grid-cols-2">
+              <figure className="lg:order-1">
+                <Image
+                  width={2000}
+                  height={534}
+                  src="https://academicjobs.s3.amazonaws.com/img/_misc/miller_nemea_AP-scaled.jpg"
+                  alt="Build Your Network with On-Campus Employment"
+                  className="w-full lg:max-w-lg rounded-xl m-6"
+                />
+              </figure>
+              <div className="card-body w-full">
+                <h2 className="card-title">
+                  Access to thousands of top academics
+                </h2>
+                <p className="max-w-screen-sm">
+                  With the most comprehensive Academic Talent Pool, you can
+                  identify the most sought-after candidates and make informed
+                  decisions about who will join your organization.
+                </p>
+                <div className="card-actions justify-center md:justify-start">
+                  <Link className="btn btn-aj" href="/recruitment">
+                    Develop Your Network
+                  </Link>
+                </div>
+              </div>
+            </div>
+          </section>
+          {/* <div className="bg-teal-100 mb-8 mt-16 py-8 px-4">
           <div className="container mx-auto">
             <h2 className="text-4xl font-bold mb-8 text-sky-600">
-              Let Academic Jobs buy your next beer or help fund your
+              Let Teaching Jobs buy your next beer or help fund your
               higher&nbsp;education…
             </h2>
             <div className="text-col-2">
               <p className="mb-4">
                 Unlock Your Potential with Campus Employment Opportunities from
-                Academic Jobs. Our platform is tailored to help students like
+                Teaching Jobs. Our platform is tailored to help students like
                 you find the ideal on-campus job that complements your academic
                 schedule. Academic Rankings can provide the cash you need
                 to go out, buy a new gadget or pay eduction expenses?
               </p>
               <p className="mb-4">
-                With Academic Jobs, you get access to a wide array of
+                With Teaching Jobs, you get access to a wide array of
                 student-focused positions that not only provide a source of
                 income but also enhance your university experience. From library
                 aides to research assistants, we connect you to roles that align
@@ -194,11 +206,11 @@ export default function myPage() {
                The best thing a human being can do is to help another human being know more.
               </blockquote>
               <p className="mb-4">
-                Maximize Your College Experience with Academic Jobs. We
+                Maximize Your College Experience with Teaching Jobs. We
                 understand the unique needs of Academiclife, and our service is
                 designed to simplify your job search on campus. Whether you're
                 looking to develop professional skills, build your network, or
-                manage your educational expenses, Academic Jobs is your go-to
+                manage your educational expenses, Teaching Jobs is your go-to
                 resource.
               </p>
             </div>
@@ -206,11 +218,11 @@ export default function myPage() {
         </div> */}
         </div>
 
-  <section>
+        <section>
           <h3 className="container mx-auto text-center py-8 px-4">
             Want opportunities delivered to you?{' '}
             <Link href="/post-a-job" className="btn btn-aj">
-             Post A Job
+              Post A Job
             </Link>
           </h3>
         </section>

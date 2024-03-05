@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   // },
   description:
     'Unlock your academic career potential with our expertly curated career advice, insightful blogs, and innovative collaboration tools. Dive into a world of opportunities and guidance tailored for academics seeking to advance their careers. Explore now and take the next step in your academic journey!',
-  keywords: 'About Academicjobs, About Academic Jobs, Academicjobs About',
+  keywords: 'About Academicjobs, About Teaching Jobs, Academicjobs About',
 };
 
 export default function BlogPosts({

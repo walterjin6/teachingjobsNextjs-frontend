@@ -21,10 +21,10 @@ const Stats = () => {
               ></path>
             </svg>
           </div>
-          <div className="stat-title">Recruiters & Institutions Helped</div>
-          <div className="stat-value text-blue-700">1.3K</div>
+          <div className="stat-title">Recruiters & Schools Helped</div>
+          <div className="stat-value text-blue-700">562</div>
           <div className="stat-desc">
-            Saved Recruiters & Institutions 8 minutes per post
+            Saved Recruiters & Schools 8 minutes per post
           </div>
         </div>
 
@@ -46,8 +46,8 @@ const Stats = () => {
               ></path>
             </svg>
           </div>
-          <div className="stat-title">Academic Positions Filled</div>
-          <div className="stat-value text-pink-500">8.6K</div>
+          <div className="stat-title">Teaching Positions Filled</div>
+          <div className="stat-value text-pink-500">1.2K</div>
           <div className="stat-desc">
             Provided Job Seekers with more opportunities than any other Job
             Board

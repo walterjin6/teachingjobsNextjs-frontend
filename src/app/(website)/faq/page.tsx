@@ -6,10 +6,10 @@ import FAQ from '@/components/FAQ';
 export const metadata: Metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
-    absolute: 'FAQ Academic Jobs Online', //Option 2 overrides the title in layout.tsx
+    absolute: 'FAQ Teaching Jobs Online', //Option 2 overrides the title in layout.tsx
   },
   description:
-    'Find out about academic positions at all universities right now! Visit our FAQ Academic Jobs Online page to find if your next question has already been answered.',
+    'Find out about academic positions at all universities right now! Visit our FAQ Teaching Jobs Online page to find if your next question has already been answered.',
   keywords: 'FAQ academicjobs, academicjobs FAQ, Frequently Asked Questions',
 };
 export default function myPage() {
@@ -25,7 +25,7 @@ export default function myPage() {
         </Link> */}
           <h1>Most Frequently Asked Questions for Academic Jobs Online</h1>
 
-          <FAQ question="What Are Academic Jobs?">
+          <FAQ question="What Are Teaching Jobs?">
             <p>
               Academic jobs are positions related to teaching, research, or
               administration in higher education institutions, such as
@@ -36,7 +36,7 @@ export default function myPage() {
               casual staff.
             </p>
           </FAQ>
-          <FAQ question="How Can I Find Academic Jobs Online?">
+          <FAQ question="How Can I Find Teaching Jobs Online?">
             <p>
               You can find academic jobs online by searching on academic job
               board sites, such as Jobs@UNSW, Academic Positions, or
@@ -50,7 +50,7 @@ export default function myPage() {
               contacts.
             </p>
           </FAQ>
-          <FAQ question="What Are the Requirements for Academic Jobs?">
+          <FAQ question="What Are the Requirements for Teaching Jobs?">
             <p>
               The requirements for academic jobs vary depending on the type,
               level, and field of the position. Generally, academic jobs require
@@ -63,7 +63,7 @@ export default function myPage() {
               in certain fields or areas.
             </p>
           </FAQ>
-          <FAQ question="How Can I Apply for Academic Jobs Online?">
+          <FAQ question="How Can I Apply for Teaching Jobs Online?">
             <p>
               To apply for academic jobs online, you need to prepare a resume or
               curriculum vitae (CV) that highlights your education,

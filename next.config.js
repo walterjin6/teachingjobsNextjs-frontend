@@ -39,8 +39,6 @@ const nextConfig = {
         destination: '/student-jobs',
         permanent: true,
       },
-      
-     
 
       {
         source: '/global/recruitment',
@@ -467,4 +465,5 @@ const nextConfig = {
     ];
   },
 };
+
 module.exports = nextConfig;

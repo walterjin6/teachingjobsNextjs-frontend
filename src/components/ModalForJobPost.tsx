@@ -43,13 +43,13 @@ const ModalForJobPost = ({
               src="/icons/heart.svg"
               width={90}
               height={90}
-              alt="Academic Jobs Heart"
+              alt="Teaching Jobs Heart"
             />
             <Image
               src={imagePath}
               width={170}
               height={60}
-              alt="Academic Love Message"
+              alt="Teaching Love Message"
             />
           </div>
         </div>

@@ -55,12 +55,12 @@ const SubscribeForm = ({
     console.log('data', data);
     data = {
       ...data,
-      '99_url': `https://www.academicjobs.com/jobs/myjob/${jobId}`,
+      '99_url': `https://www.teachingjobs.com.au/jobs/myjob/${jobId}`,
     };
     console.log('data', data);
     mutation.mutate(data);
   };
-  // Sample URL https://www.academicjobs.com/jobs/myJob/83531?active=true
+  // Sample URL https://www.teachingjobs.com.au/jobs/myJob/83531?active=true
   const firstName = watch('01_First_Name');
 
   if (mutation.isLoading) {

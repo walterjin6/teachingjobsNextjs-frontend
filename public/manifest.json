@@ -1,8 +1,8 @@
 {
-  "short_name": "AcademicJobs",
-  "name": "AcademicJobs",
+  "short_name": "TeachingJobs",
+  "name": "TeachingJobs",
   "icons": [
-     {
+    {
       "src": "favicon.png",
       "type": "image/png",
       "sizes": "192x192"

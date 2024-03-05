@@ -6,23 +6,22 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'The Future of Talent and Candidate Acquisition', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'Academic Jobs is the leading AI Recruitment Platform specializing in helping Higher Education Institutions, Research & Development (R&D) Industries, and many other sectors find candidates with our specialized AI tools that significantly enhance the job posting process.',
-  keywords: 'AI Recruitment Platform, AI Recruitment, Number 1 AI Recruitment Platform',
+    'Teaching Jobs is the leading AI Recruitment Platform specializing in helping Higher Education Institutions, Research & Development (R&D) Industries, and many other sectors find candidates with our specialized AI tools that significantly enhance the job posting process.',
+  keywords:
+    'AI Recruitment Platform, AI Recruitment, Number 1 AI Recruitment Platform',
 };
 export default function myPage() {
   return (
     <main className="">
- 
-
       <div className="hero max-h-fit bg-pink-100 py-8">
         <div className="container mx-auto">
           <div className="hero-content flex-col lg:flex-row">
             <Image
-             width="1280"
-             height="380"
+              width="1280"
+              height="380"
               src="/ai-sentiment-analysis/ai-sentiment-analysis.jpg"
               className="lg:max-w-lg rounded-lg shadow-2xl mb-8 lg:mb-0 lg:mr-4"
               alt="AI sentiment analysis"
@@ -80,7 +79,7 @@ export default function myPage() {
                     d="M5 11.258L9.783 13.5a5.17 5.17 0 0 0 4.434 0L19 11.258v5.367c0 1.008-.503 1.952-1.385 2.44C16.146 19.88 13.796 21 12 21c-1.796 0-4.146-1.121-5.615-1.935C5.504 18.577 5 17.633 5 16.625v-5.367Z"
                     opacity=".5"
                   />
-                </svg>{" "}
+                </svg>{' '}
               </div>
             </figure>
             <div className="card-body items-center text-center">
@@ -160,7 +159,7 @@ export default function myPage() {
                       clip-rule="evenodd"
                     />
                   </g>
-                </svg>{" "}
+                </svg>{' '}
               </div>
             </figure>
             <div className="card-body items-center text-center">
@@ -189,7 +188,7 @@ export default function myPage() {
                     fill="currentColor"
                     d="M4 19h4.6L2.62 8.64C2.23 8 2 7.29 2 6.5a3.999 3.999 0 0 1 7.87-1H14V3c0-1.1.9-2 2-2v2.59L17.59 2H22v2h-3.59L16 6.41v.18L18.41 9H22v2h-4.41L16 9.41V12a2 2 0 0 1-2-2V7.5H9.87c-.1.39-.26.76-.46 1.1l6 10.4H20a2 2 0 0 1 2 2v1H2v-1c0-1.1.9-2 2-2m3.91-9c-.56.32-1.21.5-1.91.5l4.91 8.5h2.19l-5.19-9M6 4.5a2 2 0 0 0-2 2c0 1.11.89 2 2 2c1.11 0 2-.89 2-2a2 2 0 0 0-2-2Z"
                   />
-                </svg>{" "}
+                </svg>{' '}
               </div>
             </figure>
             <div className="card-body items-center text-center">
@@ -245,7 +244,7 @@ export default function myPage() {
 
       <section>
         <h3 className="container mx-auto text-center py-8 px-4">
-          To learn more about AI Sentiment Analysis{" "}
+          To learn more about AI Sentiment Analysis{' '}
           <Link href="/contact-us" className="btn btn-aj">
             Contact us Today
           </Link>
@@ -256,13 +255,13 @@ export default function myPage() {
             className="link link-warning hover:text-orange-500"
           >
             AI&nbsp;Job&nbsp;Listings
-          </Link>{" "}
+          </Link>{' '}
           <Link
             href="/ai-recruitment/ai-job-application-sentiment-analysis"
             className="link link-warning hover:text-orange-500 mx-4"
           >
             AI&nbsp;Sentiment&nbsp;Analysis
-          </Link>{" "}
+          </Link>{' '}
           <Link
             href="/ai-recruitment/ai-resume-extraction"
             className="link link-warning hover:text-orange-500"

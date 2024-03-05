@@ -8,12 +8,11 @@ import RankingRegistrationFormAcademics from '@/components/forms/RankingRegistra
 export const metadata: Metadata = {
   title: 'my academic rank', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'Become a member of our exclusive Talent Pool to network and work together with leading companies and scholars globally. Join now to see what fascinating jobs are available, network with professionals in the field, and further your career. ideal for academics looking to advance in their professions.',
-  keywords:
-    'my academic rank',
+  keywords: 'my academic rank',
 };
 //WIP
 export default function Page() {

@@ -7,12 +7,12 @@ import NZ from '@/components/topUnis/NZ';
 //import { useParams } from 'next/navigation'
 export const metadata = {
   title: {
-    absolute: 'Academic Jobs New Zealand',
+    absolute: 'Teaching Jobs New Zealand',
   },
   description:
     'Find your dream academic job in New Zealand and join the leading universities at New Zealand university jobs with professor, researcher or manager roles.',
   keywords:
-    'Academic Jobs New Zealand. academic job in New Zealand, New Zealand university jobs',
+    'Teaching Jobs New Zealand. academic job in New Zealand, New Zealand university jobs',
 };
 export default function Page() {
   return (
@@ -21,7 +21,7 @@ export default function Page() {
       <div className=" flex flex-col items-center justify-center">
         <Image
           src="https://academicjobs.s3.amazonaws.com/img/_misc/simply-the-best-nz.png"
-          alt="AcademicJobs New Zealand Logo"
+          alt="TeachingJobs New Zealand Logo"
           className=" w-[20rem] mb-[1rem] "
           width={330}
           height={220}
@@ -98,17 +98,17 @@ export default function Page() {
 
             <div>
               <p className="px-7 mb-4 mt-1">
-                Seek university jobs in New Zealand at Academic Jobs, where we
+                Seek university jobs in New Zealand at Teaching Jobs, where we
                 list all the best jobs for academics globally! We value the
                 importance of an easy to navigate website where your future
-                academic career path is one click away. Academic Jobs provides
+                academic career path is one click away. Teaching Jobs provides
                 an extensive list of opportunities for the future of your career
                 in education, carefully sectioning the top Higher Ed jobs to
                 curate the best fitting position for you.
               </p>
               <p className="px-7 md:flex hidden">
                 The number 1 job board for academics can help you find your
-                dream Higher Ed job through our services. At Academic Jobs, we
+                dream Higher Ed job through our services. At Teaching Jobs, we
                 value our customers interests by providing the best career
                 choices possible, making us the best job board for higher
                 education positions globally!
@@ -125,13 +125,13 @@ export default function Page() {
         {/* <div className="bg-gradient-to-b to-white from-gray-300 rounded-t-[3rem] mt-[-1rem]"> */}
         {/* <div className=" max-w-screen-xl mx-auto">
           <div className="blurb text-left py-8 mt-[30rem] ">
-            <h1 className="py-3 px-7 bg-[#e79d36] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Academic Jobs New Zealand</h1>
+            <h1 className="py-3 px-7 bg-[#e79d36] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Teaching Jobs New Zealand</h1>
             <div className="newLine mb-4">
               <p className="font-semibold"></p>
               <p className="font-semibold"></p> */}
         {/* </div> */}
         {/* <div className="newLine">
-            <p className="newLine px-7 pb-2">On Academic Jobs New Zealand, you will find all  the best academic positions at highly regarded New Zealand universities. Our academic employment platform enables academics to pursue excellent careers in New Zealand, and our universities are always on the lookout for the greatest New Zealand Academics.</p>
+            <p className="newLine px-7 pb-2">On Teaching Jobs New Zealand, you will find all  the best academic positions at highly regarded New Zealand universities. Our academic employment platform enables academics to pursue excellent careers in New Zealand, and our universities are always on the lookout for the greatest New Zealand Academics.</p>
               <p className="px-7 pb-8">New Zealand is a beautiful and diverse country that offers a high quality of life and a supportive academic environment. Whether you are looking for teaching, research, or leadership positions, you can find a range of academic jobs in New Zealand that match your skills and interests. You can browse through hundreds of academic jobs in New Zealand on this page, covering various fields and disciplines such as education, science, arts, business, and more.</p>
               <p className="font-semibold"></p>
             </div>
@@ -140,7 +140,7 @@ export default function Page() {
             <div class="widget__text-block1"> */}
         <div>
           <h2 className="">
-            AcademicJobs New Zealand: All University Jobs by Region
+            TeachingJobs New Zealand: All University Jobs by Region
           </h2>
           <NZ heading="" />
         </div>

@@ -6,11 +6,11 @@ import Stats from '@/components/Stats';
 export const metadata: Metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
-    absolute: 'About Academic Jobs', //Option 2 overrides the title in layout.tsx
+    absolute: 'About Teaching Jobs', //Option 2 overrides the title in layout.tsx
   },
   description:
-    'The Number 1 job board for Academic Jobs.  Listing higher ed jobs for faculty at colleges and universities in the United States and around the world.',
-  keywords: 'About Academicjobs, About Academic Jobs, Academicjobs About',
+    'The Number 1 job board for Teaching Jobs.  Listing higher ed jobs for faculty at colleges and universities in the United States and around the world.',
+  keywords: 'About Academicjobs, About Teaching Jobs, Academicjobs About',
 };
 
 export default function myPage() {
@@ -28,7 +28,7 @@ export default function myPage() {
             />
             <div>
               <h1 className="text-4xl">
-                AcademicJobs is your #1 Destination for all your Academic
+                TeachingJobs is your #1 Destination for all your Academic
                 Recruitment needs, Career Advancement and Networking
               </h1>
               <h2 className="py-6 leading-tight">
@@ -95,12 +95,12 @@ export default function myPage() {
       <div className="content-grid p-8">
         {/* <div className="full-width"></div> */}
         <div className="container prose">
-          <h2 className="underline-full">Learn more about Academic Jobs</h2>
+          <h2 className="underline-full">Learn more about Teaching Jobs</h2>
           <div className="prose text mt-8 ">
             <h4>Our Mission: Empowering Academics, Connecting Institutions</h4>
             <p>
               Help you find and fill the best academic positions in your city,
-              country and worldwide. At AcademicJobs, we are more than just a
+              country and worldwide. At TeachingJobs, we are more than just a
               job board; we are a dedicated platform committed to shaping the
               future of higher education by facilitating seamless connections
               between academic talent and leading institutions worldwide.
@@ -108,7 +108,7 @@ export default function myPage() {
             <h4>Who We Are</h4>
             <p>
               Founded by a team of seasoned professionals with over 30 years of
-              expertise in academic job recruitment advertising, AcademicJobs
+              expertise in academic job recruitment advertising, TeachingJobs
               was born out of a collective frustration with the inefficiencies
               and lack of transparency in the traditional academic job market.
             </p>
@@ -117,11 +117,11 @@ export default function myPage() {
               grown complacent in the market."
             </blockquote>
 
-            <h4>The AcademicJobs Advantage</h4>
+            <h4>The TeachingJobs Advantage</h4>
             <h5>For Job Seekers</h5>
             <p>
               Embarking on a journey to find your dream academic job? Look no
-              further. AcademicJobs is your trusted companion, offering an
+              further. TeachingJobs is your trusted companion, offering an
               extensive range of opportunities in{' '}
               <span className="uni-jobs">uni</span>jobs, University Jobs,
               College Jobs, faculty, research, staff, and professional roles.
@@ -135,7 +135,7 @@ export default function myPage() {
             <h5>For Employers</h5>
             <p>
               Are you an institution seeking top-tier academic talent?
-              AcademicJobs provides you with a cost-effective, user-friendly
+              TeachingJobs provides you with a cost-effective, user-friendly
               platform to showcase your <span className="uni-jobs">uni</span>
               jobs, University Jobs, and College Jobs to a global talent pool.
               With over 10,000 active job listings and a network of 500 partner
@@ -143,7 +143,7 @@ export default function myPage() {
               brightest minds in academia.
             </p>
 
-            <h4>Why AcademicJobs?</h4>
+            <h4>Why TeachingJobs?</h4>
             <ul>
               <li>
                 <strong>Innovation: </strong>We have redefined academic job
@@ -159,7 +159,7 @@ export default function myPage() {
               <li>
                 <strong>Diversity and Inclusion: </strong>We are passionate
                 about fostering diversity, equity, and inclusion in higher
-                education. AcademicJobs is committed to supporting the academic
+                education. TeachingJobs is committed to supporting the academic
                 community at all levels.
               </li>
             </ul>
@@ -171,16 +171,16 @@ export default function myPage() {
               information, advanced and user-friendly tools, and professional,
               personalized service.
             </p>
-            <h4>Join the AcademicJobs Community</h4>
+            <h4>Join the TeachingJobs Community</h4>
             <p>
-              Whether you're a job seeker or an employer, AcademicJobs invites
+              Whether you're a job seeker or an employer, TeachingJobs invites
               you to join our vibrant community. Explore the possibilities,
               discover opportunities for student jobs on campus, university
               jobs, and college jobs, and contribute to the advancement of
               academia.
             </p>
             <p>
-              We hope your experience with AcademicJobs is productive and
+              We hope your experience with TeachingJobs is productive and
               inspiring. Your academic journey begins here.
             </p>
             <p>

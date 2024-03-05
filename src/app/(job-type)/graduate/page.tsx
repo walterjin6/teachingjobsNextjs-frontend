@@ -26,14 +26,14 @@ export default function myPage() {
           <div className="">
             <p className="px-7 mb-4 mt-1">
               Seek your perfect graduate position through the world’s best job
-              board! At Academic Jobs we offer the most renowned graduate jobs
+              board! At Teaching Jobs we offer the most renowned graduate jobs
               at the top universities. For young professionals looking for
               industry experience, on-field training, personality development
-              and course credit, at Academic Jobs we aim to help find the most
+              and course credit, at Teaching Jobs we aim to help find the most
               exciting opportunities for new graduates.
             </p>
             <p className="px-7 md:flex hidden">
-              The No.1 job board for graduates, Academic Jobs, provides an
+              The No.1 job board for graduates, Teaching Jobs, provides an
               extensive list of opportunities for the next step of your career,
               carefully sectioning the top jobs to find the best position for
               you!

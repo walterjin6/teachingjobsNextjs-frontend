@@ -67,7 +67,7 @@ export default function Page() {
   }, [filter1]);
   useEffect(() => {
     console.log('===============================', category);
-    setfilter2(filter1)
+    setfilter2(filter1);
   }, [category]);
   const {
     isPending: isPendingQty,
@@ -137,7 +137,7 @@ export default function Page() {
           "From prestigious universities in the United States and the United Kingdom to emerging research centers in Asia and Europe, we curate the finest academic positions to propel your career forward. Our resources and guides support you at every step of your job search, ensuring you're well-prepared to seize your next opportunity."
 
           Metadata
-          Title Tag: "Academic Jobs Board - Find Faculty, Research, and Staff Positions"
+          Title Tag: "Teaching Jobs Board - Find Faculty, Research, and Staff Positions"
 
           Meta Description: "Connect with leading academic institutions worldwide on our job board. Discover faculty, research, and staff positions tailored to your career aspirations. Start your academic job search today."
 
@@ -173,9 +173,9 @@ export default function Page() {
                         (_, index) => index !== i
                       );
                       setPage(0);
-                      
+
                       setfilter(updatedFilter);
-                      setCategory("")
+                      setCategory('');
                       //dispatch(setfilter(updatedFilter));
                     }}
                   >
@@ -252,48 +252,48 @@ export default function Page() {
             </div>
           </details>
 
-        {isShowFilter && (
-          <div className="grid md:grid-cols-4 gap-1 grid-cols-2 pl-6 py-2">
-            {filters?.length > 0 && // 低层小目录b
-              filters.map(({ filter, job_count }, i) => (
+          {isShowFilter && (
+            <div className="grid md:grid-cols-4 gap-1 grid-cols-2 pl-6 py-2">
+              {filters?.length > 0 && // 低层小目录b
+                filters.map(({ filter, job_count }, i) => (
+                  <button
+                    key={i}
+                    className="text-left text-gray-500 text-sm truncate"
+                    onClick={() => {
+                      setPage(0);
+                      setfilter([...filter1, { category, filter }]);
+                      //setIsShowFilter(false);
+                    }}
+                  >{`${filter ? filter : 'Others'}  (${job_count})`}</button>
+                ))}
+              {filters?.length == 23 && (
                 <button
-                  key={i}
-                  className="text-left text-gray-500 text-sm truncate"
+                  className="btn btn-primary btn-xs"
                   onClick={() => {
-                    setPage(0);
-                    setfilter([...filter1, { category, filter }]);
-                    //setIsShowFilter(false);
+                    //navigate(`/advanced-search/${category}`);
+                    navigate(`/advanced-search/${category}`, {
+                      state: { filter1 },
+                    });
                   }}
-                >{`${filter ? filter : 'Others'}  (${job_count})`}</button>
-              ))}
-            {filters?.length == 23 && (
-              <button
-                className="btn btn-primary btn-xs"
-                onClick={() => {
-                  //navigate(`/advanced-search/${category}`);
-                  navigate(`/advanced-search/${category}`, {
-                    state: { filter1 },
-                  });
-                }}
-              >
-                Show All
-              </button>
-            )}
-          </div>
-        )}
-      </div>
-      <section class="jobs_grid job_post_search_container">
-        <div class="filters_panel">
-          <div class="filters_content">
-            <JobFilter />
-          </div>
+                >
+                  Show All
+                </button>
+              )}
+            </div>
+          )}
         </div>
-        <div class="listings_panel">
-          <div class="listings_content">
-            <SearchResults1 q={{ q: q, l: l || '', filter1 }} />
+        <section class="jobs_grid job_post_search_container">
+          <div class="filters_panel">
+            <div class="filters_content">
+              <JobFilter />
+            </div>
           </div>
-        </div>
-      </section>
+          <div class="listings_panel">
+            <div class="listings_content">
+              <SearchResults1 q={{ q: q, l: l || '', filter1 }} />
+            </div>
+          </div>
+        </section>
 
         <div className="max-w-4xl mx-auto py-8"></div>
 

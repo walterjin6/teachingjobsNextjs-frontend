@@ -11,15 +11,13 @@ function countryRegionPlural() {
 }
 
 export const metadata: Metadata = {
-  title:
-    'Student Jobs on Campus', //Option 1 replaces the %s in layout.tsx
+  title: 'Student Jobs on Campus', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'AcademicJobs has the best student jobs on campus with all types of categories for your needs.',
-  keywords:
-    'Student Jobs on Campus, Student Jobs',
+    'TeachingJobs has the best student jobs on campus with all types of categories for your needs.',
+  keywords: 'Student Jobs on Campus, Student Jobs',
 };
 export default function myPage() {
   return (
@@ -151,7 +149,7 @@ export default function myPage() {
             </h2>
             <div className="text-col-2">
               <p className="mb-4">
-                Academic Jobs stands out as the {countryRegionPlural()} premier
+                Teaching Jobs stands out as the {countryRegionPlural()} premier
                 platform for Student Jobs on Campus, celebrated for linking
                 students with valuable on-campus employment opportunities. Our
                 platform is meticulously crafted to meet the specific needs of
@@ -162,7 +160,7 @@ export default function myPage() {
                 roles. Whether it's part-time positions or work-study
                 opportunities, we connect you with roles that enhance your
                 academic experience and provide practical work skills. Opt for
-                Academic Jobs for unrivaled access to the{' '}
+                Teaching Jobs for unrivaled access to the{' '}
                 {countryRegionPlural()} most sought-after student positions in
                 academia.
               </p>
@@ -232,19 +230,19 @@ export default function myPage() {
         <div className="bg-teal-100 mb-8 mt-16 py-8 px-4">
           <div className="container mx-auto">
             <h2 className="text-4xl font-bold mb-8 text-sky-600">
-              Let Academic Jobs buy your next beer or help fund your
+              Let Teaching Jobs buy your next beer or help fund your
               higher&nbsp;education…
             </h2>
             <div className="text-col-2">
               <p className="mb-4">
                 Unlock Your Potential with Campus Employment Opportunities from
-                Academic Jobs. Our platform is tailored to help students like
+                Teaching Jobs. Our platform is tailored to help students like
                 you find the ideal on-campus job that complements your academic
                 schedule. Student Jobs on Campus can provide the cash you need
                 to go out, buy a new gadget or pay eduction expenses?
               </p>
               <p className="mb-4">
-                With Academic Jobs, you get access to a wide array of
+                With Teaching Jobs, you get access to a wide array of
                 student-focused positions that not only provide a source of
                 income but also enhance your university experience. From library
                 aides to research assistants, we connect you to roles that align
@@ -255,11 +253,11 @@ export default function myPage() {
                 journey and prepare you for your future career.
               </blockquote>
               <p className="mb-4">
-                Maximize Your College Experience with Academic Jobs. We
+                Maximize Your College Experience with Teaching Jobs. We
                 understand the unique needs of student life, and our service is
                 designed to simplify your job search on campus. Whether you're
                 looking to develop professional skills, build your network, or
-                manage your educational expenses, Academic Jobs is your go-to
+                manage your educational expenses, Teaching Jobs is your go-to
                 resource.
               </p>
             </div>

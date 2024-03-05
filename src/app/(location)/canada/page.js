@@ -7,7 +7,7 @@ import Canada from '@/components/topUnis/Canada';
 //import { useParams } from 'next/navigation'
 export const metadata = {
   title: {
-    absolute: 'Academic Jobs Canada',
+    absolute: 'Teaching Jobs Canada',
   },
   description:
     'Explore academic jobs in Canada and discover a range of opportunities in Canada university jobs such as teaching, research or staff positions.',
@@ -20,7 +20,7 @@ export default function Page() {
       <div className=" flex flex-col items-center justify-center">
         <Image
           src="https://academicjobs.s3.amazonaws.com/img/_misc/simply-the-best-canada-min.png"
-          alt="AcademicJobs Canada Logo"
+          alt="TeachingJobs Canada Logo"
           className=" w-[20rem] mb-[1rem] "
           width={330}
           height={220}
@@ -85,7 +85,7 @@ export default function Page() {
           height={170}
           src="https://academicjobs.s3.amazonaws.com/img/_misc/JobElephantClientCenter.jpg"
           className="rounded-3xl my-4 bg-white border-2 border-[#265882] items-center justify-center mx-auto"
-          alt="AcademicJobs Canada logo"
+          alt="TeachingJobs Canada logo"
         />{' '}
       </a>
 
@@ -105,7 +105,7 @@ export default function Page() {
             <div>
               <p className="px-7 mb-4 mt-1">
                 Find Canada’s most rewarding academic jobs through the world’s
-                leading job board. Academic Jobs provides an extensive list of
+                leading job board. Teaching Jobs provides an extensive list of
                 opportunities for the future of your career in education,
                 carefully sectioning the top Higher Ed jobs to curate the best
                 fitting position for you. We value the fairness and unity of

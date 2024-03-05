@@ -4,11 +4,11 @@ import div from 'next/link';
 export const metadata: Metadata = {
   title: 'Academic hub and Career Advice', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'Are you looking for hub in academia? Read our blog posts to discover the secrets of well-being, work-life balance, and career satisfaction for academics.Browse through our comprehensive list of universities from around the world and find the best one for you. Whether you want to study in Australia, Canada, UK, USA, or anywhere else, we have the information you need to make an informed decision. ',
-  keywords: 'academic hub, AcademicJobs hub',
+  keywords: 'academic hub, TeachingJobs hub',
 };
 export default function myPage() {
   return (
@@ -73,7 +73,7 @@ export default function myPage() {
                   <div className="card-body">
                     <h2 className="card-title">
                       {' '}
-                      Top Academic Jobs Australia{' '}
+                      Top Teaching Jobs Australia{' '}
                     </h2>
                     <a className=" text-gray-400"> 10 Aug, 2023</a>
                   </div>
@@ -82,7 +82,7 @@ export default function myPage() {
                       width={1280}
                       height={380}
                       src="https://academicjobs.s3.amazonaws.com/img/_misc/top-academic-jobs-australia.jpg"
-                      alt="Top Academic Jobs Australia"
+                      alt="Top Teaching Jobs Australia"
                     />
                   </figure>
                 </div>
@@ -111,7 +111,7 @@ export default function myPage() {
                   <div className="card-body">
                     <h2 className="card-title">
                       {' '}
-                      Exploring the Benefits of Academic Jobs Online: Why
+                      Exploring the Benefits of Teaching Jobs Online: Why
                       Virtual Hiring is on the Rise{' '}
                     </h2>
                     <a className=" text-gray-400"> 20 Jun, 2023</a>
@@ -121,7 +121,7 @@ export default function myPage() {
                       width={1280}
                       height={380}
                       src="https://academicjobs.s3.amazonaws.com/img/_misc/Virtual_Hiring.png"
-                      alt="Exploring the Benefits of Academic Jobs Online: Why Virtual Hiring is on the Rise"
+                      alt="Exploring the Benefits of Teaching Jobs Online: Why Virtual Hiring is on the Rise"
                     />
                   </figure>
                 </div>
@@ -131,7 +131,7 @@ export default function myPage() {
                   <div className="card-body">
                     <h2 className="card-title">
                       {' '}
-                      Exploring the Global Landscape of Academic Jobs:
+                      Exploring the Global Landscape of Teaching Jobs:
                       Opportunities and Challenges{' '}
                     </h2>
                     <a className=" text-gray-400"> 7 Jun, 2023</a>
@@ -141,7 +141,7 @@ export default function myPage() {
                       width={1280}
                       height={380}
                       src="https://academicjobs.s3.amazonaws.com/img/_misc/Global_Opportunities_2.png"
-                      alt="Exploring the Global Landscape of Academic Jobs: Opportunities and Challenges"
+                      alt="Exploring the Global Landscape of Teaching Jobs: Opportunities and Challenges"
                     />
                   </figure>
                 </div>

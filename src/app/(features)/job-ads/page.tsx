@@ -6,11 +6,11 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Post a job - Recruit Academics', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
     'All prices are in USD, switch region to change prices. Ads are live for up to 60 days, and include the employer logo and ad performance metrics.',
-  keywords: 'Post Academic Jobs, Post a Job AcademicJobs',
+  keywords: 'Post Teaching Jobs, Post a Job TeachingJobs',
 };
 
 export default function myPage() {
@@ -34,7 +34,7 @@ export default function myPage() {
                     Find all the Best Talent for Academic & Staff Positions
                   </h1>
                   <p className="py-6">
-                    Find exactly who you need on AcademicJobs.com… Post your
+                    Find exactly who you need on TeachingJobs.com… Post your
                     Academic, Higher Education and Admin, Support, Staff ad and
                     be amazed as the right candidates for the job come to you.
                   </p>
@@ -69,7 +69,7 @@ export default function myPage() {
                     className=" md:pt-12 md:pb-16 "
                     style={{ marginTop: '10px' }}
                   >
-                    Recruit academics & all Higher Ed staff with Academic Jobs.{' '}
+                    Recruit academics & all Higher Ed staff with Teaching Jobs.{' '}
                   </div>
                 </div>
                 <div className="flex justify-between gap-8 "></div>
@@ -402,7 +402,7 @@ export default function myPage() {
                   Job Listing Options
                 </h2>
                 <p>
-                  AcademicJobs connects the world's academic employers with top
+                  TeachingJobs connects the world's academic employers with top
                   academic talent, post your job openings and find qualified
                   candidates today.{' '}
                 </p>
@@ -473,7 +473,7 @@ export default function myPage() {
                 height={380}
                 alt="Employer attraction icon"
                 className="seeker-icons pt-8"
-                src="https://academicjobs.s3.amazonaws.com/icon/AcademicJobs-world.png"
+                src="https://academicjobs.s3.amazonaws.com/icon/TeachingJobs-world.png"
               />
             </div>
           </div>
@@ -487,7 +487,7 @@ export default function myPage() {
                 height={380}
                   alt="Job seeking bell notification icon"
                   className="seeker-icons pr-4"
-                  src="https://academicjobs.s3.amazonaws.com/icon/AcademicJobs-marketing.png"
+                  src="https://academicjobs.s3.amazonaws.com/icon/TeachingJobs-marketing.png"
                 />
               </div>
             </div>
@@ -527,7 +527,7 @@ export default function myPage() {
                   height={380}
                   alt="Employer attraction icon"
                   className="seeker-icons pt-8 "
-                  src="https://academicjobs.s3.amazonaws.com/icon/AcademicJobs-world.png"
+                  src="https://academicjobs.s3.amazonaws.com/icon/TeachingJobs-world.png"
                 />
               </div>
             </div>
@@ -543,7 +543,7 @@ export default function myPage() {
                       height={380}
                       alt="Job seeking bell notification icon"
                       className="seeker-icons pr-[5rem] p-4"
-                      src="https://academicjobs.s3.amazonaws.com/icon/AcademicJobs-marketing.png"
+                      src="https://academicjobs.s3.amazonaws.com/icon/TeachingJobs-marketing.png"
                     />
                   </div>
                 </div>

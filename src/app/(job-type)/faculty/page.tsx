@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   },
   description:
     'The leading job site for academic faculty jobs. Best list of college and university jobs by specialty in departments. ',
-  keywords: 'academic faculty jobs, Academic Jobs, jobs by specialty',
+  keywords: 'academic faculty jobs, Teaching Jobs, jobs by specialty',
 };
 export default function myPage() {
   return (
@@ -25,10 +25,10 @@ export default function myPage() {
             <div>
             
             <p className="px-7 mb-4 mt-1">
-            Seek your perfect faculty position through the world’s best job board! At Academic Jobs we offer the most renowned uni jobs at the top universities. Positions in academic faculty will provide you with the chance to engage with partners domestically and internationally, work with some of the brightest minds, and use top-notch facilities and resources.
+            Seek your perfect faculty position through the world’s best job board! At Teaching Jobs we offer the most renowned uni jobs at the top universities. Positions in academic faculty will provide you with the chance to engage with partners domestically and internationally, work with some of the brightest minds, and use top-notch facilities and resources.
             </p>
             <p className="px-7">
-            The No.1 job board for uni jobs, Academic Jobs, provides an extensive list of opportunities for the future of your career, carefully sectioning the top faculty jobs to find the best position for you!
+            The No.1 job board for uni jobs, Teaching Jobs, provides an extensive list of opportunities for the future of your career, carefully sectioning the top faculty jobs to find the best position for you!
             </p>
             <p className="px-7">
             Find all the best academic faculty jobs here…
@@ -64,7 +64,7 @@ export default function myPage() {
             </h1>
 
             <p className="px-7 font-bold">
-              The No.1 job board for Faculty Jobs, Academic Jobs, provides an
+              The No.1 job board for Faculty Jobs, Teaching Jobs, provides an
               extensive list of opportunities for the future of your career,
               carefully sectioning the top faculty jobs to find the best
               position for you!
