@@ -175,7 +175,7 @@ const ContactUsForm = ({ maxWidth }) => {
           </select>
         </div>
 
-        {/* Academic Details Section */}
+        {/* Teacher Details Section */}
         <h2 className="underline-full mt-10 mb-6">
           What would you Like to Say
         </h2>

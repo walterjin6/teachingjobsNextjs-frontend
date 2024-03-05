@@ -16,7 +16,7 @@ const GoogleAnalytics = () => {
 
     // Add Google Analytics script
     const script = document.createElement('script');
-    script.src = `https://www.googletagmanager.com/gtag/js?id=G-1VLH0S9KCJ`;
+    script.src = `https://www.googletagmanager.com/gtag/js?id=G-X29K6NZB61`;
     script.async = true;
     document.head.appendChild(script);
 
@@ -26,7 +26,7 @@ const GoogleAnalytics = () => {
       window.dataLayer.push(arguments);
     };
     window.gtag('js', new Date());
-    window.gtag('config', 'G-1VLH0S9KCJ');
+    window.gtag('config', 'G-X29K6NZB61');
   }, []);
 
   return null; // This component doesn't render anything
