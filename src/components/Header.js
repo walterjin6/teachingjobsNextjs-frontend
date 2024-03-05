@@ -127,7 +127,7 @@ export default function Header() {
           )}
 
           <NavItem
-            url={`/${countryMappings2[region.toLowerCase()].url}/jobs`}
+            url={`/jobs`}
             icon="/dotted-arrow.svg"
             navLink="Teaching Jobs"
             forceClass="border-b hover:border-[#e79d36]" //this is optional
@@ -135,21 +135,19 @@ export default function Header() {
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
-            url={`/${
-              countryMappings2[region.toLowerCase()].url
-            }/jobs-by-top-universities`}
+            url={`/employers`}
             icon="/upward-arrow.svg"
             navLink="Top Schools"
             forceButtonClass="border-b hover:border-[#e79d36] "
             onClick={() => setIsNavOpen(false)}
           />
-          <NavItem
+          {/* <NavItem
             url="/career-help"
             icon="/network-icon.svg"
             navLink="Career Advice"
             forceButtonClass="border-b hover:border-[#e79d36] "
             onClick={() => setIsNavOpen(false)}
-          />
+          /> */}
 
           {isNavOpen && (
             <>
@@ -189,9 +187,7 @@ export default function Header() {
 
           <div className="ml-auto post-a-job-button z-[-1] md:z-[1]">
             <NavItem
-              url={`/${
-                countryMappings2[region.toLowerCase()].url
-              }/recruitment/`}
+              url={`/post-a-job/`}
               icon="/post-a-job-icon.svg"
               navLink="Post a Job"
               forceLinkClass="ml-auto"

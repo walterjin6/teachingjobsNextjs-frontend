@@ -40,33 +40,8 @@ const nextConfig = {
         destination: '/student-jobs',
         permanent: true,
       },
-
-      {
-        source: '/employer',
-        destination: '/jobs-by-top-universities',
-        permanent: true,
-      },
-      {
-        source: '/employers',
-        destination: '/jobs-by-top-universities',
-        permanent: true,
-      },
-      {
-        source: '/global/employers',
-        destination: '/jobs-by-top-universities',
-        permanent: true,
-      },
-
-      {
-        source: '/Global/jobs-by-top-universities',
-        destination: '/jobs-by-top-universities',
-        permanent: true,
-      },
-      {
-        source: '/global/jobs-by-top-universities',
-        destination: '/jobs-by-top-universities',
-        permanent: true,
-      },
+      
+     
 
       {
         source: '/global/recruitment',

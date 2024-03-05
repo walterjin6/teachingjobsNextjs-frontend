@@ -1,34 +1,29 @@
-import React, { useState, useEffect, useRef } from 'react'
 
-import { useParams, useNavigate } from 'react-router-dom';
-import { Helmet } from "react-helmet";
-import SearchResults from './SearchResults';
 
-import { Link } from 'react-router-dom'
+import Image from 'next/image';
+import Link from 'next/link';
+import JobSearchBox from '@/components/JobSearchBox';
+import JobFilter from '@/components/JobFilter';
+import SearchResults from '@/components/SearchResults';
+import AusUniLogos from '@/components/AusUniLogos';
+import Australia from '@/components/topUnis/Australia';
+export const metadata = {
+ 
+  title: 'Academic Jobs Adelaide',
+  description: "Don’t miss this chance to work in one of the best academic environments in the world. Apply now for your dream academic job in Gold Coast! " ,
+ keywords:"Adelaide Academic Jobs Australia, Adelaide AcademicJobs",
+};
 
-const Perth = () => {
-  const handleFormSubmit = (event) => {
-
-    event.preventDefault();
-    const a = {}
-    if (keyWordRef.current.value.trim()) a.q = keyWordRef.current.value.trim()
-    if (locationRef.current.value.trim()) a.l = locationRef.current.value.trim()
-    navigate("/jobs/", { state: { q: keyWordRef.current.value.trim(), l: locationRef.current.value.trim() } });
-  }
-
-  const [page, setPage] = useState(0);
-  const navigate = useNavigate()
-  const keyWordRef = useRef('')
-  const locationRef = useRef('')
+export default function myPage() {
   return (
 
 
     <div className="">
-      <Helmet>
+      {/* <Helmet>
         <title>Perth</title>
         <meta name="description" content="On Teaching Jobs Perth You can filter by discipline, level, type, location, and more. You can also sign up for email alerts to get notified of new opportunities as they arise. " />
         <meta name="keywords" content="Teaching Jobs Perth, teaching positions Perth" />
-      </Helmet>
+      </Helmet> */}
       <div className="blurb text-left py-8 ">
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Perth | Apply Online - Job Vacancies</h1>
 
@@ -56,9 +51,9 @@ const Perth = () => {
       </div>
 
 
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 mb-4">
+      {/* <div className="container mx-auto px-4 sm:px-6 lg:px-8 mb-4">
         <div className="max-w-screen-xl mx-auto">
-          <form className="flex flex-col  gap-2 md:flex-row md:gap-2 mx-18 w-full " onSubmit={handleFormSubmit}>
+          <form className="flex flex-col  gap-2 md:flex-row md:gap-2 mx-18 w-full " >
             <input
               type="text"
               className="text-center md:w-[41%] md:text-left px-4 py-2 border border-[#f4a10c] text-gray-500 rounded-md focus:ring-orange-500 focus:border-orange-500"
@@ -80,7 +75,7 @@ const Perth = () => {
             </button>
           </form>
         </div>
-      </div>
+      </div> */}
 
 
 
@@ -88,6 +83,4 @@ const Perth = () => {
     </div> </div>
 
   );
-};
-
-export default Perth;
+}
