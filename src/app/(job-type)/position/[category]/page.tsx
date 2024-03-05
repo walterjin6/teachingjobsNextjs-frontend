@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import positionData from '@/data/position.json';
+import positionData from '@/data/cities.json';
 import SearchResults from '@/components/SearchResults';
 import JobSearchBox from '@/components/JobSearchBox';
 import JobFilter from '@/components/JobFilter';

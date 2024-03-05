@@ -32,7 +32,7 @@ export default async function myPage() {
       <div className="flex flex-col items-center justify-center mb-32">
         <div className="h-[15vh] flex flex-col items-end justify-end mb-8">
         <Link
-              href={`/admin-home/`}>
+              href={`/`}>
               <Image
               width={300}
               height={170}
@@ -75,7 +75,7 @@ It is time to shine in 2024, with finding your opportunities on TeachingJobs Tod
      
 
    
-      <h2 className="underline-full">Top Teaching Jobs Today</h2>
+      <h2 className="underline-full mt-6">Top Teaching Jobs Today</h2>
       <div className="cate-group section23 ">
     <div className="widget__text-block"><div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-4 py-2 px-7 "><div className="column "><ul className=""><li className="mb-1 mt-4 "><a className="text-blue-500 font-bold" href="/jobs/middle-leader---the-arts/66672/">Middle Leader - The Arts</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">Columba Catholic College </a></li><li className="mb-2 "><a href="/">Charters Towers, QLD</a></li><li className="mb-2 "><a href="/"> Mar 18, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"></li><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/primary-teacher-(hpe)/64334/">Primary Teacher (HPE)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St Joseph's Catholic School </a></li><li className="mb-2 "><a href="/">Mount Isa, QLD</a></li><li className="mb-2 "><a href="/">Mar 24, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/secondary-teacher-(english)/64027/">Secondary Teacher (English)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">Columba Catholic College</a></li><li className="mb-2 "><a href="/">Charters Towers, QLD</a></li><li className="mb-2 "><a href="/"> Mar 22, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/secondary-teacher-(english---humanities)/66671/">Secondary Teacher (English &amp; Humanities) (71101)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">Good Shepherd Catholic College</a></li><li className="mb-2 "><a href="/">Mount Isa, QLD</a></li><li className="mb-2 "><a href="/">Mar 18, 2024</a></li></ul></ul></div></div><div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-4 py-2 px-7"><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/primary-teacher/63526/">Primary Teacher</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St Francis Catholic School</a></li><li className="mb-2 "><a href="/">Ayr, QLD</a></li><li className="mb-2 "><a href="/">Mar 16, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/primary-secondary-teacher---internal-relief/66688/">Primary/Secondary Teacher - Internal Relief</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St Joseph's Catholic School</a></li><li className="mb-2 "><a href="/">Cloncurry QLD</a></li><li className="mb-2 "><a href="/">Mar 29, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/foundation-principal/64922/">Secondary Teacher (Junior Woodwork and Metalwork &amp; Senior Furnishings)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">Good Shepherd Catholic College</a></li><li className="mb-2 "><a href="/">Mount Isa, QLD</a></li><li className="mb-2 "><a href="/">Mar 29, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/">Primary Teacher (Prep)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St John Bosco Catholic School</a></li><li className="mb-2 "><a href="/">Collinsville, QLD</a></li><li className="mb-2 "><a href="/">Mar 29, 2024</a></li></ul></ul></div></div><div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-4 py-2 px-7"><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/middle-leader---science/66666/">Middle Leader - Science</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">Columba Catholic College</a></li><li className="mb-2 "><a href="/">Charters Towers, QLD</a></li><li className="mb-2 "><a href="/">Mar 18, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/primary-teacher/66673/">Primary Teacher</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St John Bosco Catholic School</a></li><li className="mb-2 "><a href="/">Collinsville, QLD</a></li><li className="mb-2 "><a href="/">Mar 18, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/primary-teachers-(multiple-positions)/64336/">Primary Teachers (multiple positions)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St Joseph's Catholic School</a></li><li className="mb-2 "><a href="/">Mount Isa, QLD</a></li><li className="mb-2 "><a href="/">Mar 24, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/middle-leader---inclusive-practices/66667/">Middle Leader - Inclusive Practices</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St Joseph's Catholic School</a></li><li className="mb-2 "><a href="/">Cloncurry, QLD</a></li><li className="mb-2 "><a href="/">Mar 18, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/primary-teacher-(lote)/62733/">Primary Teacher (LOTE)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St Francis Catholic School</a></li><li className="mb-2 "><a href="/">Ayr, QLD</a></li><li className="mb-2 "><a href="/">Mar 8, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/primary-teacher-(year-6)/62636/">Primary Teacher (Year 6)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">St Michael's Catholic School</a></li><li className="mb-2 "><a href="/">Palm Island, QLD</a></li><li className="mb-2 "><a href="/">Mar 7, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/middle-leader---mathematics/66670/">Middle Leader - Mathematics</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">Good Shepherd Catholic College</a></li><li className="mb-2 "><a href="/">Mount Isa, QLD</a></li><li className="mb-2 "><a href="/">Mar 18, 2024</a></li></ul></ul></div><div className="column"><ul className=""><li className="mb-1 mt-4"><a className="text-blue-500 font-bold" href="/jobs/hospitality,-food-and-fibre-teacher-(secondary)/66664/">Hospitality, Food and Fibre Teacher (Secondary)</a></li><ul className="innerUL"><li className="mb-2 "><a href="/">Ryan Catholic College</a></li><li className="mb-2 "><a href="/">Townsville, QLD</a></li><li className="mb-2 "><a href="/">Mar 31, 2024</a></li></ul></ul></div></div></div>
       </div>
@@ -83,529 +83,394 @@ It is time to shine in 2024, with finding your opportunities on TeachingJobs Tod
         view more top jobs →
       </Link>
 
-      {/* <div className="ml-2">
-      {/* <Link                 href="https://cportal.jobelephant.com/login"
-                 className="btn text-white mt-8 bg-[#265882] px-4"
-               >
-                  Post Your JobElephant Now
-               </Link></div> */}
+      <div className= "bg-white flex flex-col  ">
+          <h2 className= "underline-full mt-6 ">
+            Choose Job Types
+          </h2>
+          <ul className= " mb-8 text-left columns-1 md:columns-4  md:gap-2 py-2 pl-8 h-auto w-full text-transform: capitalize">
+            <li className= "pb-2 flex  ">
+              <a href="/graduate-teacher/">graduate teacher</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/library-services/">library services</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/information-management/">information management</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/schools-management/">schools management</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/vocational-management/">vocational management</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/principal/">principal</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/student-services/">student services</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/early-childhood/">early childhood</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/primary/">primary</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/secondary/">secondary</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/tertiary/">tertiary</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/vocational/">vocational</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/special-needs-aides/">special needs aides</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/tutoring/">tutoring</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/training-assessment/">training assessment</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/relief-teaching/">relief teaching</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/administrative/">administrative</a>
+            </li>
+          </ul>
+          <div className= "newLine"></div>
+        </div>
 
-      <h2 className="underline-full mt-20">Top Cities for Uni Jobs</h2>
-      <div className="cate-group section23 ">
-        <div className="widget__text-block">
-          <div className="faculty-container grid-cols-2 grid md:grid-cols-4 gap-8 py-2 px-7">
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link href="/USA/" className="text-[#e79d36] font-bold">
-                    USA
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/boston/">Boston</Link>
+        <div className= "bg-white flex flex-col  ">
+          <h2 className= "underline-full mt-6 ">
+            Choose Teaching Jobs by City
+          </h2>
+          <ul className= " mb-8 text-left columns-1 md:columns-4  md:gap-2 py-2 pl-8 h-auto w-full text-transform: capitalize">
+            <li className= "pb-2 flex  ">
+              <a href="/melbourne/">melbourne</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/sydney/">sydney</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/brisbane/">brisbane</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/gold-coast/">gold coast</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/canberra/">canberra</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/perth/">perth</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/adelaide/">adelaide</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/darwin/">darwin</a>
+            </li>
+          </ul>
+          <div className= "newLine"></div>
+        </div>
+
+        <div className= "bg-white flex flex-col  ">
+          <h2 className= "underline-full mt-6 ">
+            Choose Teaching Jobs by State
+          </h2>
+          <ul className= " mb-8 text-left columns-1 md:columns-4  md:gap-2 py-2 pl-8 h-auto w-full text-transform: capitalize">
+            <li className= "pb-2 flex  ">
+              <a href="/victoria/">victoria</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/NSW/">NSW</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/queensland/">queensland</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/south-australia/">south australia</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/western-australia/">western australia</a>
+            </li>
+            <li className= "pb-2 flex  ">
+              <a href="/northern-territory/">northern territory</a>
+            </li>
+            <li className= "pb-2 flex md:break ">
+              <a href="/tasmania/">tasmania</a>
+            </li>
+          </ul>
+          <div className= "newLine"></div>
+        </div>
+
+        <h2 className="underline-full mt-6">
+          Top Teaching Jobs at Schools
+        </h2>
+        <div className="cate-group section23 ">
+          <div className="widget__text-block">
+            <div className="faculty-container grid-cols-2 grid md:grid-cols-4 gap-8 py-2 px-7">
+              <div className="column">
+                <ul className="">
+                  <li className="mb-1 mt-4">
+                    <Link href="/USA/" className="text-[#e39e39] font-bold">
+                      NSW
+                    </Link>
                   </li>
-                  <li className="hover:underline">
-                    <Link href="/new-york/">New York</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/los-angeles/">Los Angeles</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/san-francisco/">San Francisco</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/chicago/">Chicago</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/san-diego/">San Diego</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/washington-dc/">Washington DC</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/philadelphia/">Philadelphia</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/atlanta/">Atlanta</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/seattle/">Seattle</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/pittsburgh/">Pittsburgh</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/new-haven/">New Haven</Link>
-                  </li>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/sceggs-darlinghurst/15840/">
+                        SCEGGS Darlinghurst
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/ascham-School/11527/">
+                        Ascham School
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/al-noori-muslim-school/15858/">
+                        AL Noori Muslim school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/sydney-grammar-school/11556/">
+                        Sydney Grammar school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/presbyterian-ladies-college-sydney/15839/">
+                        Presbyterian Ladies College Sydney
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/meriden-school/15835/">
+                        Meriden school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/brisbane-girls-grammar-school/15844/">
+                        Brisbane girls grammar-school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/redeemer-baptist-school/15838/">
+                        Redeemer Baptist school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="employers/red-bend-catholic-college/1040/">
+                        Red Bend Catholic college
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/brisbane-grammar-school/15837">
+                        Brisbane Grammar school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/queenwood/15859">Queenwood</Link>
+                    </li>
+                  </ul>
                 </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link href="/Australia/" className="text-[#e79d36] font-bold">
-                    Australia
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/melbourne/">Melbourne</Link>
+              </div>
+              <div className="column">
+                <ul className="">
+                  <li className="mb-1 mt-4">
+                    <Link href="/Australia/" className="text-[#e39e39] font-bold">
+                      Victoria
+                    </Link>
                   </li>
-                  <li className="hover:underline">
-                    <Link href="/sydney/">Sydney</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/brisbane/">Brisbane</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/gold-coast/">Gold Coast</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/canberra/">Canberra</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/perth/">Perth</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/adelaide/">Adelaide</Link>
-                  </li>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/victoria-state-government-education-and-training/19/">
+                        Victoria State Government Education and Training
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/presbyterian-ladies-college/15842/">
+                        Presbyterian Ladies College
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/st-aloysius-college/15841/">
+                        St Aloysius College
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/ballarat-clarendon-college/15836/">
+                        Ballarat Clarendon College
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/korowa-anglican-girls-school/15845/">
+                        Korowa Anglican girls school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/camberwell-grammar-school/15846/">
+                        Camberwell Grammar school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/st-andrews-christian-college/15856/">
+                        St Andrews Christian College
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/haileybury-college/15855/">
+                        Haileybury College
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/christ-church-grammar-school/15860/">
+                        Christ Church Grammar school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/huntingtower-school/15834/">
+                        Huntingtower school
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/belmont-christian-college/15898/">
+                        Belmont Christian College
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/lighthouse-christian-college-cranbourne/15843/">
+                        Lighthouse Christian College Cranbourne
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/fintona-girls-school/11527/">
+                        Fintona girls school
+                      </Link>
+                    </li>
+                  </ul>
                 </ul>
-                <li className="mb-1 mt-4">
-                  <Link href="/UK/" className="text-[#e79d36] font-bold">
-                    UK
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/london/">London</Link>
+              </div>
+              <div className="column">
+                <ul className="">
+                  <li className="mb-1 mt-4">
+                    <Link href="/UK/" className="text-[#e39e39] font-bold">
+                      Queensland
+                    </Link>
                   </li>
-                  <li className="hover:underline">
-                    <Link href="/edinburgh/">Edinburgh</Link>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/queensland-government-department-of-education/18/">
+                        Queensland - Government - Department of Education
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/catholic-education-services-diocese-of-cairns/60/">
+                        Catholic - Education services Diocese of Cairns
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/townsville-catholic-education-office/35/">
+                        Townsville Catholic Education Office
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/somerville-house/15847/">
+                        Somerville House
+                      </Link>
+                    </li>
+                  </ul>
+                  <li className="mb-1 mt-4">
+                    <Link href="/Europe/" className="text-[#e39e39] font-bold">
+                      ACT
+                    </Link>
                   </li>
-                  <li className="hover:underline">
-                    <Link href="/manchester/">Manchester</Link>
-                  </li>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/act-government-department-of-education/20/">
+                        ACT Government - Department of Education
+                      </Link>
+                    </li>
+                    <li className="mb-2 ">
+                      <Link href="/employers/orana-steiner-school/14803/">
+                        Orana Steiner school
+                      </Link>
+                    </li>
+                  </ul>
                 </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link href="/Canada/" className="text-[#e79d36] font-bold">
-                    Canada
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/toronto/">Toronto</Link>
+              </div>
+              <div className="column">
+                <ul className="">
+                  <li className="mb-1 mt-4">
+                    <Link href="/Europe/" className="text-[#e39e39] font-bold">
+                      Western Australia
+                    </Link>
                   </li>
-                  <li className="hover:underline">
-                    <Link href="/vancouver/">Vancouver</Link>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/international-school-of-western-australia/15848/">
+                        International School of Western Australia
+                      </Link>
+                    </li>
+
+                    <li className="mb-2 ">
+                      <Link href="/employers/st-hildas-anglican-school-for-girls/11459/">
+                        St Hildas Anglican school for girls
+                      </Link>
+                    </li>
+                  </ul>
+                  <li className="mb-1 mt-4">
+                    <Link href="/Europe/" className="text-[#e39e39] font-bold">
+                      South Australia
+                    </Link>
                   </li>
-                  <li className="hover:underline">
-                    <Link href="/montreal/">Montreal</Link>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/government-of-south-australia-department-for-education/17/">
+                        Government of South Australia Department for Education
+                      </Link>
+                    </li>
+                  </ul>
+                  <li className="mb-1 mt-4">
+                    <Link href="/Europe/" className="text-[#e39e39] font-bold">
+                      Nothern Territory
+                    </Link>
                   </li>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/northern-territory-department-of-education/21/">
+                        Northern Territory Department of Education
+                      </Link>
+                    </li>
+                  </ul>
+                  <li className="mb-1 mt-4">
+                    <Link href="/Europe/" className="text-[#e39e39] font-bold">
+                      Tasmania
+                    </Link>
+                  </li>
+                  <ul className="innerUL">
+                    <li className="mb-2 ">
+                      <Link href="/employers/tasmanian-government-education/12/">
+                        Tasmanian Government Education
+                      </Link>
+                    </li>
+                  </ul>
                 </ul>
-                <li className="mb-1 mt-4">
-                  <Link href="/Asia/" className="text-[#e79d36] font-bold">
-                    Asia
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/hong-kong/">Hong Kong</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/beijing/">Beijing</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/tokyo/">Tokyo</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/singapore/">Singapore</Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link href="/Europe/" className="text-[#e79d36] font-bold">
-                    Europe
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/paris/">Paris</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/zurich/">Zurich</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/munich/">Munich</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/amsterdam/">Amsterdam</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/copenhagen/">Copenhagen</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/stockholm/">Stockholm</Link>
-                  </li>
-                </ul>
-              </ul>
+              </div>
             </div>
           </div>
         </div>
-      </div>
 
-      {/* WIP */}
-      {/* <h2 className="underline-full mt-20">Top Universities To Work For</h2>
-      <div className="cate-group section23 ">
-        <div className="widget__text-block">
-          <div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-4 py-2 px-7">
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link
-                    href="https://www.academicjobs.com/employers/queensland-university-of-technology/3786/"
-                    className="text-[#003463] font-bold"
-                  >
-                    Queensland University of Technology (QUT)
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/jobs/QUT-lecturer/">QUT Lecturing Jobs</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/QUT-research/">QUT Research Jobs</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/QUT-professor/">
-                      QUT Professorial Jobs
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/QUT-Executive/">QUT Executive</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/QUT-Administration/">
-                      QUT Administration
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/QUT-Human-Resources/">
-                      QUT Human Resources
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/QUT-jobs/">QUT Jobs</Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link
-                    href="/employers/bond-university/3785/"
-                    className="text-orange-500 font-bold"
-                  >
-                    Bond University
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/jobs/bond-lecturer/">Bond Lecturing Jobs</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/bond-research/">Bond Research Jobs</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/bond-professor/">
-                      Bond Professorial Jobs
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/bond-Executive/">Bond Executive</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/bond-Administration/">
-                      Bond Administration
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/bond-Human-Resources/">
-                      Bond Human Resources
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/bond-jobs/">Bond Jobs</Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link
-                    href="/employers/harvard-university/3100/"
-                    className="text-[#A51C30] font-bold"
-                  >
-                    Harvard University
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/jobs/harvard-lecturer/">
-                      Harvard Lecturing Jobs
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/harvard-research/">
-                      Harvard Research Jobs
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/harvard-professor/">
-                      Harvard Professorial Jobs
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/harvard-Executive/">
-                      Harvard Executive
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/harvard-Administration/">
-                      Harvard Administration
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/harvard-Human-Resources/">
-                      Harvard Human Resources
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/harvard-jobs/">Harvard Jobs</Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <li className="mb-1 mt-4">
-                  <Link
-                    href="https://www.academicjobs.com/employers/university-of-california-san-diego/3149/"
-                    className="text-[#192847] font-bold"
-                  >
-                    University of California Las Angeles (UCLA)
-                  </Link>
-                </li>
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/jobs/UCLA-lecturer/">UCLA Lecturing Jobs</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/UCLA-research/">UCLA Research Jobs</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/UCLA-professor/">
-                      UCLA Professorial Jobs
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/UCLA-Executive/">UCLA Executive</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/UCLA-Administration/">
-                      UCLA Administration
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/UCLA-Human-Resources/">
-                      UCLA Human Resources
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/jobs/UCLA-jobs/">UCLA Jobs</Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div> */}
+ 
 
-      {/* <h2 className="underline-full mt-20">
-        The University Rankings/ Top Academic Careers
-      </h2>
-      <div className="cate-group section23 ">
-        <div className="widget__text-block">
-          <div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-4 py-2 px-7 ">
-            <div className="column">
-              <ul className="">
-                <ul className="pb-4">
-                  <li className="hover:underline">
-                    <Link href="/employers/harvard-university/3100/">
-                      {' '}
-                      Harvard University
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/stanford-university/3101/">
-                      {' '}
-                      Stanford University
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/university-of-cambridge/12635/">
-                      {' '}
-                      University of Cambridge
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/massachusetts-institute-of-technology/3103/">
-                      MIT
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/university-of-california-berkeley/3105/">
-                      {' '}
-                      University of California, Berkeley
-                    </Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/employers/princeton-university/3104/">
-                      {' '}
-                      Princeton University
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/university-of-oxford/3099/">
-                      {' '}
-                      University of Oxford
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/columbia-university/3127/">
-                      {' '}
-                      Columbia University
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/caltech/3128/">Caltech</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/University-of-Chicago/3126/">
-                      {' '}
-                      University of Chicago
-                    </Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/employers/yale-university/3125/">
-                      {' '}
-                      Yale University
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/Cornell-University/3138/">
-                      Cornell University
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/university-of-california-los-angeles/3136/">
-                      UCLA
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/university-of-pennsylvania/3131/">
-                      UPenn
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/johns-hopkins-university/3130/">
-                      Johns Hopkins University (JHU)
-                    </Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-            <div className="column">
-              <ul className="">
-                <ul className="innerUL">
-                  <li className="hover:underline">
-                    <Link href="/employers/university-college-london/12527/">
-                      University College London (UCL)
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/eth-zurich/3132/">ETH Zurich</Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/university-of-tokyo/3155/">
-                      The University of Tokyo (UTokyo)
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/new-york-university-nyu/3144/">
-                      New York University (NYU)
-                    </Link>
-                  </li>
-                  <li className="hover:underline">
-                    <Link href="/employers/duke-university/3139/">
-                      {' '}
-                      Duke University (Duke)
-                    </Link>
-                  </li>
-                </ul>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div> */}
+    
 
-      {/* These are broken */}
-      {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-16">
-        <Link
-          href="/job-type/"
-          className="btn btn-white border-4 shadow-md leading-none"
-        >
-          → Find Academic<span className="font-bold"> Job-Types</span>{' '}
-          <span className="hide-mobile">(i.e. Professor, Fellow)</span>
-        </Link>
-        <Link
-          href="/industry/"
-          className="btn btn-white border-4 shadow-md leading-none"
-        >
-          → Find Academic Positions in
-          <span className="font-bold"> Industry</span>
-          <span className="hide-mobile">
-            (i.e. laboratory technical services)
-          </span>
-        </Link>
-      </div> */}
-
-      <div className="card-actions flex mt-4 mx-auto">
+      {/* <div className="card-actions flex mt-4 mx-auto">
         <Link href="/academic-talent-pool" className="btn btn-aj">
           Join our Talent Pool
         </Link>
-      </div>
+      </div> */}
     </main>
   );
 }

@@ -78,18 +78,29 @@ export default function Header() {
       <div className="hamburger-wrapper">
         {pathname === '/' ? (
           isNavOpen && (
-            <Link
-              href={`/${countryMappings2[region.toLowerCase()].url}`}
+          
+              <Link
+              href={`/`}>
+              <Image
+              width={300}
+              height={170}
               className={`static-logo mobile`}
-              onClick={() => setIsNavOpen(false)}
-            >
-              <LogoAJ width={270} height={60} />{' '}
+                src="/newteachingjobslogo.png"
+                alt=""
+              />
             </Link>
           )
         ) : (
-          <Link href={`/${countryMappings2[region.toLowerCase()].url}`} className={`static-logo mobile`}>
-            <LogoAJ width={270} height={60} />{' '}
-          </Link>
+          <Link
+          href={`/`}>
+          <Image
+          width={300}
+          height={170}
+          className={`static-logo mobile`}
+            src="/newteachingjobslogo.png"
+            alt=""
+          />
+        </Link>
         )}
         <HamburgerMenuIcon
           key={isNavOpen}
@@ -107,15 +118,22 @@ export default function Header() {
       <header className={`header ${isNavOpen ? 'show-menu shadow-xl' : ''} `}>
         <nav>
           {pathname === '/' ? null : (
-            <Link href={`/${countryMappings2[region.toLowerCase()].url}`} className="hide-mobile static-logo mr-4">
-              <LogoAJ width={270} height={60} />{' '}
-            </Link>
+                <Link
+                href={`/`}>
+                <Image
+                width={200}
+                height={100}
+                className='mr-8'
+                  src="/newteachingjobslogo.png"
+                  alt=""
+                />
+              </Link>
           )}
 
           <NavItem
             url={`/${countryMappings2[region.toLowerCase()].url}/jobs`}
             icon="/dotted-arrow.svg"
-            navLink="Seek Jobs"
+            navLink="Teaching Jobs"
             forceClass="border-b hover:border-[#e79d36]" //this is optional
             forceButtonClass="border-b hover:border-[#e79d36] mr-2 "
             onClick={() => setIsNavOpen(false)}
@@ -123,63 +141,18 @@ export default function Header() {
           <NavItem
             url={`/${countryMappings2[region.toLowerCase()].url}/jobs-by-top-universities`}
             icon="/upward-arrow.svg"
-            navLink="Top Universities"
+            navLink="Top Schools"
             forceButtonClass="border-b hover:border-[#e79d36] "
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
             url="/career-help"
             icon="/network-icon.svg"
-            navLink="Career Help"
+            navLink="Career Advice"
             forceButtonClass="border-b hover:border-[#e79d36] "
             onClick={() => setIsNavOpen(false)}
           />
-          <div
-            className={`hide-mobile p-2  md:w-52  dropdown-content z-[1] menu px-4 py-2   rounded-box w-31 } `}
-            style={{ maxWidth: '62px' }}
-            onMouseLeave={onMouseLeave}
-          >
-            <div
-              className="  text-gray-900 relative"
-              onMouseEnter={onMouseEnter}
-            >
-              {countryMappings1[region].hasPic ? (
-                <Image
-                  src={`https://academicjobs.s3.amazonaws.com/icon/countryFlag/${region}.svg`}
-                  alt={region}
-                  width={30}
-                  height={30}
-                />
-              ) : (
-                <span className="" style={{ height: '20px' }}>
-                  {region}
-                </span>
-              )}
-              <ul
-                onMouseLeave={onMouseLeave}
-                className={`${
-                  dropdown ? 'block' : 'hidden'
-                } absolute  left-0 text-[0.875rem] z-99  min-w-[10rem] py-1 bg-white rounded-lg shadow-lg shadow-indigo-500/40`}
-                ref={ref}
-              >
-                {Object.keys(countryMappings1).map((key) => (
-                  <li className="navbar__item" key={key}>
-                    <DispatchLink
-                      to={`/${key}/`}
-                      region={key}
-                      setDropdown={setDropdown}
-                      setIsNavOpen={setIsNavOpen}
-                      className="navbar__link"
-                    >
-                      {countryMappings1[key].menu}
-                    </DispatchLink>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            {/* </div> */}
-            {/* </div> */}
-          </div>
+         
 
           {isNavOpen && (
             <>

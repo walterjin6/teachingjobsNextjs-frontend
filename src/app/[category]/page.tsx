@@ -1,5 +1,5 @@
 // import Link from 'next/link';
-import citiesData from '@/data/cities.json';
+import positionData from '@/data/position.json';
 import SearchResults from '@/components/SearchResults';
 import JobSearchBox from '@/components/JobSearchBox';
 import JobFilter from '@/components/JobFilter';
@@ -16,7 +16,7 @@ type MetadataTypes = {
 export async function generateMetadata({ params, searchParams }: any) {
   // console.log(params)
   let { category } = params;
-  // console.log(citiesData)
+  // console.log(positionData)
   // console.log(category);
   category = category?.replace(/-/g, ' ');
   // console.log(category);
@@ -27,7 +27,7 @@ export async function generateMetadata({ params, searchParams }: any) {
     Description = '',
     Keyword = '',
     content: content1 = '',
-  } = citiesData.find((item) => item.Name === category) || {};
+  } = positionData.find((item) => item.Name === category) || {};
 
   return {
     title: Title,
@@ -41,12 +41,12 @@ export default function Page({ params, searchParams }: any) {
   // console.log("````````````````````params````````````````````")
   // console.log(params)
   let { category } = params
-  // console.log(citiesData)
+  // console.log(positionData)
   // console.log(category);
   category = category?.replace(/-/g, " ");
   // console.log(category);   
 
-  const city = citiesData.find((item) => item.Name === category);
+  const city = positionData.find((item) => item.Name === category);
 
   if (!city) {
     console.error('City not found');
@@ -68,7 +68,7 @@ export default function Page({ params, searchParams }: any) {
   //console.log(company_description)
   content = (
     <div className="content-grid flex-col md:gap-2">
-      {/* <Link className="text-[#e79d36] " href="/cities/">
+      {/* <Link className="text-[#e79d36] " href="/position/">
         View all Lecturer Jobs →
       </Link> */}
 
@@ -81,7 +81,7 @@ export default function Page({ params, searchParams }: any) {
         </div>
       </div>
 
-      <JobSearchBox l={Name} />
+      <JobSearchBox q={Name} />
 
       <section className="jobs_grid job_post_search_container">
         <div className="filters_panel">
@@ -91,7 +91,7 @@ export default function Page({ params, searchParams }: any) {
         </div>
         <div className="listings_panel">
           <div className="listings_content">
-          <SearchResults q={{ q: '', l:Name }} />
+          <SearchResults q={{ q: Name, l:'' }} />
           </div>
         </div>
       </section>
