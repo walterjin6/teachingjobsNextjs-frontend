@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  env: {
   images: {
     domains: [
       'academicjobs.s3.amazonaws.com',
@@ -40,8 +39,6 @@ const nextConfig = {
         destination: '/student-jobs',
         permanent: true,
       },
-      
-     
 
       {
         source: '/global/recruitment',
@@ -468,4 +465,5 @@ const nextConfig = {
     ];
   },
 };
+
 module.exports = nextConfig;

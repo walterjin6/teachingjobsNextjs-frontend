@@ -8,9 +8,14 @@ const Footer = () => {
           <ul>
             <li className="text-white font-bold text-xl pb-1 ">Navigation</li>
             {/* <li><a className="footer-nav__link" href="/">Home</a></li> */}
-            <li>
+
+            {/* <li>
               <Link href="/">Home</Link>
+            </li> */}
+            <li>
+              <Link href="/about/">About TeachingJobs</Link>
             </li>
+
             <li>
               <Link href="/school-career-advice/">Career Advice</Link>
             </li>
@@ -39,9 +44,6 @@ const Footer = () => {
           <ul>
             <li className="text-white font-bold text-xl pb-1 ">School</li>
 
-            <li>
-              <Link href="/about/">About TJ</Link>
-            </li>
             <li>
               <a
                 target="_blank"
