@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
-import LogoAJ from '@/components/brand/LogoAJ';
+import LogoAJ from '@/components/brand/Logo';
 import NavItem from '@/components/NavItem';
 import DispatchLink from '@/components/DispatchLink';
 import { useStore } from '@/lib/store/store';
@@ -78,29 +78,26 @@ export default function Header() {
       <div className="hamburger-wrapper">
         {pathname === '/' ? (
           isNavOpen && (
-          
-              <Link
-              href={`/`}>
+            <Link href={`/`}>
               <Image
-              width={300}
-              height={170}
-              className={`static-logo mobile`}
+                width={300}
+                height={170}
+                className={`static-logo mobile`}
                 src="/newteachingjobslogo.png"
                 alt=""
               />
             </Link>
           )
         ) : (
-          <Link
-          href={`/`}>
-          <Image
-          width={300}
-          height={170}
-          className={`static-logo mobile`}
-            src="/newteachingjobslogo.png"
-            alt=""
-          />
-        </Link>
+          <Link href={`/`}>
+            <Image
+              width={300}
+              height={170}
+              className={`static-logo mobile`}
+              src="/newteachingjobslogo.png"
+              alt=""
+            />
+          </Link>
         )}
         <HamburgerMenuIcon
           key={isNavOpen}
@@ -118,16 +115,15 @@ export default function Header() {
       <header className={`header ${isNavOpen ? 'show-menu shadow-xl' : ''} `}>
         <nav>
           {pathname === '/' ? null : (
-                <Link
-                href={`/`}>
-                <Image
+            <Link href={`/`}>
+              <Image
                 width={200}
                 height={100}
-                className='mr-8'
-                  src="/newteachingjobslogo.png"
-                  alt=""
-                />
-              </Link>
+                className="mr-8"
+                src="/newteachingjobslogo.png"
+                alt=""
+              />
+            </Link>
           )}
 
           <NavItem
@@ -139,7 +135,9 @@ export default function Header() {
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
-            url={`/${countryMappings2[region.toLowerCase()].url}/jobs-by-top-universities`}
+            url={`/${
+              countryMappings2[region.toLowerCase()].url
+            }/jobs-by-top-universities`}
             icon="/upward-arrow.svg"
             navLink="Top Schools"
             forceButtonClass="border-b hover:border-[#e79d36] "
@@ -152,7 +150,6 @@ export default function Header() {
             forceButtonClass="border-b hover:border-[#e79d36] "
             onClick={() => setIsNavOpen(false)}
           />
-         
 
           {isNavOpen && (
             <>

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import LogoAJ from '@/components/brand/LogoAJ';
+import LogoAJ from '@/components/brand/Logo';
 import type { Metadata } from 'next';
 import JobSearchBoxHome from '@/components/JobSearchBoxHome';
 import JobCategoryAndLocationLinks from '@/components/links/JobCategoryAndLocationLinks';
