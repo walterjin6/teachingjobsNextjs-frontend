@@ -120,7 +120,7 @@ export default function Page() {
         <a>▼</a></div> */}
         {/* <div className="bg-gradient-to-b to-white from-orange-100 rounded-t-[3rem] mt-[-1rem]"> */}
         {/* <div className=" max-w-screen-xl mx-auto">
-          <div className="blurb text-left py-8 mt-[30rem] ">
+          <div className="blurb text-left py-8 content-gridmt-[30rem] ">
             <h1 className="py-3 px-7 bg-[#922c40] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Teaching Jobs Middle East</h1>
             <div className="newLine mb-4">
               <p className="font-semibold"></p>

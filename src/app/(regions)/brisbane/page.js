@@ -22,7 +22,7 @@ export default function myPage() {
         <meta name="description" content="Are you searching for a teaching job in the brisbane? Visit our website at Teaching Jobs, to see our available employment positions for teaching jobs in brisbane" />
         <meta name="keywords" content="Teaching Jobs Brisbane, teaching positions Brisbane" />
       </Helmet> */}
-      <div className="blurb text-left py-8 ">
+      <div className="blurb text-left py-8 content-grid">
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs Brisbane | Apply Online - Job Vacancies</h1>
 
         <div className="newLine mb-4">

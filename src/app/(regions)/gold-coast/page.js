@@ -22,8 +22,8 @@ export default function myPage() {
         <meta name="description" content="Don’t miss this chance to work in one of the best teaching environments in the world. Apply now for your dream teaching job in the Gold Coast!" />
         <meta name="keywords" content="Teaching Jobs Gold Coast, teaching positions Gold Coast" />
       </Helmet> */}
-      <div className="blurb text-left py-8 ">
-        <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Gold Coast| Apply Online - Job Vacancies</h1>
+      <div className="blurb text-left py-8 content-grid">
+        <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs Gold Coast | Apply Online - Job Vacancies</h1>
 
         <div className="newLine mb-4">
           <p className="font-semibold"></p>

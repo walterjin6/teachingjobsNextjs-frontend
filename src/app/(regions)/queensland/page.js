@@ -22,7 +22,7 @@ export default function myPage() {
         <meta name="description" content="Teaching Jobs have teaching jobs in QLD available throughout the state. Visit our website to see the employment positions available in private, public and catholic schools." />
         <meta name="keywords" content="queensland teaching jobs . queensland teaching positions" />
       </Helmet> */}
-      <div className="blurb text-left py-8 ">
+      <div className="blurb text-left py-8 content-grid">
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs Queensland | Apply Online - Job Vacancies</h1>
 
         <div className="newLine mb-4">

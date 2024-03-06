@@ -22,7 +22,7 @@ export default function myPage() {
         <meta name="description" content="Visit our job board today at Teaching Jobs, to see all of our employment and job vacancies available including public, private and catholic teaching jobs in Western Australia." />
         <meta name="keywords" content="western australia teaching jobs . western austrlaia teaching positions" />
       </Helmet> */}
-      <div className="blurb text-left py-8 ">
+      <div className="blurb text-left py-8 content-grid">
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs Western Australia | Apply Online | Job Vacancies</h1>
 
         <div className="newLine mb-4">

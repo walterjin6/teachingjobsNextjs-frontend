@@ -23,7 +23,7 @@ export default function myPage() {
         <meta name="description" content="At Teaching Jobs, we have a wide range of job vacancies & employments for teaching in Adelaide. Visit our job board for private and public jobs. Apply online now!" />
         <meta name="keywords" content="aidelaide teaching jobs . south australia teaching jobs" />
       </Helmet> */}
-      <div className="blurb text-left py-8 ">
+      <div className="blurb text-left py-8 content-grid">
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs South Australia | Apply Online | Vacancies</h1>
 
         <div className="newLine mb-4">

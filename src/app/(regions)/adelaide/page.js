@@ -15,7 +15,7 @@ export const metadata = {
 export default function myPage() {
   return (
     <div className="">
-      <div className="blurb text-left py-8 ">
+      <div className="blurb text-left py-8 content-grid">
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#00aeef] text-white rounded-full shadow-xl ">
           Adelaide Teaching Jobs Australia
         </h1>

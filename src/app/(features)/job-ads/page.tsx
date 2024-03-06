@@ -633,7 +633,7 @@ export default function myPage() {
 
         
         <div className=' max-w-screen-2xl mx-auto'>
-        <div className="blurb text-left py-8 px-4">
+        <div className="blurb text-left py-8 content-gridpx-4">
           <h1 className="text-3xl font-bold py-4 px-7 bg-[#e79d36] text-white rounded-full shadow-xl">Advertising made easy</h1>
           <div className="newLine mb-4">
             <p className="font-semibold"></p>

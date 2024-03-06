@@ -23,7 +23,7 @@ export default function myPage() {
         <meta name="description" content="Do you wish to apply for a teaching job in NSW? Visit our website today at Teaching Jobs, to see all our available positions throughout NSW. Apply online now!" />
         <meta name="keywords" content="nsw teaching jobs . new south whales teaching positions" />
       </Helmet> */}
-      <div className="blurb text-left py-8 ">
+      <div className="blurb text-left py-8 content-grid">
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs NSW | Apply Online | Job Vacancies</h1>
 
         <div className="newLine mb-4">
