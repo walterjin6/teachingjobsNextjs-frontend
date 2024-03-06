@@ -83,7 +83,7 @@ export default function Header() {
                 width={300}
                 height={170}
                 className={`static-logo mobile`}
-                src="/newteachingjobslogo.png"
+                src="/teaching-jobs-logo.png"
                 alt=""
               />
             </Link>

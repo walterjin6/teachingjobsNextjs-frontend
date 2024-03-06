@@ -2438,41 +2438,7 @@ const nextConfig = {
         destination: 'https://www.academicjobs.com/uk/admin',
         permanent: true,
         },
-        // {
-        // source: '/melbourne',
-        // destination: 'https://www.academicjobs.com/melbourne',
-        // permanent: true,
-        // },
-        // {
-        // source: '/sydney',
-        // destination: 'https://www.academicjobs.com/sydney',
-        // permanent: true,
-        // },
-        // {
-        // source: '/brisbane',
-        // destination: 'https://www.academicjobs.com/brisbane',
-        // permanent: true,
-        // },
-        // {
-        // source: '/gold-coast',
-        // destination: 'https://www.academicjobs.com/gold-coast',
-        // permanent: true,
-        // },
-        // {
-        // source: '/canberra',
-        // destination: 'https://www.academicjobs.com/canberra',
-        // permanent: true,
-        // },
-        // {
-        // source: '/perth',
-        // destination: 'https://www.academicjobs.com/perth',
-        // permanent: true,
-        // },
-        // {
-        // source: '/adelaide',
-        // destination: 'https://www.academicjobs.com/adelaide',
-        // permanent: true,
-        // },
+      
         {
         source: '/singapore',
         destination: 'https://www.academicjobs.com/singapore',
