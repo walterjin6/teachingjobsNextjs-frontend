@@ -83,7 +83,7 @@ export default function Header() {
                 width={300}
                 height={170}
                 className={`static-logo mobile`}
-                src="/newteachingjobslogo.png"
+                src="/teaching-jobs-logo.png"
                 alt=""
               />
             </Link>
@@ -119,7 +119,7 @@ export default function Header() {
               <Image
                 width={200}
                 height={100}
-                className="mr-8"
+                className="mr-8 hide-mobile static-logo"
                 src="/newteachingjobslogo.png"
                 alt=""
               />
@@ -167,7 +167,7 @@ export default function Header() {
 
           {isNavOpen && (
             <>
-              <a
+              {/* <a
                 className="btn btn-aj w-full mt-4"
                 // onClick={handleFormSubmit}
                 href="/jobs"
@@ -197,7 +197,7 @@ export default function Header() {
                     </ul>
                   </div>
                 </a>
-              </details>
+              </details> */}
             </>
           )}
 

@@ -76,8 +76,8 @@ export default function myPage() {
       </div> */}
 
 
-
-      <SearchResults q={{ q: "", l:"wa"  }} />
+<JobSearchBox l="Western Australia" />
+      <SearchResults q={{ q: "", l:"western australia"  }} />
     </div> </div>
 
   );

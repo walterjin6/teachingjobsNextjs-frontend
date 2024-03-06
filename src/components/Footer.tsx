@@ -3,21 +3,27 @@ import Link from 'next/link';
 const Footer = () => {
   return (
     <footer className="py-8 px-7 bg-[#e79d36] content-grid">
-       <div className=" text-white font-open-sans grid grid-cols-1 md:grid-cols-4 gap-4 pb-4">
-          
-               
-              
-             
-          <div className=" text-white font-open-sans">
-              <ul>
-                  <li className='text-white font-bold text-xl pb-1 '>Navigation</li>
-                  {/* <li><a className="footer-nav__link" href="/">Home</a></li> */}
-                  <li><Link href="/">Home</Link></li>
-                  {/* <li><Link href="/school-career-advice/">Career Advice</Link></li>                     */}
-                  <li><Link href="/sitemap/">Site Map</Link></li>
-             
-              </ul>
-          </div>
+      <div className=" text-white font-open-sans grid grid-cols-1 md:grid-cols-4 gap-4 pb-4">
+        <div className=" text-white font-open-sans">
+          <ul>
+            <li className="text-white font-bold text-xl pb-1 ">Navigation</li>
+            {/* <li><a className="footer-nav__link" href="/">Home</a></li> */}
+            {/* <li>
+              <Link href="/">Home</Link>
+            </li> */}
+            <li>
+              <Link href="/about/">About Teaching Jobs</Link>
+            </li>
+            {/* <li><Link href="/school-career-advice/">Career Advice</Link></li>                     */}
+            <li>
+              <Link href="/contact-us/">Contact Us</Link>
+            </li>
+
+            <li>
+              <Link href="/sitemap/">Site Map</Link>
+            </li>
+          </ul>
+        </div>
 
         <div>
           <ul>
@@ -34,18 +40,21 @@ const Footer = () => {
           </ul>
         </div>
 
-          <div>
-              <ul>
-                  <li className='text-white font-bold text-xl pb-1 '>School</li>
-              
-                  <li ><Link href="/about/">About TJ</Link></li>
-                  <li  ><a target="_blank"  className="footer-nav__link" href="/post-a-job/">Post a Job</a></li>
-                                       
-                                       <li  ><Link   href="/contact-us/">Contact Us</Link></li>
-                                      
-                 
-              </ul>
-          </div>
+        <div>
+          <ul>
+            <li className="text-white font-bold text-xl pb-1 ">Schools</li>
+
+            <li>
+              <a
+                target="_blank"
+                className="footer-nav__link"
+                href="/post-a-job/"
+              >
+                Post a Job
+              </a>
+            </li>
+          </ul>
+        </div>
 
         <div>
           <ul>

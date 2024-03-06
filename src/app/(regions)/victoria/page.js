@@ -78,7 +78,7 @@ export default function myPage() {
       </div> */}
 
 
-
+<JobSearchBox l="victoria" />
       <SearchResults q={{ q: "", l:"victoria"  }} />
     </div> </div>
 
