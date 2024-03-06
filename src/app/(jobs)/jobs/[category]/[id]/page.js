@@ -14,6 +14,7 @@ import { useSearchParams } from 'next/navigation';
 import MapMarkerIcon from '@/components/icons/MapMarkerIcon';
 import FavoriteButton from '@/components/FavoriteButton';
 import { StarRank } from '@/components/StarRank';
+import { baseURL } from '@/lib/store/Base';
 
 export async function generateMetadata({ params }) {
   const job = await getJob(params.id);
@@ -30,8 +31,9 @@ export async function generateMetadata({ params }) {
 }
 
 async function getJob(id) {
+  //const response = await BaseApi.get(`/job/${id}`);
   const response = await fetch(
-    `https://api2.sciencejobs.com.au/api/job/${id}`,
+    `${baseURL}/job/${id}`,
     { next: { revalidate: 0 } }
   );
   const res = await response.json();
@@ -86,13 +88,12 @@ const JobDetailPage = async ({ params, searchParams }) => {
               >
                 <div
                   className={`w-full rounded-lg p-4 ${bgColor}`}
-                  // style={{ backgroundColor: `${bgColor}` }}
+                // style={{ backgroundColor: `${bgColor}` }}
                 >
                   <Image
                     className="w-full "
-                    src={`https://academicjobs.s3.amazonaws.com/img/university-logo/${
-                      logo || 'favicon.jpg'
-                    }`}
+                    src={`https://academicjobs.s3.amazonaws.com/img/university-logo/${logo || 'favicon.jpg'
+                      }`}
                     alt={company_name}
                     width={300}
                     height={200}
@@ -118,7 +119,7 @@ const JobDetailPage = async ({ params, searchParams }) => {
                     title={title}
                     company_name={company_name}
                     how_to_apply={how_to_apply}
-                    // buttonText="Apply Now /jobs/[category]/[id]/page.js"
+                  // buttonText="Apply Now /jobs/[category]/[id]/page.js"
                   />
                 )}
                 <a
@@ -187,15 +188,13 @@ const JobDetailPage = async ({ params, searchParams }) => {
               {
                 <>
                   <div
-                    className={`${
-                      !headlineOnly || active ? 'job-content block' : 'hidden'
-                    }`}
+                    className={`${!headlineOnly || active ? 'job-content block' : 'hidden'
+                      }`}
                     dangerouslySetInnerHTML={{ __html: description }}
                   />
                   <div
-                    className={`flex flex-col ${
-                      headlineOnly && !active ? 'block' : 'hidden'
-                    }`}
+                    className={`flex flex-col ${headlineOnly && !active ? 'block' : 'hidden'
+                      }`}
                   >
                     <div className="flex justify-center items-center flex-wrap">
                       <Image

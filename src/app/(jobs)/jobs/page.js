@@ -8,8 +8,7 @@ import JobSearchBox2 from '@/components/JobSearchBox2';
 import { filterType } from '@/utils/data';
 import Link from 'next/link';
 import { keepPreviousData, useQuery } from '@tanstack/react-query';
-import BaseApi from '@/lib/store/Base';
-
+import { BaseApi } from '@/lib/store/Base';
 export default function Page() {
   const searchParams = useSearchParams();
   //const allSearchParams = Object.fromEntries(searchParams1);
@@ -100,7 +99,6 @@ export default function Page() {
     City: 'City',
     JobType: 'Job Type',
     PositionType: 'Position Type',
-
     ExecutiveJobs: 'Executive Jobs',
     AdministrationSupportJobs: 'Administration Support Jobs',
     HRJobs: 'HR Jobs',
@@ -121,35 +119,26 @@ export default function Page() {
     <>
       <main>
         {/* TODO: Add this to the page…
-    
           Page Content
           Title: "Explore Academic Opportunities Worldwide"
-
           Introduction:
           "Discover your next academic adventure with our comprehensive job board tailored for educators, researchers, and administrative professionals. Whether you're seeking faculty positions, post-doctoral fellowships, or staff roles, our platform connects you with diverse opportunities in universities and research institutions across the globe."
-
           How It Works:
           "1. Search Efficiently: Use our advanced search filters to narrow down your options by location, discipline, and job type.
-
           Stay Informed: Create alerts to get notified about the latest opportunities in your field.
           Apply with Ease: Directly submit your application through our platform and track your application status."
           Why Choose Us?:
           "From prestigious universities in the United States and the United Kingdom to emerging research centers in Asia and Europe, we curate the finest academic positions to propel your career forward. Our resources and guides support you at every step of your job search, ensuring you're well-prepared to seize your next opportunity."
-
           Metadata
           Title Tag: "Teaching Jobs Board - Find Faculty, Research, and Staff Positions"
-
           Meta Description: "Connect with leading academic institutions worldwide on our job board. Discover faculty, research, and staff positions tailored to your career aspirations. Start your academic job search today."
-
           Keywords: "academic jobs, faculty positions, research jobs, university careers, higher education employment, academic job search, post-doctoral positions, academic administration"
-
           FIXME: Additional SEO Tips
           Use Heading Tags: Structure your content using H1 for your main title, followed by H2s and H3s for subheadings to improve readability and SEO.
           Internal Linking: Include links to relevant sections of your site, such as specific job categories, application advice, or user testimonials.
           Call to Action (CTA): Encourage users to register for job alerts or submit their CVs to your database with clear, action-oriented CTAs.
           Responsive Design: Ensure your content is accessible and user-friendly across all devices, enhancing the user experience and SEO.
           Loading Speed: Optimize images and streamline your site's code to ensure fast loading times, crucial for SEO and user retention.
-    
      */}
         <div className="w-full bg-gray-100 py-4 mb-4 mt-8">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
@@ -173,7 +162,6 @@ export default function Page() {
                         (_, index) => index !== i
                       );
                       setPage(0);
-
                       setfilter(updatedFilter);
                       setCategory('');
                       //dispatch(setfilter(updatedFilter));
@@ -193,11 +181,10 @@ export default function Page() {
               ) => (
                 <button
                   key={i}
-                  className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${
-                    category === filterType
+                  className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${category === filterType
                       ? 'bg-orange-500 text-white border-orange-500'
                       : 'bg-white border-gray-500'
-                  }
+                    }
                   ${showYN ? 'block' : 'hidden'}
                   `}
                   onClick={() => {
@@ -215,7 +202,6 @@ export default function Page() {
               )
             )}
           </div>
-
           <details className="bg-gray-300 open:bg-[amber-200] duration-300 md:hidden">
             <summary className="bg-inherit px-5 py-3 text-lg cursor-pointer pl-8">
               Filters
@@ -228,11 +214,10 @@ export default function Page() {
                 ) => (
                   <button
                     key={i}
-                    className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${
-                      category === filterType
+                    className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${category === filterType
                         ? 'bg-orange-500 text-white border-orange-500'
                         : 'bg-white border-gray-500'
-                    }
+                      }
                   ${showYN ? 'block' : 'hidden'}
                   `}
                     onClick={() => {
@@ -251,7 +236,6 @@ export default function Page() {
               )}
             </div>
           </details>
-
           {isShowFilter && (
             <div className="grid md:grid-cols-4 gap-1 grid-cols-2 pl-6 py-2">
               {filters?.length > 0 && // 低层小目录b
@@ -294,11 +278,8 @@ export default function Page() {
             </div>
           </div>
         </section>
-
         <div className="max-w-4xl mx-auto py-8"></div>
-
         <div className="max-w-4xl mx-auto py-8"></div>
-
         <div className="bg-gray-100">
           <div className="container mx-auto py-8">
             <p className="text-lg font-semibold mb-8">
@@ -309,7 +290,6 @@ export default function Page() {
               seamlessly connects you with an array of exciting opportunities
               within universities and research institutions worldwide.
             </p>
-
             <h2 className="text-2xl font-bold mb-4">How It Benefits You:</h2>
             <ol className="list-decimal pl-6 mb-6">
               <li className="mb-2">

@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import InputBlock from '@/components/forms/InputBlock';
 import { useForm } from 'react-hook-form';
 import { useMutation } from '@tanstack/react-query';
-import BaseApi from '@/lib/store/Base';
+import { BaseApi } from '@/lib/store/Base';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { jobElephantContacts } from '@/data/jobElephantContacts';
@@ -223,9 +223,8 @@ const JobPostForm = ({ partner, region = 'Australia' }) => {
                   )}
                 </div>
                 <div
-                  className={`p-4 border border-sky-200 bg-sky-50 ${
-                    newContact || standardMode ? 'show-form' : 'hide-form'
-                  }`}
+                  className={`p-4 border border-sky-200 bg-sky-50 ${newContact || standardMode ? 'show-form' : 'hide-form'
+                    }`}
                 >
                   <div className="grid w-full items-center gap-1.5">
                     {partnerName === 'JobElephant' ? null : (

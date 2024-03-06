@@ -9,7 +9,7 @@ import JobSearchBox2 from '@/components/JobSearchBox2';
 import { filterType } from '@/utils/data';
 import Link from 'next/link';
 import { keepPreviousData, useQuery } from '@tanstack/react-query';
-import BaseApi from '@/lib/store/Base';
+import { BaseApi } from '@/lib/store/Base';
 //import { useRouter } from 'next/router';
 //import { useRouter } from 'next/navigation';
 // export const metadata = {
@@ -126,11 +126,10 @@ export default function Page() {
             filterTypes.map((filterType, i) => (
               <button
                 key={i}
-                className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${
-                  category === filterType
+                className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${category === filterType
                     ? 'bg-orange-500 text-white border-orange-500'
                     : 'bg-white border-gray-500'
-                }`}
+                  }`}
                 onClick={() => {
                   if (category === filterType) {
                     setIsShowFilter((prev) => !prev);

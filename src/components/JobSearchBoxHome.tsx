@@ -18,7 +18,7 @@ export default function JobSearchBox() {
     if (region !== 'Global') {
       const location = (countryMappings1 as any)[region]?.searchLocation || '';
       const params = new URLSearchParams({
-        l: encodeURIComponent(location),
+        l: '',
         q: encodeURIComponent(a.q || ''),
       });
       router.push(`/jobs?${params.toString()}`);

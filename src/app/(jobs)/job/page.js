@@ -6,7 +6,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { BsFillShareFill } from 'react-icons/bs';
 import { useSearchParams } from 'next/navigation';
-import BaseApi from '@/lib/store/Base';
+import { BaseApi } from '@/lib/store/Base';
 import TalentPool from '@/components/TalentPoolCTA';
 const Job = () => {
   const searchParams = useSearchParams();
