@@ -573,11 +573,11 @@ const nextConfig = {
         destination: 'https://www.academicjobs.com/faculty',
         permanent: true,
         },
-        {
-        source: '/online',
-        destination: 'https://www.academicjobs.com/online',
-        permanent: true,
-        },
+        // {
+        // source: '/online',
+        // destination: 'https://www.academicjobs.com/online',
+        // permanent: true,
+        // },
         {
         source: '/australia/student',
         destination: 'https://www.academicjobs.com/australia/student',
