@@ -6,10 +6,10 @@ import SearchResults from '@/components/SearchResults';
 import AusUniLogos from '@/components/AusUniLogos';
 import Australia from '@/components/topUnis/Australia';
 export const metadata = {
-  title: 'Academic Jobs Adelaide',
+  title: 'Teaching Jobs Adelaide',
   description:
-    'Don’t miss this chance to work in one of the best academic environments in the world. Apply now for your dream academic job in Gold Coast! ',
-  keywords: 'Adelaide Academic Jobs Australia, Adelaide AcademicJobs',
+    'Don’t miss this chance to work in one of the best Teaching environments in the world. Apply now for your dream Teaching job in Adelaide! ',
+  keywords: 'Adelaide Teaching Jobs Australia, Adelaide TeachingJobs',
 };
 
 export default function myPage() {
@@ -27,11 +27,11 @@ export default function myPage() {
           <div className="py-4 px-7 rounded-2xl ">
             <p>
               The University of Adelaide, Flinders University, and the
-              University of South Australia provide a broad spectrum of academic
+              University of South Australia provide a broad spectrum of Teaching
               programs, spanning from business and law to science and
               engineering, health and medical, and the arts and humanities. To
               support their brilliance in research, teaching, and impact, you
-              can become a member of their outstanding and cooperative academic
+              can become a member of their outstanding and cooperative Teaching
               communities.
             </p>{' '}
           </div>

@@ -7,9 +7,9 @@ import AusUniLogos from '@/components/AusUniLogos';
 import Australia from '@/components/topUnis/Australia';
 export const metadata = {
  
-  title: 'Academic Jobs Adelaide',
-  description: "Don’t miss this chance to work in one of the best academic environments in the world. Apply now for your dream academic job in Gold Coast! " ,
- keywords:"Adelaide Academic Jobs Australia, Adelaide AcademicJobs",
+  title: 'Teaching Jobs northern territory',
+  description: "Are you searching for a teaching job in the NT? Visit our website at Teaching Jobs, to see our available employment positions for teaching jobs in the northern territory " ,
+ keywords:"Northern terriorty teaching jobs .  northern territory teaching positions",
 };
 
 export default function myPage() {

@@ -9,9 +9,9 @@ import AusUniLogos from '@/components/AusUniLogos';
 import Australia from '@/components/topUnis/Australia';
 export const metadata = {
  
-  title: 'Academic Jobs Adelaide',
-  description: "Don’t miss this chance to work in one of the best academic environments in the world. Apply now for your dream academic job in Gold Coast! " ,
- keywords:"Adelaide Academic Jobs Australia, Adelaide AcademicJobs",
+  title: 'Teaching Jobs Tasmania',
+  description: "Are you searching for a teaching job in the Tasmania? Visit our website at Teaching Jobs, to see our available employment positions for teaching jobs in the Tasmania." ,
+ keywords:"tasmania teaching jobs. tasmania teaching positions",
 };
 
 export default function myPage() {
@@ -21,11 +21,11 @@ export default function myPage() {
     <div className="">
       {/* <Helmet>
         <title>Tasmania</title>
-        <meta name="description" content="Are you searching for a teaching job in the Tasmania? Visit our website at Teaching Jobs, to see our available employment positions for teaching jobs in the Tasmania." />
+        <meta name="description" content= "Are you searching for a teaching job in the Tasmania? Visit our website at Teaching Jobs, to see our available employment positions for teaching jobs in the Tasmania." />
         <meta name="keywords" content="tasmania teaching jobs . tasmania teaching positions" />
       </Helmet> */}
       <div className="blurb text-left py-8 ">
-        <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Tasmania  | Apply Online  | Job Vacancies</h1>
+        <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs Tasmania  | Apply Online  | Job Vacancies</h1>
 
         <div className="newLine mb-4">
           <p className="font-semibold"></p>

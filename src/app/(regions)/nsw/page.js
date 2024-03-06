@@ -8,9 +8,9 @@ import AusUniLogos from '@/components/AusUniLogos';
 import Australia from '@/components/topUnis/Australia';
 export const metadata = {
  
-  title: 'Academic Jobs Adelaide',
-  description: "Don’t miss this chance to work in one of the best academic environments in the world. Apply now for your dream academic job in Gold Coast! " ,
- keywords:"Adelaide Academic Jobs Australia, Adelaide AcademicJobs",
+  title: 'Teaching Jobs NSW',
+  description: "Do you wish to apply for a teaching job in NSW? Visit our website today at Teaching Jobs, to see all our available positions throughout NSW. Apply online now! " ,
+ keywords:"nsw teaching jobs . new south whales teaching positions",
 };
 
 export default function myPage() {
@@ -24,7 +24,7 @@ export default function myPage() {
         <meta name="keywords" content="nsw teaching jobs . new south whales teaching positions" />
       </Helmet> */}
       <div className="blurb text-left py-8 ">
-        <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">NSW | Apply Online | Job Vacancies</h1>
+        <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs NSW | Apply Online | Job Vacancies</h1>
 
         <div className="newLine mb-4">
           <p className="font-semibold"></p>

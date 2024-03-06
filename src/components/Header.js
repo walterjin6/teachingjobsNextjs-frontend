@@ -134,6 +134,22 @@ export default function Header() {
             forceButtonClass="border-b hover:border-[#e79d36] mr-2 "
             onClick={() => setIsNavOpen(false)}
           />
+            <NavItem
+            url={`/relief-teaching-jobs`}
+            icon="/dotted-arrow.svg"
+            navLink="Relief Teaching"
+            forceClass="border-b hover:border-[#e79d36]" //this is optional
+            forceButtonClass="border-b hover:border-[#e79d36] mr-2 "
+            onClick={() => setIsNavOpen(false)}
+          />
+            <NavItem
+            url={`/principal`}
+            icon="/dotted-arrow.svg"
+            navLink="Principal Jobs"
+            forceClass="border-b hover:border-[#e79d36]" //this is optional
+            forceButtonClass="border-b hover:border-[#e79d36] mr-2 "
+            onClick={() => setIsNavOpen(false)}
+          />
           <NavItem
             url={`/employers`}
             icon="/upward-arrow.svg"

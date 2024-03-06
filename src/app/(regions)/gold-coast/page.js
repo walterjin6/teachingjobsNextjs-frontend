@@ -7,9 +7,9 @@ import AusUniLogos from '@/components/AusUniLogos';
 import Australia from '@/components/topUnis/Australia';
 export const metadata = {
  
-  title: 'Academic Jobs Adelaide',
-  description: "Don’t miss this chance to work in one of the best academic environments in the world. Apply now for your dream academic job in Gold Coast! " ,
- keywords:"Adelaide Academic Jobs Australia, Adelaide AcademicJobs",
+  title: 'Teaching Jobs Gold Coast',
+  description: "Don’t miss this chance to work in one of the best Teaching environments in the world. Apply now for your dream Teaching job in Gold Coast! " ,
+ keywords:"Gold Coast Teaching Jobs Australia, Gold Coast TeachingJobs",
 };
 
 export default function myPage() {
@@ -32,7 +32,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >Renowned Australian and international universities, including Bond University, Griffith University, Southern Cross University, and others, are located in the Gold Coast. From the humanities and arts to science and engineering, from health and medicine to law and business, these universities provide a broad range of academic specialisations. Joining their outstanding and cooperative uni jobs will allow you to support their outstanding influence, teaching, lecturing, and research.  </p>
+            <p >Renowned Australian and international universities, including Bond University, Griffith University, Southern Cross University, and others, are located in the Gold Coast. From the humanities and arts to science and engineering, from health and medicine to law and business, these universities provide a broad range of Teaching specialisations. Joining their outstanding and cooperative uni jobs will allow you to support their outstanding influence, teaching, lecturing, and research.  </p>
           </div>
           <div className="newLine mb-2"></div>
    

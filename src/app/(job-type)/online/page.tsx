@@ -7,10 +7,10 @@ import JobFilter from '@/components/JobFilter';
 export const metadata: Metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
-    absolute: '  Academic Executive Jobs', //Option 2 overrides the title in layout.tsx
+    absolute: '  Teaching Executive Jobs', //Option 2 overrides the title in layout.tsx
   },
   description:
-    'If you are looking for academic jobs online, you can browse through our job board to find the latest opportunities in this flexible and rewarding field.   ',
+    'If you are looking for Teaching jobs online, you can browse through our job board to find the latest opportunities in this flexible and rewarding field.   ',
   keywords: 'Teaching Jobs Online. online positions',
 };
 export default function myPage() {
@@ -24,9 +24,9 @@ export default function myPage() {
 
           <div className="">
             <p className="px-7 mb-4 mt-1">
-              Seek all online uni jobs through Australia’s No.1 job board.
+              Seek all online teaching jobs through Australia’s No.1 job board.
               Whether you’re a student, graduate, or professional. Engaging in
-              academic online jobs, particularly in higher education, involves a
+              Teaching online jobs, particularly in higher education, involves a
               spectrum of roles—from teaching and research to administration,
               customer service, events management, marketing, IT, and library
               curation.
@@ -36,17 +36,12 @@ export default function myPage() {
               online position. Through higher ed jobs online, individuals can
               actively contribute to the advancement of knowledge, the
               cultivation of learning environments, and the overall growth of
-              the academic landscape while simultaneously expanding their
+              the Teaching landscape while simultaneously expanding their
               professional horizons.
             </p>
           </div>
         </div>
-        <Link
-          href={'/academic-talent-pool'}
-          className="btn btn-aj btn-sm w-2/3 md:w-1/4 mx-auto my-2"
-        >
-          Join Our Talent Pool
-        </Link>
+        
       </div>
       <JobSearchBox q="online" forceClass="my-6" />
 
