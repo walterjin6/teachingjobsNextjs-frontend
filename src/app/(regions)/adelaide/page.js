@@ -189,7 +189,7 @@ export default function myPage() {
           </form>
         </div>
       </div> */}
-
+<JobSearchBox l="Adelaide" />
           <SearchResults q={{ q: '', l: 'Adelaide' || 0 }} />
         </div>
       </div>
