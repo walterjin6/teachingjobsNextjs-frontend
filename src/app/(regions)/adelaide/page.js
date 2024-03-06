@@ -47,7 +47,7 @@ export default function myPage() {
                   <ul className="">
                     <li className="mb-1 mt-4">
                       <Link
-                        to="/employers/the-university-of-adelaide/3737/"
+                        href="/employers/the-university-of-adelaide/3737/"
                         className="text-[#A51C30] font-bold"
                       >
                         University of Adelaide
@@ -55,28 +55,30 @@ export default function myPage() {
                     </li>
                     <ul className="innerUL">
                       <li>
-                        <Link to="/jobs/Adelaide/">
+                        <Link href="/jobs/Adelaide/">
                           Adelaide Lecturing Jobs
                         </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/Adelaide/">Adelaide Research Jobs</Link>
+                        <Link href="/jobs/Adelaide/">
+                          Adelaide Research Jobs
+                        </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/Adelaide/">
+                        <Link href="/jobs/Adelaide/">
                           Adelaide Professorial Jobs
                         </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/Adelaide/">Adelaide Executive</Link>
+                        <Link href="/jobs/Adelaide/">Adelaide Executive</Link>
                       </li>
                       <li>
-                        <Link to="/jobs/Adelaide/">
+                        <Link href="/jobs/Adelaide/">
                           Adelaide Administration
                         </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/Adelaide/">
+                        <Link href="/jobs/Adelaide/">
                           Adelaide Human Resources
                         </Link>
                       </li>
@@ -87,7 +89,7 @@ export default function myPage() {
                   <ul className="">
                     <li className="mb-1 mt-4">
                       <Link
-                        to="/employers/flinders-university/3873/"
+                        href="/employers/flinders-university/3873/"
                         className="text-[#f1b821] font-bold"
                       >
                         Flinders University
@@ -95,28 +97,30 @@ export default function myPage() {
                     </li>
                     <ul className="innerUL">
                       <li>
-                        <Link to="/jobs/flinders/">
+                        <Link href="/jobs/flinders/">
                           Flinders Lecturing Jobs
                         </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/flinders/">Flinders Research Jobs</Link>
+                        <Link href="/jobs/flinders/">
+                          Flinders Research Jobs
+                        </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/flinders/">
+                        <Link href="/jobs/flinders/">
                           Flinders Professorial Jobs
                         </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/flinders/">Flinders Executive</Link>
+                        <Link href="/jobs/flinders/">Flinders Executive</Link>
                       </li>
                       <li>
-                        <Link to="/jobs/flinders/">
+                        <Link href="/jobs/flinders/">
                           Flinders Administration
                         </Link>
                       </li>
                       <li>
-                        <Link to="/jobs/flinders/">
+                        <Link href="/jobs/flinders/">
                           Flinders Human Resources
                         </Link>
                       </li>
@@ -128,7 +132,7 @@ export default function myPage() {
                   <ul className="">
                     <li className="mb-1 mt-4">
                       <Link
-                        to="/employers/university-of-south-australia/3874/"
+                        href="/employers/university-of-south-australia/3874/"
                         className="text-[#192847] font-bold"
                       >
                         University of South Australia
@@ -136,22 +140,22 @@ export default function myPage() {
                     </li>
                     <ul className="innerUL">
                       <li>
-                        <Link to="/jobs/UniSA/">UniSA Lecturing Jobs</Link>
+                        <Link href="/jobs/UniSA/">UniSA Lecturing Jobs</Link>
                       </li>
                       <li>
-                        <Link to="/jobs/UniSA/">UniSA Research Jobs</Link>
+                        <Link href="/jobs/UniSA/">UniSA Research Jobs</Link>
                       </li>
                       <li>
-                        <Link to="/jobs/UniSA/">UniSA Professorial Jobs</Link>
+                        <Link href="/jobs/UniSA/">UniSA Professorial Jobs</Link>
                       </li>
                       <li>
-                        <Link to="/jobs/UniSA/">UniSA Executive</Link>
+                        <Link href="/jobs/UniSA/">UniSA Executive</Link>
                       </li>
                       <li>
-                        <Link to="/jobs/UniSA/">UniSA Administration</Link>
+                        <Link href="/jobs/UniSA/">UniSA Administration</Link>
                       </li>
                       <li>
-                        <Link to="/jobs/UniSA/">UniSA Human Resources</Link>
+                        <Link href="/jobs/UniSA/">UniSA Human Resources</Link>
                       </li>
                     </ul>
                   </ul>
