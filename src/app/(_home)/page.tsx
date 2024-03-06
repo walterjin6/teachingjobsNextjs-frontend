@@ -59,7 +59,7 @@ export default async function myPage() {
               on TeachingJobs Today!
             </p>
             <p className="md:px-7 text-[#334680] font-bold">
-              222222222222Kindergarten Jobs | Primary School Jobs | Secondary School Jobs
+              Kindergarten Jobs | Primary School Jobs | Secondary School Jobs
             </p>
           </div>
         </div>
