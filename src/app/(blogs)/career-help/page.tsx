@@ -61,14 +61,17 @@ export default function BlogPosts({
         h1="Elevating Your Teaching Career: Collaborative Growth and Professional Insights"
         para1="Unlock the full potential of your teaching career with our dedicated support for educators at every level—from kindergarten to high school. In the dynamic world of education, advancing your career is about more than securing the next position; it's about forging meaningful relationships, collaborating on educational initiatives, and accessing insights that set the stage for enduring success."
         para2="Whether you're igniting young minds in kindergarten, inspiring curiosity in primary school, or preparing high school students for their future, our tailored career advice, tips, and insights from experienced educators are here to empower your journey."
-        src="/blogs/career-assistance-networking-and-collaboration.jpg"
+        src="/blogs/career-assistance-networking-and-collaboration-for-teachers.jpg"
         alt="People immersed in academic blogs at our vibrant Academic Hub"
         // btnPrimaryText="Join our Talent Pool"
         // btnPrimaryURL="/talent-pool"
         reorder={false}
       />
 
-      <h2 className="underline-full mb-8"> Top Academic Career Help</h2>
+      <h2 className="underline-full mb-8">
+        {' '}
+        Top Career Help for Teachers, Students & Parents
+      </h2>
 
       {blogData ? (
         <>
@@ -127,7 +130,7 @@ export default function BlogPosts({
             ))}
           </div>
 
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 px-8 mt-10">
+          {/* <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 px-8 mt-10">
             <iframe
               className=" aspect-video  rounded-3xl"
               src="https://www.youtube.com/embed/bEEmo_KhOOk?si=yiNtzXaYyASiWU8W"
@@ -145,10 +148,10 @@ export default function BlogPosts({
               src="https://www.youtube.com/embed/yn-ctFDfI60?si=REwYQIJFPBm6NnXm"
               title="YouTube video player"
             ></iframe>
-          </div>
+          </div> */}
 
           <h2 id="pagination" className="underline-full mt-16 mb-8">
-            Academic Recruitment & Career Blog Posts
+            Teaching Recruitment & Career Blog Posts
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 mb-8">
             {entries.map((post, index) => (
