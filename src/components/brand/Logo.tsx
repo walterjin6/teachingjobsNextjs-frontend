@@ -10,7 +10,7 @@ type Props = {
 const Logo = ({ width = 32, height = 32, dimensions, forceClass }: Props) => (
   <Image
     src="/teaching-jobs-logo.png"
-    alt=""
+    alt="Teaching Jobs Logo"
     width={dimensions ? dimensions : width}
     height={dimensions ? dimensions : height}
     className={forceClass}
