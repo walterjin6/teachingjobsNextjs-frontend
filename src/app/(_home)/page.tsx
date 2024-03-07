@@ -65,7 +65,7 @@ export default async function myPage() {
         </div>
       </div>
 
-      <h2 className="underline-full mt-6">Top Teaching Jobs Today</h2>
+      {/* <h2 className="underline-full mt-6">Top Teaching Jobs Today</h2>
       <div className="cate-group section23 ">
         <div className="widget__text-block">
           <div className="faculty-container grid-cols-1 grid md:grid-cols-4 gap-4 py-2 px-7 ">
@@ -442,10 +442,11 @@ export default async function myPage() {
             </div>
           </div>
         </div>
-      </div>
+      </div> 
+
       <Link className="text-[#e79d36] mt-4 mb-4 px-2 font-bold" href="/jobs/">
         view more top jobs →
-      </Link>
+      </Link>*/}
 
       <div className="bg-white flex flex-col  ">
         <h2 className="underline-full mt-6 ">Choose Job Types</h2>
