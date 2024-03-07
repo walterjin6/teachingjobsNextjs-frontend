@@ -181,10 +181,11 @@ export default function Page() {
               ) => (
                 <button
                   key={i}
-                  className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${category === filterType
+                  className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${
+                    category === filterType
                       ? 'bg-orange-500 text-white border-orange-500'
                       : 'bg-white border-gray-500'
-                    }
+                  }
                   ${showYN ? 'block' : 'hidden'}
                   `}
                   onClick={() => {
@@ -214,10 +215,11 @@ export default function Page() {
                 ) => (
                   <button
                     key={i}
-                    className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${category === filterType
+                    className={`px-2 py-1 text-gray-500  border  rounded-md text-sm font-bold ${
+                      category === filterType
                         ? 'bg-orange-500 text-white border-orange-500'
                         : 'bg-white border-gray-500'
-                      }
+                    }
                   ${showYN ? 'block' : 'hidden'}
                   `}
                     onClick={() => {

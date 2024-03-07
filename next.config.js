@@ -3260,11 +3260,11 @@ const nextConfig = {
           'https://www.academicjobs.com/employers/academic-jobs-in-physics/13615',
         permanent: true,
       },
-      {
-        source: '/quick-job-post-technology',
-        destination: 'https://www.academicjobs.com/quick-job-post-technology',
-        permanent: true,
-      },
+      // {
+      //   source: '/quick-job-post-technology',
+      //   destination: 'https://www.academicjobs.com/quick-job-post-technology',
+      //   permanent: true,
+      // },
       {
         source: '/career-help/higher-ed-quick-job-post-technology',
         destination:
