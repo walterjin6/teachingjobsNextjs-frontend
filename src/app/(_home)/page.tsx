@@ -76,7 +76,7 @@ export default async function myPage() {
                     className="text-blue-500 font-bold"
                     href="/jobs/middle-leader---the-arts/66672/"
                   >
-                    Middle Leader - The Arts
+                    Middle Leader - The Arts
                   </a>
                 </li>
                 <ul className="innerUL">
