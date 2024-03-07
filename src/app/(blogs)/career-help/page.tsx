@@ -9,8 +9,17 @@ import PaginationControls from '@/components/PaginationControls';
 
 import type { Metadata } from 'next';
 
+// - **For Kindergarten Teachers**: Cultivate a love for learning with innovative teaching strategies and classroom management techniques that nurture young learners' potential.
+
+// - **For Primary School Teachers**: Enhance your teaching methods with engaging lesson plans and digital tools that cater to diverse learning styles, ensuring every child finds their path to success.
+
+// - **For High School Teachers**: Equip students with the knowledge and skills they need to excel, using approaches that blend academic rigor with real-world relevance and prepare them for the challenges ahead.
+
+// Join our community of dedicated educators and leverage our resources to make a difference in your teaching career and the lives of your students.
+
 export const metadata: Metadata = {
-  title: 'Helpful Career Advice, Blogs and Collaboration Tools', //Option 1 replaces the %s in layout.tsx
+  title:
+    'Elevating Your Teaching Career: Collaborative Growth and Professional Insights', //Option 1 replaces the %s in layout.tsx
   // title: {
   //   absolute: 'Helpful Career Advice, Blogs and Collaboration Tools', //Option 2 overrides the title in layout.tsx
   // },
@@ -49,13 +58,13 @@ export default function BlogPosts({
   return (
     <main className="content-grid">
       <HeroBanner
-        h1="Empowering Your Academic Career: Networking, Collaboration, and Expert Advice"
-        para1="Your ultimate academic career awaits, let us supercharge your academic journey. In today's fast-paced academic world, advancing your career goes beyond just landing the next job; it's about building meaningful connections, engaging in collaborative projects, and gaining insights that pave the way for success."
-        para2="Whether you're embarking on your PhD journey, navigating the postdoctoral landscape, or shaping the minds of the future as a professor, our curated career advice, tips, and insights from seasoned academics and researchers are designed to guide you every step of the way."
+        h1="Elevating Your Teaching Career: Collaborative Growth and Professional Insights"
+        para1="Unlock the full potential of your teaching career with our dedicated support for educators at every level—from kindergarten to high school. In the dynamic world of education, advancing your career is about more than securing the next position; it's about forging meaningful relationships, collaborating on educational initiatives, and accessing insights that set the stage for enduring success."
+        para2="Whether you're igniting young minds in kindergarten, inspiring curiosity in primary school, or preparing high school students for their future, our tailored career advice, tips, and insights from experienced educators are here to empower your journey."
         src="/blogs/career-assistance-networking-and-collaboration.jpg"
         alt="People immersed in academic blogs at our vibrant Academic Hub"
-        btnPrimaryText="Join our Talent Pool"
-        btnPrimaryURL="/talent-pool"
+        // btnPrimaryText="Join our Talent Pool"
+        // btnPrimaryURL="/talent-pool"
         reorder={false}
       />
 
