@@ -8,6 +8,7 @@ import NavItem from '@/components/NavItem';
 import DispatchLink from '@/components/DispatchLink';
 import { useStore } from '@/lib/store/store';
 import HamburgerMenuIcon from '@/components/icons/HamburgerMenuIcon';
+import Logo from '@/components/brand/Logo';
 
 import {
   countryMappings,
@@ -79,24 +80,16 @@ export default function Header() {
         {pathname === '/' ? (
           isNavOpen && (
             <Link href={`/`}>
-              <Image
+              <Logo
                 width={300}
                 height={170}
-                className={`static-logo mobile`}
-                src="/teaching-jobs-logo.png"
-                alt=""
+                forceClass={`static-logo mobile`}
               />
             </Link>
           )
         ) : (
           <Link href={`/`}>
-            <Image
-              width={300}
-              height={170}
-              className={`static-logo mobile`}
-              src="/newteachingjobslogo.png"
-              alt=""
-            />
+            <Logo width={300} height={170} forceClass={`static-logo mobile`} />
           </Link>
         )}
         <HamburgerMenuIcon
@@ -116,12 +109,10 @@ export default function Header() {
         <nav>
           {pathname === '/' ? null : (
             <Link href={`/`}>
-              <Image
+              <Logo
                 width={200}
                 height={100}
-                className="mr-8 hide-mobile static-logo"
-                src="/newteachingjobslogo.png"
-                alt=""
+                forceClass={`mr-8 hide-mobile static-logo`}
               />
             </Link>
           )}
@@ -134,7 +125,7 @@ export default function Header() {
             forceButtonClass="border-b hover:border-[#e79d36] mr-2 "
             onClick={() => setIsNavOpen(false)}
           />
-            <NavItem
+          <NavItem
             url={`/relief-teaching-jobs`}
             icon="/dotted-arrow.svg"
             navLink="Relief Teaching"
@@ -142,7 +133,7 @@ export default function Header() {
             forceButtonClass="border-b hover:border-[#e79d36] mr-2 "
             onClick={() => setIsNavOpen(false)}
           />
-            <NavItem
+          <NavItem
             url={`/principal`}
             icon="/dotted-arrow.svg"
             navLink="Principal Jobs"
