@@ -96,9 +96,7 @@ export default function myPage() {
               </div>
 
               <div className=" items-center text-center ">
-                <p className="text-md font-bold ">
-                  Best Global Academic Talent Pool
-                </p>
+                <p className="text-md font-bold ">Best Educators Talent Pool</p>
               </div>
             </div>
 

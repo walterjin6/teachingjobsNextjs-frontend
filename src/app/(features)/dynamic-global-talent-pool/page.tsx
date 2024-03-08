@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     'Empower your university with Teaching Jobs: a leading platform for matching top academic talent globally using innovative AI technology. Transform your talent strategy now!',
   keywords:
-    'Academic Talent Acquisition, Higher Education Recruitment Platform, University Talent Matching, College Recruitment Solutions, Global Academic Talent Pool, Teaching Jobs Platform, Educational Institution Hiring, Faculty Recruitment Services, Academic Staffing Solutions, Dynamic Talent Matching for Universities, AI-Powered Academic Recruitment, Higher Ed Talent Search, Academic Professional Networking, Innovative University Hiring, Research Staff Recruitment, Academic Career Opportunities, Educational Talent Management, Higher Education Job Matching, University Faculty Recruitment, College Staff Hiring',
+    'Academic Talent Acquisition, Higher Education Recruitment Platform, University Talent Matching, College Recruitment Solutions, Educators Talent Pool, Teaching Jobs Platform, Educational Institution Hiring, Faculty Recruitment Services, Academic Staffing Solutions, Dynamic Talent Matching for Universities, AI-Powered Academic Recruitment, Higher Ed Talent Search, Academic Professional Networking, Innovative University Hiring, Research Staff Recruitment, Academic Career Opportunities, Educational Talent Management, Higher Education Job Matching, University Faculty Recruitment, College Staff Hiring',
 };
 
 export default function myPage() {
@@ -31,8 +31,8 @@ export default function myPage() {
               Empowering Universities & Colleges with Dynamic Talent Matching
             </h2>
             <p>
-              Your Global Academic Talent Pool for Top Academics in Higher
-              Education starts here. We offer a revolutionary platform tailored
+              Your Educators Talent Pool for Top Academics in Higher Education
+              starts here. We offer a revolutionary platform tailored
               specifically for Universities and Colleges.
             </p>
             <p className="pb-8">
@@ -46,7 +46,7 @@ export default function myPage() {
               width={613}
               height={529}
               src="/talent-pool/create-a-strong-talent-pool.png"
-              alt="Global academic talent pool platform interface"
+              alt="Educators Talent Pool platform interface"
               className="w-full h-auto"
             />
           </div>
@@ -195,10 +195,10 @@ export default function myPage() {
         </Card>
       </div>
       <blockquote className="mt-16">
-        Your Global Academic Talent Pool in the Cloud attracts compatible
-        candidates, providing deeper insights into what makes your institution
-        an ideal workplace. By highlighting your strengths and opportunities,
-        you can attract candidates who align with your institution's ethos and
+        Your Educators Talent Pool in the Cloud attracts compatible candidates,
+        providing deeper insights into what makes your institution an ideal
+        workplace. By highlighting your strengths and opportunities, you can
+        attract candidates who align with your institution's ethos and
         aspirations, fostering a more productive and harmonious academic
         community.
       </blockquote>

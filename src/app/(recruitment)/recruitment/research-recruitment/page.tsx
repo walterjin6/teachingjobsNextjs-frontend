@@ -42,7 +42,7 @@ export default function myPage() {
               width={350}
               height={350}
               src="/student-jobs-on-campus/personal-growth-with-campus-jobs.jpg"
-              alt="Global academic talent pool platform interface"
+              alt="Educators Talent Pool platform interface"
               className="w-full h-auto rounded-3xl mr-4"
             />
           </div>
@@ -148,10 +148,10 @@ export default function myPage() {
         </Card>
       </div>
       <blockquote className="mt-16">
-        Your Global Academic Talent Pool in the Cloud attracts compatible
-        candidates, providing deeper insights into what makes your institution
-        an ideal workplace. By highlighting your strengths and opportunities,
-        you can attract candidates who align with your institution's ethos and
+        Your Educators Talent Pool in the Cloud attracts compatible candidates,
+        providing deeper insights into what makes your institution an ideal
+        workplace. By highlighting your strengths and opportunities, you can
+        attract candidates who align with your institution's ethos and
         aspirations, fostering a more productive and harmonious academic
         community.
       </blockquote>
