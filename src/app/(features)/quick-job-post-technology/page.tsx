@@ -8,14 +8,14 @@ import Speedo from '@/components/icons/Speedo';
 import Stats from '@/components/Stats';
 
 export const metadata: Metadata = {
-  title: 'Higher Ed Quick Job Post Technology', //Option 1 replaces the %s in layout.tsx
+  title: 'Quick Job Post Technology for Schools', //Option 1 replaces the %s in layout.tsx
   // title: {
   //   absolute: '  Teaching Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'Discover Quick Job Post Technology: The game-changer in academic recruitment that lets universities and colleges post job vacancies in just 32 seconds! Embrace the future where efficiency meets innovation, transforming your hiring process and saving invaluable time. Revolutionize your recruitment strategy now!',
+    'Discover Quick Job Post Technology: The game-changer in teaching recruitment that lets schools post job vacancies in just 32 seconds! Embrace the future where efficiency meets innovation, transforming your hiring process and saving invaluable time. Revolutionize your recruitment strategy now!',
   keywords:
-    'higher ed Quick Job Post, higher education Quick Job Post, Quick Job Post Technology, Academic Quick Job Post Technology, Time Saving Job Posts, Save Time Posting Jobs',
+    'teaching Quick Job Post, schools Quick Job Post, Quick Job Post Technology, Teaching Quick Job Post Technology, Time Saving Job Posts, Save Time Posting Jobs',
 };
 //WIP
 export default function Page() {
@@ -25,13 +25,13 @@ export default function Page() {
     <main className="content-grid">
       <HeroBanner
         //   bgColorClass?: string; //Optional Tailwind CSS background color class
-        h1="Quick Job Post Technology: The Future of Academic Recruitment is upon us!"
-        h2="Saving Time & Revolutionizing the Way Universities & Colleges Post Job Vacancies"
-        para1="Post a job in 32 seconds! In an era where efficiency underpins success, the recruitment landscape within academic institutions is undergoing a significant transformation."
+        h1="Quick Job Post Technology: The Future of Recruitment for Teaching Positions is upon us!"
+        h2="Saving Time & Revolutionizing the Way Schools Post Job Vacancies"
+        para1="Post a job in 32 seconds! In an era where efficiency underpins success, the recruitment landscape within Schools is undergoing a significant transformation."
         btnPrimaryText="Post a Job Now"
         btnPrimaryURL="/post-a-job"
-        btnSecondaryText="Learn More"
-        btnSecondaryURL="/career-help/higher-ed-quick-job-post-technology"
+        // btnSecondaryText="Learn More"
+        // btnSecondaryURL="/career-help/higher-ed-quick-job-post-technology"
         src="/quick-job-post/higher-education-quick-job-post.jpg"
         alt="Academic and Higher Education Quick Job Post Technology"
         reorder={false}
@@ -45,12 +45,12 @@ export default function Page() {
           <p>
             The introduction of Quick Job Post Technology marks a departure from
             traditional, time-consuming job posting processes, heralding a new
-            era of streamlined recruitment for universities and colleges. Stop
-            wasting your valuable time!
+            era of streamlined recruitment for schools. Stop wasting your
+            valuable time!
           </p>
           <p>
             Gone are the days of spending upwards of 9 minutes just to get your
-            academic vacancy on a job board. The cumbersome process of
+            schools vacancy on a job board. The cumbersome process of
             categorizing, and promoting job listings on various platforms such
             as Seek, Indeed, and <span className="uni-jobs">Uni</span>Jobs has
             been dramatically simplified by TeachingJobs.
@@ -182,37 +182,23 @@ export default function Page() {
           <div className="card-body w-full">
             <h2 className="card-title">Ready to Embrace the Future?</h2>
             <p className="max-w-screen-sm">
-              Join the ranks of forward-thinking universities and colleges
-              transforming their recruitment process with Quick Job Post
-              Technology. It's time to streamline your hiring, engage the best
-              talent, and set new standards in academic recruitment.
+              Join the ranks of forward-thinking schools transforming their
+              recruitment process with Quick Job Post Technology. It's time to
+              streamline your hiring, engage the best talent, and set new
+              standards in school recruitment.
             </p>
             <p className="max-w-screen-sm">
               Discover the Quick Job Post Technology difference today.
               Revolutionize your recruitment, one post at a time.
             </p>
             <p className="max-w-screen-sm">
-              Step into the new era of academic hiring with higher ed Quick Job
-              Post Technology. This cutting-edge platform offers a seamless,
+              Step into the new era of school hiring with Quick Job Post
+              Technology. This cutting-edge platform offers a seamless,
               efficient pathway to attract and secure top-tier talent for your
-              institution. With its unparalleled speed and ease of use, you're
-              not just posting job vacancies; you're elevating the entire
+              school. With its unparalleled speed and ease of use, you're not
+              just posting job vacancies; you're elevating the entire
               recruitment experience.
-              {/* Embrace innovation and witness how Quick
-              Job Post Technology can dramatically enhance your recruitment
-              outcomes, ensuring you stay ahead in the competitive landscape of
-              academic excellence. Experience how our technology redefines
-              efficiency, paving the way for a brighter, more successful future
-              in academic staffing. */}
             </p>
-            {/* <div className="card-actions justify-end">
-              <Link
-                href="/ai-recruitment/ai-job-posting-optimization"
-                className="btn btn-aj"
-              >
-                Learn about AI Optimization
-              </Link>
-            </div> */}
           </div>
         </div>
 
@@ -232,20 +218,20 @@ export default function Page() {
               Transforming Recruitment One Post at a Time
             </h2>
             <p className="max-w-screen-sm">
-              Academic Quick Job Post Technology is not merely a tool; it's a
-              game-changing solution for the academic world. By automating and
-              simplifying the job posting process, it sets a new benchmark for
-              efficiency and effectiveness in academic hiring practices.
-              Institutions that adopt this technology are not only optimizing
-              their recruitment processes but are also showcasing their
-              commitment to innovation and efficiency.
+              Quick Job Post Technology is not merely a tool; it's a
+              game-changing solution for teachers and employers worldwide. By
+              automating and simplifying the job posting process, it sets a new
+              benchmark for efficiency and effectiveness in school hiring
+              practices. Schools & Recruiters that adopt this technology are not
+              only optimizing their recruitment processes but are also
+              showcasing their commitment to innovation and efficiency.
             </p>
             <p className="max-w-screen-sm">
               In a world where every second counts, Higher Education Quick Job
               Post Technology emerges as an invaluable asset for higher
               education institutions. It transcends the act of merely posting
               job vacancies; it revolutionizes recruitment, making every post a
-              testament to the future of academic hiring.
+              testament to the future of school hiring.
             </p>
             {/* <div className="card-actions justify-end">
               <Link

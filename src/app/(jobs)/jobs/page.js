@@ -284,26 +284,35 @@ export default function Page() {
         <div className="max-w-4xl mx-auto py-8"></div>
         <div className="bg-gray-100">
           <div className="container mx-auto py-8">
+            <h2 className="text-4xl font-bold mb-8">
+              Discover Your Next Teaching Opportunity with Our Specialised Job
+              Board for Education Professionals
+            </h2>
             <p className="text-lg font-semibold mb-8">
-              Search & Find your next academic journey with our cutting-edge job
-              board tailored exclusively for higher education, researchers, and
-              staff professionals. Whether you're pursuing faculty roles,
-              post-doctoral fellowships, or staff positions, our platform
-              seamlessly connects you with an array of exciting opportunities
-              within universities and research institutions worldwide.
+              Embark on your next teaching adventure with our innovative job
+              board, designed specifically for the education sector, covering
+              kindergarten, primary, and high school levels. Whether you're
+              seeking your first teaching position, looking to move into a new
+              role, or aiming for leadership opportunities within educational
+              institutions, our platform connects you with a multitude of
+              exciting teaching jobs across the globe.
             </p>
             <h2 className="text-2xl font-bold mb-4">How It Benefits You:</h2>
             <ol className="list-decimal pl-6 mb-6">
               <li className="mb-2">
                 <span className="font-bold">Efficient Search Tools:</span>{' '}
-                Utilize our advanced search filters to streamline your search
-                based on location, discipline, and job category, ensuring you
-                find the perfect fit for your expertise.
+                Leverage our advanced search filters to narrow down your search
+                by location, education level, and subject area, ensuring you
+                find the ideal match for your teaching skills and preferences.
               </li>
               <li className="mb-2">
-                <span className="font-bold">Stay Ahead of the Curve::</span> Set
-                up customized alerts to stay informed about the latest openings
-                in your field, empowering you to stay ahead of the competition.
+                <span className="font-bold">Stay Ahead of the Curve::</span>{' '}
+                Activate custom alerts to receive notifications about the latest
+                teaching vacancies in your area of expertise, keeping you one
+                step ahead in your job search. Seamless Application Process:
+                Apply directly through our platform and easily monitor the
+                status of your applications, making the job application process
+                as straightforward as possible.
               </li>
               <li>
                 <span className="font-bold">Seamless Application Process:</span>{' '}
@@ -316,13 +325,14 @@ export default function Page() {
               Why Choose Our Platform?
             </h2>
             <p className="mb-4">
-              From renowned institutions in the United States and the United
-              Kingdom to burgeoning research hubs across Asia and Europe, we
-              meticulously curate a diverse range of academic positions to
-              elevate your career trajectory. Our wealth of resources and expert
-              guides provide invaluable support at every stage of your job
-              search, equipping you with the tools and knowledge needed to seize
-              your next career opportunity with confidence.
+              From prestigious schools in your local community to international
+              educational institutions, we are Australia's Schools Jobs Board
+              for teaching positions to enhance your career journey. Our
+              platform is your go-to resource, complete with insightful guides
+              and professional advice tailored for teachers at all stages of
+              their careers. Armed with our comprehensive support, you're
+              well-equipped to confidently pursue your next teaching
+              opportunity.
             </p>
           </div>
         </div>
