@@ -1581,6 +1581,1064 @@ export const blogData = [
   },
 
 
+  {
+    status: `published`,
+    rank: 0,
+    title:`4 CV trends to keep up with in 2021`,
+    slug: `4-innovative-cv-trends-boost-job-search-2021-beyond`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: `2024-03-12`,
+    image_url: `/blogs/cv_trend.jpeg`,
+    alt: `Job search`,
+    summary: `Stay ahead of the curve with these four cutting-edge CV trends to enhance your job search in 2021 and beyond.`,
+    tags: `career advice, job search, CV trends`,
+    keywords: `CV trends, job search, video CVs, personal branding, blogging, YouTube channels, side hustles`,
+    content: `
+  <article class="blog-content">
+    <p>Have you got an easy-to-read, well-written, results-orientated CV which still isn’t winning you a face-to-face interview? The problem is, that when it comes to sought-after roles, most serious candidates will have followed those very same principles. So how are you meant to make your CV stand out in a 100-deep pile of perfectly presented documents?</p>
+  
+    <p>Well, succeeding in winning an interview for your dream role means staying ahead of the curve and following the latest industry trends closely. Here are four major CV trends to seize upon, to get your CV ready for 2021… and beyond!</p>
+  
+    <h2>1. Video CVs</h2>
+    <p>It’s 2021… who says your CV can only be a paper or PDF document? After sifting through a pile of predictable black and white papers, a CV which incorporates video is a sure fire way to grab a recruiter’s attention. No, you don’t have to list your entire work history and education in your video. Aim to create a short, snappy and engaging one to three minute video which will work alongside your original document. You could even add a QR code to your CV to make the video easily accessible to employers. Think of it as a video version of your personal profile. It should communicate to potential employers why you’re the right person for the job. It should also highlight your most impressive skills and achievements. Your confidence, personality and passion will shine through way more on a video than through text, so it’s well worth the extra time and effort. Don’t forget to dress professionally and find an appropriate background, such as your home office – recruiters don’t want to see your dirty laundry!</p>
+  
+    <h2>2. Personal blogs</h2>
+    <p>Blogging isn’t just a hobby – it’s also a great way to show off your writing and digital skills to potential employers. Recruiters want to see candidates who are creative and passionate outside of the office walls. So if you’re not yet doing so, make it your New Year’s resolution, as there can be many benefits to blogging. You could start a blog with topics or opinion pieces related to your professional industry to prove your interest and depth of knowledge. But what if your blog isn’t relevant to the role you’re applying to? Well, a well-designed website full of perfectly-written, traffic-worthy SEO-optimised blogs displays some great, ultra-current, transferable skills anyway. Make sure to include it in your CV.</p>
+  
+    <h2>3. YouTube channels</h2>
+    <p>Content creation is one of the most in-demand skills right now. So, if you’ve got a successful YouTube channel, you should definitely brag about it on your CV. Having the courage and passion to put yourself out there and build a community of followers is sure to impress recruiters. Plus, if you’ve garnered a following, you’ve probably developed some fantastic skills, too. Think video production, editing, design, public speaking, social media management and marketing. If you do decide to list your YouTube channel on your CV, make sure all the videos on your channel are appropriate for potential employers to see.</p>
+  
+    <h2>4. Side hustles</h2>
+    <p>Nowadays, it’s normal for talented self-starters to have a successful side hustle alongside their full or part-time job. People often leave side-projects out of their CV. This is because they fear appearing like they have ‘eggs in too many baskets’ or that it somehow appears disloyal. But this couldn’t be further from the truth! Showing that you’re an entrepreneur with the initiative and commitment to juggle multiple projects and earn money off your own back is sure to command attention. Make it clear that your side hustle has shaped you into a fantastic multi-tasker with a varied range of professional and business skills. Don’t forget to quantify your side-hustle achievements, too. If you made extra income by writing blogs for a local business, by how much did this boost their website traffic? Maybe you have an online business designing flyers or brochures – did these help your clients to gain more leads or make sales? Focusing on results proves your impact to potential employers.</p>
+  
+    <p>Take these CV trends on board! If you want to get in the job hunting game in 2020 and beyond, may sure you keep up with these CV trends – good luck!</p>
+  </article>
+  `
+  },
+
+
+  {
+    status: 'published',
+    rank: 0,
+    title:`24 Skills Teachers Don’t Learn in College But Really Need`,
+    slug: `unwritten-curriculum-teachers-after-college`,
+    author: 'Lauren Brown',
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/career-assistance-networking-and-collaboration-for-teachers.jpg`,
+    alt: `Teacher with students in classroom`,
+    summary: `Discover the unexpected skills teachers acquire on the job that college doesn't prepare them for.`,
+    tags: `Education, Teaching Skills, Teacher Preparation`,
+    keywords: `teacher skills, teaching strategies, classroom management, teacher education, teacher training, humorous teaching moments`,
+    content: `
+  <article class="blog-content">
+    <p>When you graduate with a degree in education, you're armed with an arsenal of teaching strategies and pedagogical knowledge. From building classroom communities to integrating technology, you feel ready to take on the world of teaching. But as any experienced educator will tell you, there's a whole other side to teaching that college doesn't adequately prepare you for.</p>
+    <p>Here's a humorous look at some of the skills teachers end up learning on the job:</p>
+    <ul>
+      <li><strong>Keeping it together:</strong> Repeating directions for the 57th time without losing your cool.</li>
+      <li><strong>The perfect teacher look:</strong> Mastering the art of the glare that instantly commands attention.</li>
+      <li><strong>Google self-awareness:</strong> Checking what your students might find when they search your name online.</li>
+      <li><strong>Parental avoidance:</strong> Navigating awkward encounters outside of school settings.</li>
+      <li><strong>Bathroom break scarcity:</strong> Enduring marathon teaching sessions without a restroom break in sight.</li>
+      <li><strong>Embracing bodily functions:</strong> Developing a strong stomach for all things gross.</li>
+      <li><strong>Mug collection diplomacy:</strong> Accepting yet another "World's Best Teacher" mug with a smile.</li>
+      <li><strong>Managing inappropriate humor:</strong> Maintaining composure when students say something hilariously inappropriate.</li>
+      <li><strong>Grading discretion:</strong> Saying something is graded when you never plan to look at it again.</li>
+      <li><strong>Seating chart puzzles:</strong> Crafting the perfect seating arrangement to minimize distractions.</li>
+    </ul>
+    <p>Teaching is full of unexpected challenges and delightful surprises. While college equips you with the basics, it's the day-to-day experiences in the classroom that truly shape you into a seasoned educator.</p>
+    <p>So, to all the future teachers out there, buckle up and get ready for the wild ride ahead!</p>
+  </article>
+  `
+  },
+
+
+  {
+    status: 'published',
+    rank: 1,
+    title: 'Australian Teachers’ Health and Wellbeing at a Glance ',
+    slug: 'australian-teachers-health-wellbeing-survey-results',
+    author: 'Holly (Teach Starter)',
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: '/blogs/pexels-tima-miroshnichenko-5717262-1024x603.jpeg',
+    alt: 'Australian Teachers’ Health and Wellbeing Survey Results',
+    summary: 'Discover the eye-opening findings from our inaugural health and wellbeing survey, shedding light on the experiences of Australian educators.',
+    tags: ['education', 'teacher health', 'wellbeing', 'survey results'],
+    keywords: 'Australian teachers, health and wellbeing, survey results, teacher workload, school holidays, teacher wellbeing initiatives',
+    content: `
+      <article class="blog-content">
+        <p>Take a look at the astounding results of our debut health and wellbeing survey!</p>
+        
+        <h2>The Results – Australian Teachers’ Health and Wellbeing</h2>
+        <p>An astounding 670 Australian teachers responded to our survey! We were so grateful that the Australian teaching community helped share our survey and encouraged others to take part. As a result, we have been able to gather a huge amount of helpful and critical information around the topic of teacher health and wellbeing. So, thank you to each and every one of you who helped us spread the word.</p>
+        
+        <p>Overall, the respondents to the survey were typical of the populated areas. Almost half of the respondents had less than 5 years teaching experience. Respondents by year level were fairly even across the board.</p>
+        
+        <h3>Average Hours Worked by Teachers</h3>
+        <p>A huge 76% of respondents said that they work an average of 40+ hours a week. What’s more, 31% said they work greater than 50 hours in any given week. So much for working 9-3 hey?</p>
+        
+        <p>We found it interesting that 35% of survey respondents indicated that ‘society’s perception of teachers’ was a major pain point for them. There’s no doubt that as teachers we receive the usual remarks about our 9-3 work hours and how lucky we are to have ALL of those school holidays. Well, the working hours statistic proves (not that we didn’t already know it) how crucial these school holidays are for our teachers to recuperate and recharge? You guys are a dedicated and inspirational bunch! You deserve the holiday breaks – enjoy!</p>
+        
+        <p>We truly think you are incredible. Check out why in our blog – Teachers| 20 Reasons Why You Are Incredible.</p>
+        
+        <h3>How Are Australian Teachers Feeling?</h3>
+        <p>Surprisingly, even though this survey was completed during a typically stressful time (Term 4, report card writing), 54% of respondents rated their wellbeing 6 or higher on a scale of 1-10. As you can see, teachers are still maintaining a positive vibe and we hope this increases during the Christmas holidays.</p>
+        
+        <p>It’s true, it often feels like time speeds up over the holidays. However, with some planning, it’s easy to make the most of your precious time off. For hints and tips, read this fantastic blog – Teacher’s School Holiday To-Do List.</p>
+        
+        <h3>Key Factors Impacting Teachers’ Wellbeing</h3>
+        <p>We classified the responses into two groups. This enabled us to get a greater understanding of the key factors that led to a positive or not so positive year. The results showed that a school-led wellbeing initiative program had a large impact on the school year for both groups. Overall, 33% of our satisfied respondents noted they had access to school-led wellbeing initiatives and felt supported in their role.</p>
+        
+        <h3>Teaching Highlights From 2019</h3>
+        <p>YOU make a difference in the lives of the children in your class. Here are some more inspiring teaching highlights shared with us in the survey.</p>
+        
+        <p>When we reflect on the positives of this survey, it’s clear that the Australian teaching community stands together. We have an incredible ability to see the positive in every situation and that’s what makes us teachers.</p>
+      </article>
+    `
+  },
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`How to Make Activities to Engage Your Students in a Virtual Meeting`,
+    slug: `engaging-activities-virtual-learning-success`,
+    author: `Sarah West`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/activities_virtual_learning_teaching.jpeg`,
+    alt: `Virtual Learning Activities`,
+    summary: `Discover 10 interactive activities to enhance virtual learning engagement for educators and students alike.`,
+    tags: `virtual learning, online education, student engagement, remote teaching, virtual classroom`,
+    keywords: `virtual learning activities, online education engagement, remote teaching techniques, virtual classroom engagement, interactive online learning`,
+    content: `
+  <article class="blog-content">
+    <p>Before 2020, online or virtual learning was a somewhat unfamiliar practice, used mainly by a select few: Master's students, ill or traveling students, homeschooled kids, or for the occasional international short course. Now, everyone has a taste of virtual learning and is trying to work through the transition as best they can.</p>
+    <p>Educators have a particularly challenging hurdle to overcome in this transition, keeping students engaged in virtual meetings. Instructors are used to walking through the classroom and keeping their students' attention by interacting with them in person. With this mostly changed, you can lose a lot when switching from the school setting to a virtual one. Going through the lesson plan virtually can result in a cold, boring class. It lowers engagement, cuts enthusiasm, and affects student-teacher relationships.</p>
+    <p>So how do we avoid this awkward virtual learning experience? We add engaging activities. Fortunately, there are many options for activities you can add to a virtual class. We'll go through a few of them below.</p>
+    <ol>
+      <li><strong>Incorporate Current Events</strong>: While this may not work well for very young students, it works excellently for Grades 4 and up. Current events don't have to be political unless it's a history class. It can be what's happening in the local community, like a food drive or social events. Ask them to find an event and present their opinions in class or create a homework assignment around what they choose. You can have your students grade each other anonymously.</li>
+      <li><strong>Use Social Media Trends</strong>: Instead of brushing off or punishing students for using social media during class, try using it to engage them. Take part in social media trends by adding social media activities or ice breakers before class. Your students could do a famous dance, add trending punchlines, or rate a trend related to your lesson. You could also use this as a mid-class break because they're probably scrolling through TikTok at that point anyway.</li>
+      <li><strong>Ask Open-Ended Questions</strong>: Move away from asking yes or no questions. Instead, ask ones that leave room for discussion and debate. Avoid getting too technical, but make it relevant to the lesson plan. Remember, most of these students may still be in bed or pajamas. You want questions that get their minds off the pillow and into the lesson.</li>
+      <li><strong>Get Them to Talk About Themselves</strong>: We don't recommend digging into students' lives but getting them to talk about themselves is an easy way to get their attention and engage them. Draw out the shy ones with questions like where they'd love to vacation or a list of their favorite Netflix shows. Let students exchange playlists, talk about a favorite show, and so on.</li>
+      <li><strong>Invite Pets</strong>: Let pets come to the meeting; it'll be the cutest show-and-tell! Give students time to introduce their pets before you dive into the lesson. You can choose to let one person show off per class or two at different times. Pets have a fantastic way of engaging distracted, stressed, and checked-out minds, and they'll help recapture students' attention.</li>
+      <li><strong>Use Fun Riddles and Games</strong>: Incorporate riddles and games into your lessons. It'll require everyone's participation and turn a regular class into a fun, engaging one.</li>
+      <li><strong>Let Artistry Roam Free</strong>: Whatever the class is, artistic expression has a place in it. Encourage your students to sketch their view of a problem or write a paragraph about their week. Ensure no one feels pressured to do anything. Make it clear that none of this goes towards a grade, and it is simply in good fun.</li>
+      <li><strong>Invite Students to Emotionally Check-in</strong>: With an increased awareness of students' mental health since the pandemic, many teachers have given room for emotional check-ins in their classes.</li>
+      <li><strong>Play the Lyric/Quote Game</strong>: Class discussion forums can be bland; Q&A sessions are silent. An easy way to revive these is through the lyric/quote game.</li>
+      <li><strong>Provoke Discussion with Controversial Questions</strong>: Trying to start a class discussion is challenging. Trying to start one in a virtual classroom is even more challenging. It feels like students check out much faster. The easiest way to instigate the discussion is to drop a fiery opinion.</li>
+    </ol>
+    <p>Mix and match these 10 tips to increase class engagement with your students. You can use them as a base for an activity or as the activity itself. Be careful to read the room and apply them accordingly.</p>
+  </article>
+  `
+  },
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title: `How to Help High School Students Develop Empathy`,
+    slug: `8-ways-foster-empathy-high-school-students`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_1_4.jpeg`,
+    alt: `High school students discussing`,
+    summary: `High school students often focus on themselves, but it's crucial to nurture empathy too. Here are 8 actionable tips for educators to promote empathy among high schoolers.`,
+    tags: `education, high school, empathy, student development`,
+    keywords: `high school, empathy, students, education, fostering empathy, student development, teaching strategies, empathy in education`,
+    content: `<article class="blog-content">
+      <p>High school students spend a lot of time thinking about who they are and who they will be in the world. They think about their upcoming decisions about college and careers. All this naturally pushes them toward a lot of concern with “I.” Educators need to help ensure that the “we” stay in the picture as well. And that’s why it’s necessary to encourage empathy in high school.</p>
+      <h2>8 Ways to Help High School Students Show Empathy</h2>
+      <ol>
+        <li>
+          <strong>Give students a chance to express their feelings about losses.</strong> When adolescents don’t feel like they belong, they feel great despair. Now more than ever, adults must be sensitive to how much loss can destabilise high school students because it shakes their feelings of belonging. Losses in their families, not being able to interact with friends, missing teams and performance groups… and more are being carried by high school students all the time. Particularly when students return in the fall, very early in the school year, show your empathy toward students by giving them an opportunity to write about losses. You can make it personalised, or you can allow it to be hypothetical, in which students will pour their actual feelings into prose, poetry, or other forms of artistic expression.
+        </li>
+        <li>
+          <strong>Use the prompt, “How do you think that person/those people felt?”</strong> Regardless of subject area—reading a novel, talking about scientific accomplishments, reviewing events in history, reading stories about the contemporary world—asking students to understand the emotions of the people involved exercises their empathy muscles. After a while, they will start asking themselves this question without your prompting—a key aspect of empathy.
+        </li>
+        <li>
+          <strong>Create an exchange program.</strong> Empathy and taking others’ perspectives go hand in hand. So arrange for your students to have regular exchanges—via class-to-class Zoom or the pen-pal approach (whether via old-fashioned paper or email)—with people who come from different backgrounds and situations. Consider partnering with a school overseas. Help with this can come from the European Network for Social and Emotional Competence or the Mandela Washington Fellowship for Young African Leaders through Rutgers University Professor Ronald Quincy. He can help connect teachers with Mandela fellows who are often teachers in Africa. You can also make arrangements with senior citizen centres, youth detention facilities, Veterans Administration centres, the Wounded Warrior Project, and related organisations. The possibilities are endless.
+        </li>
+        <li>
+          <strong>Have students occupy characters from books.</strong> Your students will have fun and learn if you ask them to occupy or become characters they’re reading about. Ask them to portray their posture, speech patterns, and perspective. Then have students compare their classmates’ perspectives on the same characters and discuss why they made their interpretations. For an added challenge, ask your students to create and enact the dialogue they anticipate might happen in upcoming chapters.
+        </li>
+        <li>
+          <strong>Listen, really listen.</strong> It’s natural and all too common for students in classes and groups to worry about what they’re going to say and not listen to others. Here is a simple antidote: Ask students to repeat the response of a classmate before giving their answer (“Afghouli said, ‘I think…’”). Cognitive psychologist Irv Sigel, who studied question asking and answering extensively, noted that there is no need to do this all the time. Once you intersperse this kind of request regularly and at varying intervals in a class, students will start to anticipate and listen more carefully.
+        </li>
+        <li>
+          <strong>Assign an essay on “me at my best.”</strong> To help leaven “I” with “we,” ask students to write an essay (in whatever format they are learning in their English classes) with this focus: When am I at my best? With whom and when? How and why does the presence of others help me be better?
+        </li>
+        <li>
+          <strong>Ask students about the movie that moves them most.</strong> Then, ask them to do the following assignment about it. Once they have done so, they can share in pairs and small groups and report out on one another’s perspectives. This definitely has a broadening effect, as students tend to think everyone will see a “moving movie” the same way that they do.
+          <ol type="a">
+            <li>What is the movie?</li>
+            <li>Summarise the plot.</li>
+            <li>Name the main characters and describe their personalities, especially how they treat others.</li>
+            <li>Identify three parts of the movie that gave you the strongest emotional reactions. What emotions did you feel and why?</li>
+            <li>What was it about the movie that led you to empathise with it so much—to have the reactions intended by the writer, director, and actors?</li>
+          </ol>
+        </li>
+        <li>
+          <strong>Show students how to succeed and fail at interviews.</strong> Throughout high school, students will find themselves in interviews for various kinds of positions, and this will lead to college and career-related interviews in their senior year. Lynne Azarchi, author of The Empathy Advantage and inspiration for this blog, believes students need to know that interviewees are most successful when they can take the perspective of the interviewer. In advisories and group-guidance experiences, time can be devoted to these questions: What are interviewers looking for? What do they not want to see? After getting some discussion by students, be sure these key points are covered:
+          <strong>Desirable qualities:</strong>
+          <ul>
+            <li>Good formal email communication</li>
+            <li>Respectfulness during the whole interview process, including to all staff</li>
+            <li>Preparation—knows about the company, business, or school</li>
+            <li>Commitment to being a team player</li>
+            <li>Willingness to go out of one’s comfort zone</li>
+            <li>Concern for others; can speak about interest and involvement in some social, environmental, charitable, or service causes</li>
+          </ul>
+          <strong>Undesirable qualities:</strong>
+          <ul>
+            <li>Wandering eyes</li>
+            <li>Weak handshake</li>
+            <li>Very short answers</li>
+            <li>Inability to read and match the interviewer in terms of loudness of voice, speed of speech, posture; disinterest in a long response</li>
+          </ul>
+        </li>
+      </ol>
+      <p>The importance of empathy—and its close cousin, compassion—are becoming more and more clear as we see what’s happening in the world around us. Let’s be sure to prepare our high school students to contribute as more considerate and caring citizens.</p>
+    </article>`
+  },
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`Addressing Race and Racism Head-On in the Classroom`,
+    slug: `teaching-us-history-embracing-diversity-complexity`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_.jpeg`,
+    alt: `diverse classroom`,
+    summary: `Explore how educators can authentically teach U.S. history by embracing diversity, complexity, and inclusivity in the classroom.`,
+    tags: `education, history, diversity, inclusivity, teaching`,
+    keywords: `teaching U.S. history, diversity in education, inclusive curriculum, teaching techniques, primary sources, classroom diversity`,
+    content: `<article class="blog-content">
+      <p>Teaching students U.S. history authentically requires educators to delve into race and racism, invite “complexity and hidden narratives” into the conversation, and give students the tools to navigate and make sense of “the truths that are difficult to reconcile with the messages of freedom and democracy,” writes Emily Boudreau for Usable Knowledge, a Harvard Graduate School of Education publication.</p>
+  
+      <p>“What does it mean to be living on land taken from Indigenous people? How can a nation recognize that many of its institutions were built and made possible by the labor of enslaved people?” Boudreau writes, referencing an inclusive vision of history that asks us to acknowledge the contributions of women, Black, Latinx, Asian, and LGTBQ people, for example. “Because conversations around these hard histories can be challenging, educators need to know how to approach the subject in considered, developmentally appropriate ways.”</p>
+  
+      <h2>Feature Stories of Resistance and Resilience</h2>
+      <p>Historical narratives should strike a balance between examining racism and discrimination but also highlighting “the resilience and resistance of communities throughout history,” so they’re instilling hope in young people, Boudreau writes, but also correcting the narrow, often cursory view of U.S. history that glosses over important figures of resistance like César Chávez, Elizabeth Cady Stanton, the disability rights activist Ed Roberts, and Kwame Ture, born Stokely Carmichael.</p>
+  
+      <p>“It’s imperative that teachers not reinforce a milquetoast version of Black history that is anti-Black because of its erasure of painful truths,” writes Rann Miller, an after-school program director.</p>
+  
+      <h2>Examine Primary Sources</h2>
+      <p>Textbooks tend to gloss over large swaths of history, “without going into much depth or bringing the voices of those who lived through those times to the surface,” writes Boudreau. It’s up to teachers to bring those voices into the classroom via primary source documents “that tell the story of an event using the words of the people who are described by the curriculum.”</p>
+  
+      <h2>Make Sure Kids See Themselves in Your Classroom</h2>
+      <p>Books and curriculum should “reflect the diversity of our world and identities of all students,” in the classroom, writes Boudreau. In the early grades, check in with families and caregivers to gain an understanding of students’ backgrounds, suggests Stang, and make sure kids have opportunities to learn not just about the identities of students in the classroom, but also about diverse cultures and backgrounds that aren’t reflected in the room.</p>
+  
+      <h2>Teach Hard Histories in Other Classes Too</h2>
+      <p>It’s not just the job of history teachers to take on the complex discussions around race and racism. “Including curriculum and sources that deal with both hard histories and narratives of resilience and agency is the job of every teacher, not just those in the history department,” writes Boudreau.</p>
+      
+      <p>In STEM classes, for example, writes scientist Ainissa Ramirez, it’s critical to “inform [students] about the past.” In English class, make texts from authors who represent a spectrum of racial, cultural, and gender perspectives available, and emphasize the contributions of often marginalized people to American history.</p>
+    </article>`
+  },
+
+
+
+  {
+    status: `published`,
+    rank: 3,
+    title: `How to Make Activities to Engage Your Students in a Virtual Meeting`,
+    slug: `four-day-work-week-key-to-well-being`,
+    author: `Lauren Brown`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_blog.jpeg`,
+    alt: `Woman relaxing at home after work`,
+    summary: `Explore the benefits of transitioning to a four-day work week and how it can enhance well-being.`,
+    tags: `work-life balance, productivity, well-being`,
+    keywords: `four-day work week, productivity, well-being, work-life balance, benefits of shorter work week`,
+    content: `
+  <article class="blog-content">
+    <p>Are you feeling overwhelmed by the daily grind of work? You're not alone. In this article, we'll delve into the concept of transitioning to a four-day work week and why it might be the solution to enhancing overall well-being.</p>
+  
+    <p>Imagine this scenario: the daughter of a friend recently entered the workforce and found herself consumed by the demands of a traditional five-day work week. She lamented, "If this is what work is like, I don’t want to spend my whole life doing it." Many can relate to her sentiment, as the modern employment landscape often leaves little time for leisure or personal pursuits.</p>
+  
+    <p>But what if there's a better way? Advocates for a shorter work week argue that it could lead to increased productivity and, more importantly, improved well-being. Rather than defining ourselves solely by our jobs, a four-day work week allows for a broader exploration of life's possibilities.</p>
+  
+    <h2>The Evolution of Work</h2>
+  
+    <p>Work, as we know it, is a relatively modern phenomenon. For most of human history, our ancestors lived as hunter-gatherers, spending only a fraction of their time on subsistence activities. It wasn't until the advent of agriculture and the industrial revolution that work became synonymous with long hours and toil.</p>
+  
+    <p>Today, we're still grappling with the legacy of this industrial mindset. However, evidence suggests that longer working hours don't necessarily equate to greater productivity. In fact, countries with shorter work weeks often boast higher levels of well-being and economic success.</p>
+  
+    <h2>The Case for Working Less</h2>
+  
+    <p>Working less doesn't mean economic failure. On the contrary, it may lead to a host of benefits, including reduced stress, improved health, and stronger relationships. Moreover, it allows individuals the opportunity to pursue their passions and interests outside of work, leading to a more fulfilling life.</p>
+  
+    <p>In today's fast-paced world, it's essential to rethink our relationship with work. By prioritizing well-being over constant productivity, we can create a more sustainable and fulfilling future for ourselves and the planet.</p>
+  
+    <h2>Reimagining the Future</h2>
+  
+    <p>As we confront pressing global challenges such as climate change, the need to reassess our work culture becomes even more apparent. Embracing a four-day work week could be a step towards a more balanced and sustainable way of life.</p>
+  
+    <p>Ultimately, whether you're a student entering the workforce or a seasoned professional, it's worth considering the benefits of a shorter work week. After all, life is about more than just work—it's about finding meaning and fulfillment in every aspect of our lives.</p>
+  
+    <p>This article was originally published on The Conversation. Photo by Retha Ferguson.</p>
+  </article>
+  `
+  },
+
+
+  {
+    status: `published`,
+    rank: 3,
+    title:`Moving student assessment into the 21st Century`,
+    slug: `redefining-education-assessment-path-future-proofing-students`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_8.jpeg`,
+    alt: `Redefining Education Assessment`,
+    summary: `Discover how rethinking assessment practices in education can equip students for future employability and bridge learning gaps.`,
+    tags: `education, assessment, future-proofing, student performance, digital learning`,
+    keywords: `education assessment, future employability, learning gaps, digital assessment, student performance`,
+    content: `
+  <article class="blog-content">
+    <p>Last year, a report from the University of Melbourne highlighted the imperative need for a reevaluation of the Australian education system's assessment methods. The aim? To equip students with the essential skills required to thrive in the ever-evolving job market.</p>
+    
+    <p>Professor Sandra Milligan, leading the study at Melbourne Graduate School of Education (MGSE), emphasized that current assessment practices fail to prepare students adequately for the workforce of the future. This shortfall risks leaving an entire generation ill-prepared for the challenges ahead.</p>
+    
+    <p>However, the call for reform hasn't gone unheeded. Efforts are underway to revamp assessment systems, focusing on equity, reliability, and swift feedback mechanisms to enhance student performance.</p>
+    
+    <p>Janison, an edtech company established in 1998 by teacher Wayne Houlden, is at the forefront of this movement. The Sydney-based firm conducts over ten million online assessments annually across 120 countries. Their platform aims to empower educators, students, and policymakers by delivering valuable insights through comprehensive assessment.</p>
+    
+    <p>Recently, Janison received accreditation as the Australian National Service Provider (NSP) by the OECD for the PISA for Schools assessment. This recognition grants Janison exclusive rights to administer PISA for Schools in Australia for the next two years, signaling a pivotal step towards modernizing assessment practices.</p>
+    
+    <p>Moreover, Janison collaborates with the NSW Education Department to implement the online Check-in tool, designed to complement existing assessment methods and tailor teaching strategies to individual student needs.</p>
+    
+    <p>The Check-in tool's success in identifying learning gaps and facilitating immediate interventions has garnered widespread acclaim. Teachers can now address student needs promptly, thanks to the tool's rapid feedback mechanism.</p>
+    
+    <p>While currently implemented in NSW, other education departments across Australia are closely monitoring the Check-in's rollout, recognizing its potential to transform assessment practices.</p>
+    
+    <p>David Caspari, CEO of Janison, emphasizes the transformative impact of digital assessment technologies. He highlights the efficiency and insights gained through digitization, enabling educators to optimize teaching practices and improve learning outcomes.</p>
+    
+    <p>Furthermore, Caspari underscores Janison's commitment to equity in education. By leveraging digital tools, Janison endeavors to bridge the gap between privileged and disadvantaged communities, ensuring equitable access to quality education.</p>
+    
+    <p>One notable initiative is the adaptation of assessments for visually impaired students, demonstrating Janison's dedication to inclusivity and accessibility.</p>
+    
+    <p>Looking ahead, Caspari envisions a future where technology not only enhances assessment processes but also narrows the digital divide, ensuring equal opportunities for all students.</p>
+    
+    <p>In conclusion, the evolution of assessment practices represents a critical step towards preparing students for the challenges of tomorrow's workforce. By embracing digital technologies and prioritizing equity, education systems can empower every student to thrive in an ever-changing world.</p>
+  </article>
+  `
+  },
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`Ancient Wisdom for Teaching in Challenging Times`,
+    slug: `navigating-classroom-lessons-four-agreements-educators`,
+    author: `Lauren Brown`,
+    published_at: '2024-03-12',
+    updated_at: `2024-03-12`,
+    image_url: `/blogs/blog_1_2.jpeg`,
+    alt: `Classroom`,
+    summary: `Explore how educators can apply the timeless wisdom of "The Four Agreements" by Don Miguel Ruiz to navigate the challenges of teaching in today's classroom environment.`,
+    tags: `education, teaching strategies, classroom management, personal development`,
+    keywords: `educational practices, classroom strategies, teacher well-being, positive reinforcement, conflict resolution`,
+    content: `<article class="blog-content">
+    <p>Confession: Teaching in today's classroom environment is no easy feat. Melissa Roy, a seasoned educator, shares her journey of finding solace and inspiration in the teachings of "The Four Agreements" by Don Miguel Ruiz.</p>
+    <p>Roy admits, "I haven’t read any books about instructional practice this year because my brain cannot learn one more thing." Instead, she focuses on nurturing her soul and drawing lessons in patience, kindness, and understanding from her reading.</p>
+    <p>Returning to old favorites like "The Four Agreements," Roy finds solace in its timeless wisdom, especially pertinent during this challenging year of teaching amid a pandemic. She breaks down the four agreements and shares how they've transformed her classroom interactions.</p>
+    <h2>1. BE IMPECCABLE WITH YOUR WORD</h2>
+    <p>Roy emphasizes the power of words, particularly in uplifting struggling students. Instead of reinforcing negative cycles, she chooses to affirm her students' worth and potential. Celebrating successes beyond academics, Roy fosters hope and self-belief.</p>
+    <p>To further explore fostering hope and positive beliefs in students, UC Berkeley's Greater Good Science Center offers valuable suggestions.</p>
+    <h2>2. DON’T TAKE ANYTHING PERSONALLY</h2>
+    <p>Conflict is inevitable, but Roy underscores the importance of not taking things personally. Understanding that students' behaviors often stem from underlying challenges, she responds with compassion and acceptance, defusing difficult situations.</p>
+    <p>For additional insights on conflict resolution in the classroom, Rebecca Alber from UCLA provides helpful suggestions.</p>
+    <h2>3. DON’T MAKE ASSUMPTIONS</h2>
+    <p>Roy warns against the dangers of assumptions, urging educators to embrace each student's individuality. By releasing preconceived notions, she creates space to understand students' unique stories, strengths, and challenges.</p>
+    <p>She emphasizes the importance of kindness and grace, recognizing that everyone is doing their best with the resources available.</p>
+    <h2>4. ALWAYS DO YOUR BEST</h2>
+    <p>Despite the challenges of teaching, Roy advocates for self-compassion and prioritizing what truly matters. Focusing on excellent planning and building relationships, she finds peace in knowing she's doing her best, acknowledging that it's enough.</p>
+    <p>As educators navigate the complexities of teaching, Roy's journey reminds us of the transformative power of applying ancient wisdom to modern challenges.</p>
+    </article>`
+  },
+
+
+
+  {
+    status: `published`,
+    rank: 3,
+    title:`3 Simple Ways to Manage Stress in Social Work Jobs`,
+    slug: `3-simple-ways-manage-stress-social-work-jobs`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: `2024-03-12`,
+    image_url: `/blogs/image_1.jpeg`,
+    alt: `Woman meditating at sunset`,
+    summary: `Learn how to manage stress effectively in social work jobs with these three simple strategies.`,
+    tags: `stress management, mental health, social work jobs`,
+    keywords: `stress management, mental health, social work jobs, fight or flight, mindfulness, exercise, relaxation techniques`,
+    content: `<article class="blog-content">
+      <p>Mental health is a pressing concern in the modern world, particularly in demanding roles like social work jobs. The constant hustle and bustle of daily life, coupled with technological advancements, have led to heightened stress levels and mental health issues.</p>
+      <p>The fight or flight response, a natural reaction to stress, can become overactive in today's society. While this response is beneficial in short bursts, prolonged exposure to stressors can have detrimental effects on both physical and mental health.</p>
+      <h2>Fight or Flight</h2>
+      <p>The fight or flight response is triggered by everyday stressors, causing increased cortisol levels and various symptoms such as decreased learning, muscle tension, and mood swings.</p>
+      <h2>Ways to Manage Stress</h2>
+      <ol>
+        <li><strong>Take Time to Switch Off:</strong> Prioritize relaxation time daily to allow your body to relax and reduce the fight or flight response. Mindfulness practices can also help focus awareness and reduce anxiety.</li>
+        <li><strong>Log Off From Life:</strong> Limit exposure to technology, especially after work hours, to give your mind a chance to decompress. Engage in activities that truly relax you, avoiding stimuli that perpetuate stress.</li>
+        <li><strong>Get Moving:</strong> Regular exercise is a proven method to relieve stress and improve mental health. Even simple activities like walking can have significant benefits.</li>
+      </ol>
+      <h2>Conclusion</h2>
+      <p>Managing stress is crucial for maintaining mental well-being, especially in high-pressure environments like social work jobs. By implementing these simple strategies, individuals can effectively mitigate the effects of stress and lead healthier, more fulfilling lives.</p>
+      <p>If you're interested in learning more about how we can support your career in social work, don't hesitate to reach out to our team today.</p>
+    </article>`
+  },
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`Mastering the Art of Job Interviews: A Comprehensive Guide for University Students`,
+    slug: `mastering-job-interviews-guide-university-students`,
+    author: `Lauren Brown`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/interview.jpg`,
+    alt: `Job Interview Guide for University Students`,
+    summary: `Unlock the secrets to acing your next job interview with this comprehensive guide tailored for university students.`,
+    tags: `career advice, job interviews, university students, interview preparation`,
+    keywords: `job interview tips, university student career advice, interview preparation guide, acing job interviews, university student job search`,
+    content: `
+  <article class="blog-content">
+    <p>For many university students, job interviews can be a nerve-wracking experience. The pressure to perform well can often overshadow the excitement of potential opportunities. However, with the right preparation and mindset, you can conquer any interview. Here's a comprehensive guide to help you master the art of job interviews:</p>
+  
+    <h2>1. Research the School</h2>
+    <p>Prior to your interview, take the time to research the school or organization you're applying to. Understanding their values and priorities will enable you to tailor your resume and responses effectively. Highlighting relevant experiences and skills that align with their needs can significantly boost your chances of success.</p>
+  
+    <h2>2. Prepare Your Answers</h2>
+    <p>Anticipate common interview questions and craft thoughtful responses. Consider using the STAR method (Situation, Task, Action, Result) to structure your answers, providing specific examples to illustrate your capabilities. Practice your responses with a mock interview to build confidence and fluency.</p>
+  
+    <h2>3. Get Ready for the Big Day</h2>
+    <p>Ensure you're fully prepared on the day of the interview. Plan your route in advance, allowing extra time for unexpected delays. Dress professionally and comfortably, reflecting the level of formality expected for the position. Arriving early will give you time to compose yourself and make a positive first impression.</p>
+  
+    <h2>4. Make a Strong First Impression</h2>
+    <p>Your appearance and demeanor speak volumes about your professionalism and commitment. Dress appropriately for the occasion, demonstrating respect for the opportunity. Maintain eye contact, smile, and engage with your interviewer. Show genuine interest in the role and organization by asking insightful questions.</p>
+  
+    <h2>5. Project Confidence</h2>
+    <p>Confidence is key during an interview. Be mindful of your body language, conveying openness and enthusiasm. Use the interviewer's name when appropriate and maintain a friendly yet professional tone. Showcase your strengths and achievements with humility, emphasizing your potential contributions to the team.</p>
+  
+    <p>By following these steps, you can approach your next job interview with confidence and poise. Remember, preparation is the key to success. With the right mindset and preparation, you can impress your interviewers and land the job of your dreams.</p>
+  </article>
+  `
+  },
+
+
+  {
+    status: 'published',
+    rank: 3,
+    title: 'How Any High School Teacher Can Confidently Tackle Physics',
+    slug: 'effective-strategies-teaching-physics-without-background',
+    author: 'Gabrielle Ryan',
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: '/blogs/84ec572fe90cea793ace34b8f39ac48f21e91677.jpeg',
+    alt: 'Physics classroom',
+    summary: 'Discover three actionable tips for educators teaching physics without prior expertise in the subject, empowering them to engage students effectively.',
+    tags: ['Education', 'Physics', 'Teaching Strategies'],
+    keywords: 'teaching physics, physics education, physics teaching strategies, teaching without background, effective teaching tips',
+    content: `<article class="blog-content">
+      <p>Physics education in the United States faces a unique challenge: a shortage of qualified teachers. Many districts, particularly in urban and rural areas, struggle to offer physics courses due to this shortage. Compounding the issue is the fact that most universities produce few physics teachers, leaving a significant gap in the education system.</p>
+      <p>Despite these challenges, there are effective strategies for educators without a physics background to teach the subject successfully. Here are three tips:</p>
+      <h2>1. Connect with a Physics Community</h2>
+      <p>Building a network of support is crucial, especially when teaching outside one's specialty. Educators can find support from colleagues within their school or district, as well as through local or state-level physics teacher associations. Online platforms like Twitter offer opportunities to connect with fellow educators and access valuable resources.</p>
+      <h2>2. Focus on Models, Not Math</h2>
+      <p>Contrary to common belief, physics is not just for math-oriented students. Emphasizing the process of developing models based on observations and experiments, rather than focusing solely on equations, can make the subject more accessible to all students. Educators can explore teaching models like the Investigative Science Learning Environment to align with Next Generation Science Standards.</p>
+      <h2>3. Teach with Humility</h2>
+      <p>Approaching physics education as a shared learning experience with students can foster a collaborative classroom environment. Educators should acknowledge their own learning journey and involve students as active participants in the learning process. Practicing demonstrations and experiments beforehand can help ensure smooth delivery in the classroom.</p>
+      <p>While teaching physics without a background in the subject may seem daunting, adopting the right mindset and approach can turn it into an exciting adventure for both educators and students alike.</p>
+      <p>For more resources and support in physics education, visit the <a href="https://www.academicjobs.com/quick-job-post-technology" target="_blank">Quick Job Post Technology</a> page.</p>
+    </article>`
+  },
+  
+  
+  {
+    status: `published`,
+    rank: 0,
+    title: `Broader approach needed to help disadvantaged students`,
+    slug: `public-school-funding-australia-debate`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_8.jpeg`,
+    alt: `Public School Funding in Australia`,
+    summary: `Explore the ongoing debate surrounding public school funding in Australia, delving into concerns, government commitments, and societal impacts.`,
+    tags: `education, public schools, funding, Australian education, government funding`,
+    keywords: `public school funding, Australian education system, government funding for schools, disadvantaged students, education inequality, youth employment services, social cohesion, diversity, education funding debate`,
+    content: `
+  <article class="blog-content">
+    <p>Saturday 15 May marked the beginning of National Families Week, an occasion which celebrates the vital role that families play in Australian society. Amidst this celebration, concerns loom over the ongoing resource gap between public and private schools, exacerbating issues for disadvantaged youth across the country.</p>
+  
+    <p>On 11 May, Treasurer Josh Frydenberg announced $24.4bn for all schools in 2021-22 as part of the Federal Budget. This includes funding for reforms in the government's youth employment services program and initiatives aimed at enhancing social cohesion and diversity. However, the disparity in resources between public and private schools remains a pressing issue.</p>
+  
+    <p>Mary Malak, CEO of Humanity Matters, highlights the strain on public schools, especially in accommodating disadvantaged and special needs students. She emphasizes the need for a broader approach to ensure all students receive equitable opportunities.</p>
+  
+    <p>In a nationwide poll by YouGov, over eight in ten Australians expressed concerns about low public school funding, with three-quarters agreeing that the Federal Government should fully fund every school to 100% of the Schooling Resource Standard (SRS).</p>
+  
+    <p>While Federal Education Minister Alan Tudge asserts that funding for government schools has increased significantly, critics argue that more comprehensive measures are needed to address the resource gap.</p>
+  
+    <p>The ongoing debate over public school funding underscores the importance of ensuring equitable access to education for all students, regardless of socioeconomic background or school type.</p>
+  </article>
+  `
+  }, 
+
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title: `How to End the School Year on a High Note`,
+    slug: `wrapping-up-school-year-tips-teachers`,
+    author: `Lauren Brown`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/blog_3_2.png`,
+    alt: `School Year Ending`,
+    summary: `Get ready to finish the school year on a high note with these practical tips for teachers.`,
+    tags: `education, teaching, end-of-school-year, teacher tips`,
+    keywords: `end of school year, teacher tips, school year tips, education tips, finishing school year, teaching advice`,
+    content: `<article class="blog-content">
+      <p>The end of the school year can be chaotic – from assessments and report writing to camps, productions and final assemblies, teachers have a lot of their plates during this period. With the disruptions of 2020, Term 4 is shaping up to be especially intense this year, and the way we bring it to a close will be even more important.</p>
+      <p>As we count down to the end of the final term, here is our advice to help you finish the school year on a high note.</p>
+      <h2>Don’t Wrap Up Too Soon</h2>
+      <p>While it can be easy to let your schedule relax when you reach the final stretch, but it’s helpful to try and maintain your routine for as long as possible. If students perceive that you are winding down, this may impact their attitude and behaviour in the classroom.</p>
+      <p>This doesn’t mean you have to deliver dense, highly-structured lessons right up to the closing bell (there’s nothing wrong with keeping it light and fun after all), but making the most of the remaining learning time in the last few weeks will help students stay focused and engaged.</p>
+      <h2>Be Prepared</h2>
+      <p>One most effective ways to ease the end-of-year stress is to be prepared. When you’re in the middle of all the final marking, report writing and festive events, finding the time to prepare lesson plans can be difficult. By squeezing in extra prep where you can and having a trusty collection of resources ready to fall back on, you can alleviate some of the pressure while ensuring you’re still able to give your best to your students.</p>
+      <p>We have put together a selection of quality lesson planning resources to help you out when you’re short on time in this blog, and there are also plenty of fun holiday-themed activities and ideas available online if you want to mix things up with something seasonal.</p>
+      <h2>Take Time to Reflect</h2>
+      <p>It’s always beneficial to reflect on the year gone by, but this year it’s more crucial than ever to allow students the opportunity to process, document and share their feelings about the past 12 months. This can serve as a reflection of learning while also providing a valuable way to process the challenges they have overcome. It can be done as a group and/or individually and might take the form of a journal entry, poster, slide show, portfolio or memory book that they can look back on and share.</p>
+      <p>As well as reflecting with the students, it’s also important for teachers to do their own reflections as it gives you a chance to see how you’ve grown in your teaching practice and what you’ve learned over the past year. Don’t forget to also use this time to take note of any professional development you have undertaken, as this could come in handy when writing an appraisal or updating your CV.</p>
+      <h2>Recognise and Celebrate Achievements</h2>
+      <p>Celebrating your students’ achievements is one of the best ways to close out the year with a bang, particularly one that has been filled with so many difficulties. You might invite students to write down something positive about their classmates, as well as think about the personal successes they are most proud of and share them with the class.</p>
+      <p>Rather than relying on the awards passed out in the final assembly, you should also make an effort to recognise the accomplishments of all the students individually, especially the ones that have struggled. Whether it was mastering a new concept, adapting well to the remote learning environment, trying again after a mistake or handing in a stand-out project, praising the ways each student has grown will give them confidence that they can take with them into the next year.</p>
+      <h2>Summary</h2>
+      <p>Often, the final weeks of the school year can have just as big an impact on the students and teachers as the beginning of Term 1 does. By looking for ways to provide a positive experience, you can ensure everyone leaves for the summer holidays feeling optimistic and will return ready and excited to learn.</p>
+      <p>If you’d like to share your strategies for ending the school year well or want to make a fresh start in 2021 and need advice on finding your next teaching job in Victoria, speak to our team of Education recruitment specialists today.</p>
+    </article>`
+  },
+
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`Seven Horrible Job Search Tips to Ignore`,
+    slug: `7-job-search-tips-to-avoid`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: `2024-03-12`,
+    image_url: `/blogs/blog_5.jpeg`,
+    alt: `Job Search Tips`,
+    summary: `Avoid these 7 job search tips that can harm your chances of landing your dream job.`,
+    tags: `job search, career advice, job hunting, employment tips, interview tips`,
+    keywords: `job search tips, job hunting advice, interview preparation, career guidance, employment strategies`,
+    content: `
+  <article class="blog-content">
+    <p>Hunting for a new job is already challenging, but navigating through misleading tips and guides can make it even more daunting. Here are seven job search tips you should avoid at all costs:</p>
+  
+    <ol>
+      <li><strong>Create Your CV According to XYZ Format:</strong> Don't feel obligated to adhere to a specific format when crafting your resume. Showcase your creativity and let your achievements speak for themselves.</li>
+  
+      <li><strong>Follow the Steps Detailed in the Ad to Land the Job:</strong> In today's competitive job market, blindly following advertised steps may not be the most effective strategy. Consider leveraging personal connections to bypass traditional application channels.</li>
+  
+      <li><strong>Tell the Interviewer How Much You Are Making at Your Current Job to Impress Them:</strong> Instead of disclosing your current salary upfront, inquire about the company's offer first to gain leverage during salary negotiations.</li>
+  
+      <li><strong>Make Sure Your Interviewer Knows How Much You Want This Job:</strong> Avoid appearing desperate by focusing on asking insightful questions about the role rather than expressing excessive eagerness.</li>
+  
+      <li><strong>Add a Column in Your Resume Highlighting Testimonials from Previous Employers:</strong> Relying solely on others' praise may signal a lack of self-assurance. Focus on showcasing your own accomplishments and skills.</li>
+  
+      <li><strong>Ask the Interviewer Why They Would Not Hire You After You Are Done:</strong> Instead of questioning your suitability for the role, conclude the interview with gratitude and follow up with a polite email.</li>
+  
+      <li><strong>Have Your Reference Letter On You During the Interview:</strong> Keep your reference letter as leverage and only present it when necessary. Treat the interview as a negotiation and maintain control over the process.</li>
+    </ol>
+  
+    <p>Avoid falling for these misleading job search tips to increase your chances of securing your desired position.</p>
+  </article>
+  `
+  },
+
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`Social & Emotional Learning (SEL) Begins With the Teacher`,
+    slug: `improving-classroom-behavior-student-engagement-social-emotional-learning`,
+    author: `Nicole Fynn`,
+    published_at: '2024-03-12',
+    updated_at: `2024-03-12`,
+    image_url: `/blogs/image_5.jpeg`,
+    alt: `Social and Emotional Learning in Education`,
+    summary: `Learn how to enhance classroom behavior and student motivation through the implementation of social and emotional learning (SEL) techniques.`,
+    tags: `education, classroom management, social emotional learning, student engagement`,
+    keywords: `classroom behavior, student engagement, social emotional learning, SEL, teacher-student relationships, self-motivation, emotional expression, self-reflection, teacher training, academic performance`,
+    content: `<article class="blog-content">
+  <h2>Improving Classroom Behavior and Student Engagement with Social and Emotional Learning</h2>
+  <p>Many middle school teachers find success using extrinsic reward systems to manage class behavior, but these methods can cause a “What’s in it for me?” attitude among students when they’re asked to do something they should be doing anyway, such as being kind to others. A more intrinsic way to improve class behavior is to use social and emotional learning (SEL) to help students strengthen their relationships with teachers and peers.</p>
+  <p>SEL skills are also essential for student self-motivation. Although there was some resistance from students to do their schoolwork before the pandemic, COVID exposed more of that resistance. It stripped away the extrinsic factors that were in place in school systems, leaving students to motivate themselves. Teachers hadn’t taught executive function skills, however, and students were accustomed to being told what to do and how to do it. Students didn’t know how to manage time, so how could they motivate themselves and finish their assignments?</p>
+  <h3>SEL and Teacher-Student Connections</h3>
+  <p>Teacher-student relationships greatly impact learning, and focusing on the teacher role in SEL can lead to improved student academic performance. A lack of teacher training and comfort with SEL, however, means that student behavior and emotions can remain under the teacher’s radar. Here are some examples:</p>
+  <ul>
+    <li>A seventh-grade student, Steven, isn’t getting his work done because he’s afraid of not having the right answer and not pleasing his teacher. He freezes up and doesn’t do the assignment.</li>
+    <li>A sixth grader, Miguel, does all he can do on an assignment and writes on his homework, “This is the best I can do,” which the teacher had suggested he write when he was stuck. The teacher, however, responds, “I don’t want to hear that.” Miguel is stunned and ashamed, so he may be less likely to speak up and advocate for himself.</li>
+    <li>Penny, an eighth grader, has short-term memory loss due to previous traumatic experiences and also is not an auditory learner. After giving long verbal instruction, the teacher asks Penny to repeat the directions. Penny responds, “I don’t remember.” The teacher inevitably gets frustrated at having to repeat the instructions, and Penny feels ashamed and hurt. Rather than realizing it may be helpful for Penny to have written directions she can refer back to, the teacher gets angry.</li>
+  </ul>
+  <p>Teacher attitudes and student experiences like these can influence student self-esteem and confidence when it comes to turning in assignments, and these patterns can last for years if left undetected. SEL must begin with teachers; the more teachers use their own SEL skills in the interactions they have with students, the more students will feel liberated to do the same.</p>
+  <h3>Teacher SEL Training</h3>
+  <p>Self-reflection is an important tenet of social and emotional learning, enabling teachers to practice their own self-care and promote well-being. When there are problems in the classroom or with others, it’s vital that teachers reflect on the part they may be playing. So, taking time to reflect on our role in problems we may have in our relationships with students can bring us greater awareness as to how we might change our strategies in the future.</p>
+  <p>Being self-aware is only one part of the SEL puzzle and overlaps with other SEL components, such as self-regulation. When we’re frustrated or angry, students know it, and they may have a hard time asking for help. Determining ways to tame our anger can also be a part of the self-reflective process that can go a long way in strengthening our relationships with students. These skills can help teachers throughout their career.</p>
+  <p>Here are a few questions that teachers can ask themselves to prevent further teacher (and student) turmoil:</p>
+  <ul>
+    <li>How can I make the work I assign meaningful to students?</li>
+    <li>What is my role in why students aren’t getting their work done?</li>
+    <li>How can I spend my time differently to get the results I want from students?</li>
+  </ul>
+  <p>Considering all the tasks that teachers have to fulfill, it can be easy to reach for blame instead of self-reflection. This is especially true when students present challenging behaviors. Rather than raising our voices at students or calling out students in front of others, a better option would be to pause and think of other choices we have. Self-reflection can help us regulate our own behavior so that we can cultivate and prioritize a more caring way to interact with students. The benefits for both teachers and students will be long-term.</p>
+  </article>`
+  },
+
+
+
+
+  {
+    status: 'published',
+    rank: 0,
+    title: 'What’s Wrong With Points?',
+    slug: 'rethinking-points-based-grading-path-student-engagement',
+    author: 'Justin Wells',
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: '/blogs/istock-187131634-crop.png',
+    alt: 'Students in a classroom engaged in discussion',
+    summary: 'Explore how points-based grading systems may hinder student engagement and discover alternative approaches to assessment.',
+    tags: 'education, grading systems, student engagement',
+    keywords: 'points-based grading, student assessment, alternative grading methods, student engagement, education, teaching strategies',
+    content: `<article class="blog-content">
+      <p>A high school principal recently lamented to me that many of his students’ grades were cratering during distance learning. Much of the problem, he observed, was coming from classes whose grades were calculated using points: Work is assigned, work is not received, and the work gets a zero in the grade book. An algorithm takes over. Average these. Weight that. Out spits the failing grade.</p>
+      <p>Keeping our students engaged when we can’t serve them in person has, understandably, proven a challenge. For over a year now, teachers all over the country have been Zooming real hard and often feeling disappointed by what they’ve been getting back from students in return. But according to many school leaders I’ve heard from, that problem has been compounded by points-based grading systems.</p>
+      <h2>What’s Wrong with Points?</h2>
+      <p>Let’s step back: It’s not the points themselves that are the problem. Points are a perfectly valid way to add up the number of right and wrong answers in certain kinds of assessments—some questions do have right and wrong answers.</p>
+      <!-- More content here -->
+      <h2>Don’t Add Them Up</h2>
+      <p>In many classrooms across all subjects, things that are small and routine—quizzes, homework—tend to be scored with points. This is convenient and defensible. When well-conceived, learning routines communicate the value of practice, and it’s important to have data on the quality and quantity of our students’ practice.</p>
+      <!-- More content here -->
+      <h2>Look for Ways to Apply the Portfolio Concept</h2>
+      <p>The essence of a portfolio is simple: It’s a demonstration of skill through the curation of evidence. That’s why portfolios have proven to be such a flexible and effective form of assessment. They can wrap themselves around any kind of evidence (including items that have already been point-scored), and they enroll the learner in the curation of that evidence.</p>
+      <!-- More content here -->
+      <h2>Use a Rubric for the Course Grade</h2>
+      <p>It’s not a coincidence that letter grades, GPAs, and most rubrics operate on roughly the same 4-point scale. In describing those levels, it’s hard to beat this quick guide, as explained by one wise teacher I know: An A means “you nailed it.” A B means “you got it.” A C means “you almost got it.” And a D or F tells us that “something isn’t working here.”</p>
+      <!-- More content here -->
+      <h2>Keep Asking Students What Might Work Better</h2>
+      <p>To be clear, useful, and motivating, an effective grading system needs constant input from its end users. And it pays particular attention to the input from students for whom things are not working well. True, plenty of students will say that a points-based system works fine: They’ve got it figured out, so why change? But those aren’t the students to be designing for—and improving things for students who have been struggling usually improves things for everyone.</p>
+      <!-- More content here -->
+      <p>We must examine the ways the pandemic caught us off-guard. Many of our grading systems were geared for seat-time. The systems broke down when the seats were empty. Now that we know better, we must retool.</p>
+      <p>So take a hard look at the use of points in your grading practice. Try some techniques for containing or even eliminating them. If we come out of this pandemic adding up fewer points, we will have advanced toward an educational system where assessment is for learning, not for sorting.</p>
+    </article>`
+  },
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`What Knowledge Do Principals Need?`,
+    slug: `maximizing-principal-impact-role-content-expertise-school-leadership`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/principal.png`,
+    alt: `Principal working with teachers`,
+    summary: `Discover the importance of content expertise in school leadership and how it impacts teacher support and professional growth.`,
+    tags: `education, leadership, teaching, professional development`,
+    keywords: `school leadership, principal expertise, teacher support, professional growth, educational leadership, content knowledge, instructional coaching`,
+    content: `<article class="blog-content">
+               <p>Tim Schlosser's journey from English teacher to principal sheds light on the pivotal role content expertise plays in school leadership. As the principal of Tyee High School in SeaTac, Wash., Schlosser brings a unique perspective to the table, bridging the gap between academic standards and effective teaching strategies for ELA teachers.</p>
+               <p>While Schlosser's expertise is invaluable for ELA, the question arises: what about other subjects like calculus or Spanish? Schlosser emphasizes that a principal's role isn't to be the expert in all subjects but to ensure that teachers receive the necessary support and development in their respective areas.</p>
+               <p>However, the debate around principal's content knowledge persists. While the mantra "good teaching is good teaching" holds true, there's an argument for principals to delve deeper into subject areas beyond their expertise to better support teachers.</p>
+               <p>Ann O'Doherty, a former principal, highlights the importance of principals having a solid understanding of curriculum, assessments, and classroom culture. This knowledge enables them to guide teachers effectively across different subjects.</p>
+               <p>Susan Korach emphasizes the need for principals to recognize their limitations and collaborate with content experts to fill in the gaps. But Jo Beth Jimerson and Sarah Quebec Fuentes suggest that principals with baseline content knowledge can offer more actionable feedback to teachers.</p>
+               <p>Jimerson's research reveals that while common teaching practices are valuable, principals with content knowledge can provide nuanced feedback, enhancing teacher-leader relationships.</p>
+               <p>To bridge the content expertise gap, Jimerson proposes practical steps for principals to deepen their knowledge, including focusing on one subject area each year, subscribing to practitioner journals, and engaging in professional learning communities.</p>
+               <p>Jack Baldermann's experience at Westmont High School underscores the importance of collaborative learning environments where teacher expertise drives professional development. Baldermann's approach aligns with Jimerson's suggestions, emphasizing the value of content-based professional learning communities.</p>
+               <p>Ultimately, Principal Schlosser emphasizes that while content expertise is valuable, effective leadership goes beyond subject knowledge. Building a culture of collaboration and support is key to empowering teachers and driving academic improvement.</p>
+               <p>By recognizing the importance of content expertise while fostering a collaborative learning environment, principals can maximize their impact on teacher support and professional growth, ultimately benefiting student success.</p>
+             </article>`
+  },
+  
+  
+  
+  {
+    status: `published`,
+    rank: 0,
+    title: `Using PERMA pillars to support teachers`,
+    slug: `supporting-teacher-wellbeing-strategies-for-flourishing-in-education`,
+    author: `Sarah West`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_2_1.jpeg`,
+    alt: `Teacher Wellbeing`,
+    summary: `Explore evidence-based strategies to support teacher wellbeing and foster a positive educational environment.`,
+    tags: `education, teacher wellbeing, positive psychology, strategies, wellbeing support`,
+    keywords: `teacher wellbeing, positive psychology, education, strategies, support, wellbeing, flourishing, classroom, interpersonal relationships`,
+    content: `
+  <article class="blog-content">
+    <p>With over 20 years of experience as a teacher, the stress and burnout experienced by educators are no secret. Research confirms that teachers often face some of the highest levels of job stress across various countries (Stoeber & Rennert, 2008).</p>
+  
+    <p>Equally important is the understanding that the wellbeing of teachers directly impacts the wellbeing of students (Roffey, 2012). However, with increasing demands on teachers, such as managing approximately 1000 interpersonal contacts daily (Holmes, 2005), the quality of these interactions can significantly influence a teacher's own wellbeing. In essence, teachers wield the power to either uplift or undermine students within their classrooms. This isn't due to a lack of care but rather stems from feeling overwhelmed by societal and self-imposed pressures.</p>
+  
+    <p>The crux of the matter is clear: teachers require greater support and effective strategies to manage the cognitive and emotional demands of their profession. Armed with evidence-based strategies to enhance their own wellbeing, educators can not only survive but thrive, setting a positive example for their students. Initiatives aimed at fostering student flourishing must start with supporting the wellbeing of teachers.</p>
+  
+    <p>Fortunately, science offers a pathway forward with proven strategies drawn from positive psychology, both at individual and organizational levels. Positive psychology seeks to integrate hedonic wellbeing (feeling good) and eudaimonic wellbeing (functioning well) by studying optimal human functioning and what constitutes a fulfilling life.</p>
+  
+    <p>Martin Seligman, a pioneer in positive psychology, proposed the PERMA model as a framework for wellbeing, consisting of Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment. This model serves as pillars supporting individuals in their pursuit of wellbeing. While not prescriptive, exploring each domain of PERMA can unveil simple yet effective strategies to bolster wellbeing.</p>
+  
+    <p>To start, consider these five reflective questions:</p>
+  
+    <ol>
+      <li><strong>Positive Emotion:</strong> When are you happiest at work? What emotion do you experience?</li>
+      <li><strong>Engagement:</strong> What aspect of your role do you love most? Which strengths do you employ?</li>
+      <li><strong>Relationships:</strong> Who provides you with the most support at work? Whom do you support?</li>
+      <li><strong>Meaning:</strong> What is the most significant aspect of your role to you? Why do you do what you do?</li>
+      <li><strong>Accomplishment:</strong> What achievements, big or small, have you made recently?</li>
+    </ol>
+  
+    <p>While reflecting on these questions won't eliminate tasks from your to-do list or rectify systemic issues, it can shift your focus towards recognizing what works. These small mindset shifts may lead to more meaningful interactions with students or productive conversations among colleagues. Reflecting on wellbeing support could mark the initial step towards cultivating positive organizational cultures.</p>
+  
+    <p>For further exploration, delve into Martin Seligman's seminal work, 'Flourish,' which provides foundational insights into enhancing wellbeing. Additionally, online resources offer specific tools aligning PERMA principles with classroom and staffroom strategies.</p>
+  </article>
+  `
+  },
+  
+
+  {
+    status: `published`,
+    rank: 1,
+    title: `In Schools, Finding Hope at a Hopeless Time`,
+    slug: `fostering-hope-in-students-strategies-for-educators-amidst-crisis`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/teacher.png`,
+    alt: ``,
+    summary: `Explore effective strategies for educators to cultivate hope in students amidst crisis, offering insights on addressing challenges, setting goals, and fostering community.`,
+    tags: `education, teaching, student motivation, hope, crisis management`,
+    keywords: `fostering hope in students, crisis education, student motivation strategies, building resilience in students, hope cultivation, educational strategies for crisis, student mental health, addressing student hopelessness`,
+    content: `<article class="blog-content">
+      <p>In mid-February, three snowstorms knocked out the electricity for thousands of residents in Boyd County, Kentucky. As they waited for up to two weeks for the lights to come on, many residents were left snowbound in their homes in freezing temperatures. Two people died from hypothermia before power was restored.</p>
+      <p>The outages added insult to injury for a rural community struggling to keep students connected and engaged in remote learning for the past year, shared Christy Ford, a high school English teacher. With limited cell phone battery, Ford texted her students during the “dark days” to let them know she was thinking about them—and ask them what they’d do first when the power came on.</p>
+      <h2>Addressing Hopelessness in Students</h2>
+      <p>“During the time virtual school was ‘off the grid,’ I noticed that looking forward seemed to be the best use of my mental energy,” said Ford, who now plans to create a new assignment: “What’s the first thing you’ll do when things return to ‘normal’?”</p>
+      <p>While pandemic schooling has always been hard, it’s seemed to get harder as time has gone on, say Ford and other educators, who are desperately looking for ways to help students stay motivated. Teachers have reported that students increasingly see school as irrelevant and feel a sense of hopelessness about the future. Even with vaccinations and school openings increasing, there are reported upticks in youth depression, anxiety, and suicide attempts. Many teachers, too, share a deepening sense of disillusionment after a year of significant upheaval—and what is expected to be a challenging, slow transition back.</p>
+      <p>So what can educators do to instill hope in students, especially when many feel hopeless themselves? According to many research studies, people who are hopeful aren’t simply optimists or Pollyannas but are able to think proactively about the future and plan ahead to get there. Research shows that hope is a learnable, measurable skill, and one that has a sizable impact on students' success and persistence in school.</p>
+      <h2>Strategies for Cultivating Hope</h2>
+      <p>“People always think of hope as ‘squishy,’ but it’s not,” said Crystal Bryce, the associate director of research at the Center for the Advanced Study and Practice of Hope at Arizona State University. “Hope is cognition and a leading motivation that pushes people to act towards their goals. It’s a skill we have to work on and one that we can grow.”</p>
+      <p>According to researchers and psychologists like Bryce, small shifts in curriculum, assignments, and tasks can actually have an effect on how students see themselves and their world. By making some adjustments and bringing new activities, teachers can mitigate some of the hopelessness students feel—and, in turn, make themselves feel more hopeful too.</p>
+      <h3>Don’t Sweep It Under the Rug</h3>
+      <p>To feel more hopeful, address the elephant in the room. Both children and adults should acknowledge and address the tumult they’ve experienced this past year.</p>
+      <p>Teachers can have students make time capsules or write letters to their future selves to frame the pandemic as a "moment in time."</p>
+      <h3>A Mindset Shift</h3>
+      <p>When students have the right frame of reference, educators can prime their brains to be more hopeful, according to research.</p>
+      <p>Ask the right questions: A good starting place for teachers is regularly integrating specific question prompts into classroom activities that many already conduct—like morning meetings or entry or exit tickets.</p>
+      <h3>Opportunities for Impact</h3>
+      <p>It can be a challenge, however, to think optimistically about the future amid so much instability and uncertainty, said Schonfeld and other experts.</p>
+      <p>In a classroom, teachers can help combat the feelings of powerlessness by giving students opportunities where they regain a sense of control.</p>
+      <p>Hope collages and vision boards, virtual or handmade, can remind students of things that make them feel hopeful.</p>
+      <h2>Conclusion</h2>
+      <p>My takeaway during dark times is I need to model strong and consistent behaviors for my students—even if I’m struggling with the same frustrations and sense of hopelessness myself,” Christy Ford said.</p>
+    </article>`
+  },
+  
+
+  {
+    status: `published`,
+    rank: 0,
+    title: `60-second wellbeing check-in flags student wellbeing issues`,
+    slug: `acc-moreton-utilizes-ei-pulse-student-wellbeing-covid-19`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/blog_5.png`,
+    alt: `ACC Moreton Utilizes EI Pulse to Prioritize Student Wellbeing`,
+    summary: `Discover how Australian Christian College Moreton is leveraging EI Pulse, a 60-second weekly check-in tool, to support student wellbeing in the face of COVID-19 challenges.`,
+    tags: `student wellbeing, COVID-19, mental health, school initiatives`,
+    keywords: `ACC Moreton, EI Pulse, student wellbeing, COVID-19 challenges, mental health, school initiatives, Australian Christian College Moreton`,
+    content: `
+      <article class="blog-content">
+        <p>Amidst concerns over the impact of the COVID-19 pandemic on student mental health, Australian Christian College (ACC) Moreton has taken proactive steps to prioritize student wellbeing. Reports indicate that Australia faces the risk of losing thousands of lives to suicide in the coming years due to pandemic-related challenges.</p>
+        <p>Last year saw a significant rise in mental health crises among young people, with a 50% increase in referrals to hospital emergency departments noted by youth mental health service Headspace.</p>
+        <p>Recognizing the need for more targeted interventions, ACC Moreton implemented EI Pulse, a 60-second weekly check-in tool, to gather essential data on student wellbeing. Derek Hughes, Head of Student Wellbeing at ACC Moreton, highlighted the impact of this initiative, stating, "EI Pulse collects helpful data on a range of issues, allowing us to implement strategies and programs tailored to our students' needs."</p>
+        <p>One of the most crucial aspects of EI Pulse is its ability to provide students with a discreet means of seeking help. By simply responding to the "How are you feeling?" question, students can signal their need for assistance, leading to prompt support from school staff.</p>
+        <p>Reflecting on the effectiveness of EI Pulse, a student at ACC shared, "I’m able to reach out and communicate with teachers without having to confront, which has been immensely helpful for me."</p>
+        <p>Nabil Shaheen, CEO of EI, emphasized the importance of Pulse in supporting at-risk students, stating, "Pulse provides a facility for at-risk students to reach out for help at any time, from any device."</p>
+        <p>Beyond aiding individual students, EI Pulse also offers principals unprecedented visibility into student wellbeing, enabling them to identify and address potential issues proactively. This comprehensive insight into student engagement and wellbeing facilitates informed decision-making at both individual and school-wide levels.</p>
+        <p>Expanding its impact, EI has partnered with universities to share data, aiming to enhance the wellbeing initiatives across educational institutions.</p>
+        <p>Dr. Joe Thurbon, co-founder and CTO of EI, highlighted the significance of this collaboration, stating, "Leaders gain a simple and comprehensive way to understand their school, leading to better engagement and more detailed conversations with students."</p>
+        <p>ACC Moreton's commitment to prioritizing student wellbeing amidst challenging times serves as a testament to the effectiveness of targeted initiatives like EI Pulse in supporting student mental health.</p>
+      </article>
+    `
+  },
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`Best Practices to Avoid Anxiety as a Virtual Instructor`,
+    slug: `reduce-anxiety-virtual-teaching-strategies`,
+    author: `Sarah West`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/avoid-anxiety.png`,
+    alt: `Virtual teaching illustration`,
+    summary: `Discover effective strategies to diminish anxiety in virtual teaching, ensuring a conducive environment for both educators and students.`,
+    tags: `education, virtual teaching, anxiety reduction`,
+    keywords: `virtual teaching anxiety reduction, online education best practices, virtual classroom management`,
+    content: `<article class="blog-content">
+      <p>Anxiety has become prevalent in our lives, extending its reach into the realm of teaching, particularly in the virtual space. In simple terms, anxiety embodies a blend of uncertainty, overwhelming thoughts, fear, and discomfort, impeding one's ability to perform optimally and fulfill responsibilities.</p>
+      <p>Educators have come to acknowledge anxiety as a familiar companion in virtual teaching. As we delve into understanding and addressing this issue, let's explore some of the finest practices aimed at alleviating and preventing anxiety among virtual instructors.</p>
+      <h2>Learn the Virtual Tools You're Using</h2>
+      <p>While it may seem obvious, many overlook the importance of thoroughly familiarizing themselves with the virtual tools at their disposal. Applications, programs, and online platforms offer a plethora of features conducive to effective teaching. Ensure to explore these options, and if possible, inquire about premium versions or budget allocations from school administrators.</p>
+      <!-- More content here -->
+      <h2>Only Use Current Versions of Programs</h2>
+      <p>Given the rapid evolution of virtual teaching tools, utilizing outdated versions may lead to malfunctions. Stay updated by employing the latest versions of programs, ensuring both you and your students are equipped to navigate any technological challenges.</p>
+      <!-- More content here -->
+      <h2>Help Your Students Feel Connected</h2>
+      <p>Recognize that students harbor anxieties about virtual learning akin to your own. Foster frequent communication through various channels such as email, online forms, and one-on-one meetings, assuring students of your availability to address both technological and academic concerns.</p>
+      <!-- More content here -->
+      <h2>Check-In with Parents and Guardians</h2>
+      <p>Establish rapport with the parents or guardians of your students, as they can provide valuable insights into their child's virtual learning experience. Collaboration with parents reinforces the significance of virtual education and encourages a supportive learning environment.</p>
+      <!-- More content here -->
+      <h2>Encourage Group Work</h2>
+      <p>Facilitate group activities to foster collaboration and peer support among students. Group work not only enhances academic engagement but also cultivates social skills, contributing to a more inclusive and less anxiety-inducing virtual classroom.</p>
+      <!-- More content here -->
+      <h2>Set Clear Boundaries</h2>
+      <p>Establish and communicate clear expectations and disciplinary measures to maintain order and mitigate disruptive behavior. Consistent enforcement of boundaries fosters a conducive learning atmosphere, reducing anxiety for both educators and students.</p>
+      <!-- More content here -->
+      <h2>Provide Resources</h2>
+      <p>Identify students in need of additional support and leverage approved resources and interventions to address their academic challenges. Implementing targeted assistance ensures equitable learning opportunities and alleviates anxiety associated with academic performance.</p>
+      <!-- More content here -->
+      <h2>Vary Lesson Plans</h2>
+      <p>Combat monotony by incorporating diverse teaching strategies such as multimedia presentations, interactive activities, and collaborative projects. Engaging lesson plans sustain student interest and participation, mitigating anxiety and enhancing the virtual learning experience.</p>
+      <!-- More content here -->
+      <h2>Don't Give Up</h2>
+      <p>Embrace a growth mindset and continuously seek improvement through experimentation and feedback. Learning from both successes and failures fosters resilience and minimizes anxiety, facilitating professional growth in the realm of virtual teaching.</p>
+      <!-- More content here -->
+      <h2>Ask for Help</h2>
+      <p>Seek support and guidance from colleagues and administrators to refine your virtual teaching practices. Solicit feedback from both peers and students to gain valuable insights and refine your instructional approach, ultimately reducing anxiety and enhancing teaching effectiveness.</p>
+      <!-- More content here -->
+      <h2>An Unconventional Tip: Be Ready to Mess Up</h2>
+      <p>Embrace imperfection and view setbacks as opportunities for growth rather than failures. Overcoming the fear of failure alleviates performance anxiety and fosters a more resilient and adaptive approach to virtual teaching.</p>
+      <!-- More content here -->
+      <p>Embracing these strategies empowers educators to navigate the challenges of virtual teaching with confidence and efficacy, ultimately fostering a supportive and enriching learning environment for students.</p>
+    </article>`
+  },
+  
+  
+  {
+    status: `published`,
+    rank: 0,
+    title: `The impact of digital learning and virtual teaching on education`,
+    slug: `impact-lockdowns-children-reading-habits-discovery`,
+    author: `Sarah West`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_1_1.jpeg`,
+    alt: `Children reading books`,
+    summary: `Lockdowns due to COVID-19 have had unexpected effects on children’s reading habits, revealing surprising insights into their enjoyment of books.`,
+    tags: `education, children, reading habits, lockdown impact, digital learning`,
+    keywords: `COVID-19, lockdowns, children reading habits, digital learning, enjoyment of books, reading rates, audiobooks, eBooks, physical books, education, pandemic impact`,
+    content: `
+    <article class="blog-content">
+      <p>We know COVID-19 and its associated changes to our work and learning habits caused a marked increase in the use of technology. More surprising, perhaps, is the impact these lockdowns have had on children’s and young people’s self-reported enjoyment of books and the overall positive impact this has made on reading rates.</p>
+  
+      <p>A recent survey from the UK, for example, showed children were spending 34.5% more time reading than they were before lockdown. Their perceived enjoyment of reading had increased by 8%.</p>
+  
+      <p>This seems logical — locked down with less to do means more time for other activities. But with the increase in other distractions, especially the digital kind, it’s encouraging to see many young people still gravitate towards reading, given the opportunity.</p>
+  
+      <p>In general, most children still read physical books, but the survey showed a small increase in their use of audiobooks and digital devices. Audiobooks were particularly popular with boys and contributed to an overall increase in their interest in reading and writing.</p>
+  
+      <p>There is no doubt, however, that digital texts are becoming more commonplace in schools, and there is a growing body of research exploring their influence. One such study showed no direct relationship between how often teachers used digital reading instruction and activities and their students’ actual engagement or reading confidence.</p>
+  
+      <p>What the study did show, however, was a direct, negative relationship between how often teachers had their students use computers or tablets for reading activities and how much the students liked reading.</p>
+  
+      <p>These findings suggest physical books continue to play a critical role in fostering young children’s love of reading and learning. At a time when technology is clearly influencing reading habits and teaching practices, can we really expect the love of reading to be fostered by sitting alone on a digital device?</p>
+  
+      <figure>
+        <img src="https://www.shutterstock.com/image-url" alt="Children reading books">
+        <figcaption>Reading alone on a digital device is no substitute for the real thing.</figcaption>
+      </figure>
+  
+      <h2>The Limitations of eBooks</h2>
+  
+      <p>In schools and homes we often see eBooks being used to support independent reading. As teachers and parents, we have started to rely on these tools to support our emerging readers. But over-reliance has meant losing the potential for engagement and conversation.</p>
+  
+      <p>Studies have shown children perform better when reading with an adult, and this is often a richer experience with a print book than with an eBook.</p>
+  
+      <p>Reading when we’re young is still a communal experience. My own seven-year-old is at the age when reading to me at night is a crucial part of his development as a reader. Relying on him to sit on his own and read from his device will never work.</p>
+  
+      <p>This is not to deny the usefulness of eBooks. Their adoption in schools has been led by the desire to better support learners. They provide teachers with an extensive library of titles and features designed to entice and motivate.</p>
+  
+      <p>These embedded features provide new ways of helping children decode language and also offer vital support for children with special needs, such as dyslexia and impaired vision.</p>
+  
+      <p>The research, however, suggests caution rather than a wholesale adoption of eBooks. Studies have shown the extra features of eBooks, such as pop-ups, animation and sound, can actually distract the learner, detracting from the reading experience and reducing comprehension of the text.</p>
+  
+      <h2>The Book as Object</h2>
+  
+      <p>Real books may lack these interactive features but their visual and tactile nature plays a strong role in engaging the reader.</p>
+  
+      <p>Because books exist in the same physical space as their readers — scattered and found objects rather than apps on a screen — they introduce the role of choice, one of the big influences on engagement.</p>
+  
+      <p>While generally a reluctant reader, my child loves to flick through books and look at the pictures. He might not necessarily read every word, but books such as Dog Man, Captain Underpants and Bad Guys have provided a fantastic opportunity to engage him.</p>
+  
+      <p>We have even managed to link reading with our children’s favourite online games. Their Minecraft manuals have become valuable resources and are even taken to friends’ houses on play-dates.</p>
+  
+      <p>Many of our books are not in the best shape, evidence they are lived with and loved. Second hand shops and school fairs provide a cheap option for adding variety, and libraries are also valuable for supplementing the home shelves.</p>
+  
+      <h2>Keeping it Real</h2>
+  
+      <p>But cuts to library budgets and collections, such as have been announced recently by Wellington Central Library, threaten to further undermine the role of the physical book in children’s lives.</p>
+  
+      <p>School libraries, too, are often the first space to be sacrificed when budgets and space restrictions tighten. This encourages the uptake of digital books and further reinforces a reliance on technological alternatives.</p>
+  
+      <p>Of course, digital technology plays an important role in supporting children to engage and learn, often in powerful new ways that would otherwise be impossible.</p>
+  
+      <p>But in our haste to adopt and rely on “digital solutions” without clear justification or consideration of their effective use, we risk undervaluing the power of objects made from paper and ink.</p>
+  
+      <p>As we emerge from a pandemic that has accelerated digital progress, we can’t let these developments obscure the place of real books in real — as opposed to virtual — lives.</p>
+    </article>`
+  },
+  
+
+  {
+    status: `published`,
+    rank: 3,
+    title:`The Only Growth Mindset Development Checklist You Need`,
+    slug: `cultivate-growth-mindset-checklist-academic-success`,
+    author: `Lauren Brown`,
+    published_at: '2024-03-12',
+    updated_at: '2024-03-12',
+    image_url: `/blogs/image_6.jpg`,
+    alt: `Growth mindset checklist`,
+    summary: `Explore 10 actionable steps to develop a growth mindset, essential for academic success. Whether you're a student or educator, these strategies will help you thrive in your educational journey.`,
+    tags: `education, growth mindset, academic success, personal development, learning strategies`,
+    keywords: `growth mindset, academic success, education, personal development, learning strategies, student success, educator tips`,
+    content: `
+  <article class="blog-content">
+    <p>Growth mindset is a crucial aspect of academic success, yet many struggle with how to foster it effectively. In this guide, we provide a practical checklist to help you cultivate a growth mindset for yourself or your students.</p>
+    
+    <h2>1. Embrace Your Imperfections</h2>
+    <p>Recognize that imperfections are opportunities for growth, not shortcomings. Start by identifying areas for improvement and take small steps towards progress.</p>
+    <p>Ask yourself:</p>
+    <ul>
+      <li>What about myself do I know needs improving?</li>
+      <li>Why is this important to me?</li>
+      <li>Why is it important to others whom I am connected to?</li>
+      <li>How and where will I choose to begin?</li>
+    </ul>
+    
+    <h2>2. Upload a New Personal Belief</h2>
+    <p>Shift your mindset by adopting empowering beliefs about yourself and your potential for growth. Replace old, limiting beliefs with affirmations that align with your goals.</p>
+    <p>Ask yourself:</p>
+    <ul>
+      <li>What kind of personal belief would benefit me?</li>
+      <li>Is there an old belief I can upgrade?</li>
+      <li>How can I incorporate this belief into my daily life?</li>
+    </ul>
+    
+    <!--Remaining steps omitted for brevity-->
+    
+    <h2>10. Redefine Your Genius</h2>
+    <p>Acknowledge your unique talents and accomplishments, celebrating your journey and potential for further growth. Recognize that genius is not innate but cultivated through effort and perseverance.</p>
+    <p>Ask yourself:</p>
+    <ul>
+      <li>What have I done in my life that I consider truly remarkable?</li>
+      <li>How have these accomplishments enriched me as a person?</li>
+      <li>What else can I achieve?</li>
+    </ul>
+  </article>
+    `
+  },
+
+
+
+  {
+    status: `published`,
+    rank: 0,
+    title:`Six interview questions you can’t legally be asked`,
+    slug: `navigating-illegal-interview-questions`,
+    author: `Gabrielle Ryan`,
+    published_at: '2024-03-12',
+    updated_at: `2024-03-12`,
+    image_url: `/blogs/interview_advice.jpg`,
+    alt: `Interview Questions`,
+    summary: `Learn about illegal interview questions and how to handle them professionally.`,
+    tags: `interviews, employment, discrimination`,
+    keywords: `illegal interview questions, handling illegal questions, employment discrimination, interview preparation`,
+    content: `
+  <article class="blog-content">
+    So you’ve been invited for an interview for your dream ethical job! You’ve prepared with answers to some of common interview questions, you’ve practiced the STAR method, and you may have even done some mock interviews.
+    But do you know which questions your potential employer can’t legally ask you? And have you considered how you might respond in the awkward situation that you get asked one of them?
+  
+    <h2>Educate and Inform</h2>
+    Up until 1975, employers could take just about anything into consideration when assessing a candidate for a role. But the Commonwealth Racial Discrimination Act (1975) – passed by the Whitlam Government – declared it illegal for:
+    Any employer to treat any person seeking employment less favourably than other persons in the same circumstances by reason of the race, colour or national or ethnic origin of the person so seeking employment.
+    Since 1975, there have been several more Commonwealth and state/territory acts passed to ensure equal opportunity for everyone.
+    For example in Victoria, section 107 of the Equal Opportunity Act 2010 (Vic) states:
+    A person must not request or require another person to supply information that could be used by the first person to form the basis of discrimination against the other person.
+    So what does that mean in practical terms?
+    It means it’s illegal for a potential employer to ask you questions like:
+  
+    <ul>
+      <li>How old are you?</li>
+      <li>Are you pregnant or planning to start a family?</li>
+      <li>Who do you vote for?</li>
+      <li>Do you have a physical or mental disability?</li>
+      <li>What’s your ethnic background?</li>
+      <li>Are you a member of a union?</li>
+    </ul>
+  
+    <h2>Solve a Problem or Answer a Question</h2>
+    There are a few exceptions to the rules above.
+    In the Fair Work Act there’s an exception which allows employers, or potential employers, to request information for a non-discriminatory reason such as the inherent requirements of the particular position. For example if the role requires heavy lifting, they may ask if you are physically fit for the position.
+    In addition, each state has a body like Anti-Discrimination NSW or the Victorian Civil and Administrative Tribunal (VCAT) which can grant temporary exemptions, allowing discrimination to be lawful in some circumstances.
+  
+    <h2>Engage and Inspire Action</h2>
+    But as a general rule, you should not be asked questions about any personal attributes that are not relevant to your ability to perform the role.
+    If you think your interviewer has asked an unlawful question, what should you do?
+    You can refuse to answer – but if it’s your dream job, it may be tricky to flat out refuse.
+    It’s best to assume that the employer is unaware of the law – which it’s common for small not-for-profit organisations that don’t have experienced HR or legal advisors to not be across all the details of employment law.
+    Start by asking as politely as possible how the question relates to the role – for example: “Good question – I’m just wondering how that relates to this role though?”
+    This will hopefully cause the interviewer to realise what they have done and withdraw the question.
+    Or, it may help them to clarify for you whether the question asked was actually unlawful. Extra context from the interviewer may reveal that the question was asked for a non-discriminatory reason after all.
+    If that doesn’t work, saying something like “I’m not sure that I need to answer that question” is a polite but firm way to stand your ground in an uncomfortable – but hopefully rare – situation.
+  
+    <h2>Conclusion</h2>
+    Knowing what your potential employer is not allowed to ask during an interview can occasionally be just as important as preparing for what they probably will ask you. Being prepared with a response to most questions should make you feel more confident and able to steer the interview where you want it to go.
+    There’s more information about workplace discrimination and what you can do if you think you have been discriminated against at Fair Work.
+  </article>
+  `
+  },
+  
+  
+
+
+
+  
+
+
+  
   
 
 
