@@ -2632,6 +2632,219 @@ export const blogData = [
   },
   
   
+  {
+    status: `published`,
+    rank: 0,
+    title:`Transforming School Leadership: Insights from Harvard Course`,
+    slug: `transforming-school-leadership-insights-harvard-course`,
+    author: `Sarah West`,
+    published_at: '2024-03-13',
+    updated_at: '2024-03-13',
+    image_url: `/blogs/image2.png`,
+    alt: `School Leadership`,
+    summary: `Discover how a New South Wales principal implemented insights from a Harvard leadership course to enhance teaching and learning at Banksia Road Primary School.`,
+    tags: `education, leadership, teaching, learning, collaboration`,
+    keywords: `school leadership, Harvard University, instructional leadership, teaching strategies, collaboration in schools`,
+    content: `<article class="blog-content">
+      <p>In June 2018, New South Wales public school principal Hamish Woudsma participated in a six-day Art of Leadership – Improving Schools course at Harvard University's Graduate School of Education. We spoke to him on two occasions – in the lead up to the professional learning experience and shortly after he returned. A year on, the Banksia Road Primary School principal shares which elements of the course he's been able to embed into the teaching and learning at his school, and how he's gone about refining the school's instructional leadership model.</p>
+      
+      <p>The learning I undertook at Harvard University lives on as I continue to collaborate with the principals from my tutorial group and the course's post-readings provide further insight into effective leadership. With time to reflect, I believe I was naïve to pre-empt the lessons I was going to learn. As it turns out, my learning has broadened beyond my wildest dreams.</p>
+      
+      <p>Banksia Road Primary School is situated in Greenacre with approximately 50 staff and 560 students, with the main cultural group being Arabic. Our leadership team includes four Assistant Principals, five Instructional Leaders, a Deputy Principal, Principal and Business Manager. We have an actively engaged Parents and Citizens (P&C) and enjoy a close partnership with the entire community who galvanise to support our school without prompting. This is the most supportive parent community I have worked with in my 23 years working in schools.</p>
+      
+      <p>Since returning from Harvard, I've realised that our instructional leadership model at Banksia doesn't require many adjustments – which is a testament to the leadership of our long standing Instructional Leaders who have committed to the role for over three years.</p>
+      
+      <p>Essentially our model involves two Instructional Leaders in K-3 and three Instructional Coaches in Year 4-6. The Instructional Coaches strive to encourage teacher ‘buy in' to the school culture and mindset. The Instructional Leaders focus on building teacher capacity to positively impact student outcomes. The Instructional Leaders also work closely with the senior leadership team to build the capacity of the Instructional Coaches.</p>
+      
+      <p>Most importantly, each Instructional Leader has a defined role statement where they don't supervise or deal with student welfare; their sole focus is on student outcomes. It is my job to deflect tasks not related to instructional strategies. Therefore, the Deputy Principal and I manage student behaviour and parent concerns. The Deputy Principal, Bahia Almir says, ‘We are highly visible in the playground during breaks, at the school gate and in the classroom. This enables us to be proactive and solve issues before they occur and keep the focus of the discussion on learning.'</p>
+      
+      <p>I believe the model we use works because our Instructional Leaders have the autonomy to take calculated risks and have taken ownership for the results. They also conduct regular surveys each term which ensures constant refining of the model.</p>
+      
+      <h2>Positive changes throughout the school</h2>
+      
+      <p>Since returning from Harvard and based on all the things I learned and experienced, I have been able make several adjustments to the way we teach, learn and collaborate here at Banksia Road Primary School. Here are some of the changes we've been able to make:</p>
+      
+      <h3>Trust and collaboration</h3>
+      <p>We have established positive group norms for teacher and executive teams, which has led to greater levels of trust and a more collaborative work environment. All staff are asked to contribute to the creation of these norms.</p>
+      
+      <p>Positive group norms are a description of how staff would like people to work and interact with each other. We often refer to these norms when there is a breakdown in trust, so as a whole school we can clarify our collective intent. We also share examples where the positive norms have contributed to a positive outcome.</p>
+      
+      <h3>Sharing success and improving assessment</h3>
+      <p>We have been holding senior leadership meetings (the Principal, Deputy and Instructional Leaders) to share successes and failures of the model, and ensure we are united on this journey.</p>
+      
+      <p>We have devoted a large percentage of our time together to improve formative assessment across the school and focus less on summative assessment. This instantaneously informs our teaching and is an embedded requirement of the ACARA learning progressions.</p>
+      
+      <p>This year we have also focused more on staff understanding each other's work style preference. The benefits here are two-pronged. Not only do I have a deeper understanding of my team's work style, but the entire team has greater empathy and understanding when working with each other.</p>
+      
+      <h3>Discovering useful readings</h3>
+      <p>The course at Harvard introduced us to a whole range of readings and texts around effective leadership. I have been able to apply much of the learning around leadership styles and useful analogies in my own school. One which was particularly useful was Leadership That Gets Results by Daniel Goleman. The book refers to six different leadership styles which may all be effective depending on the situation. The research suggests that the most effective leaders use a collection of leadership styles – each in the right measure, at just the right time.</p>
+      
+      <p>My leadership team used this to reflect on their own leadership and identify areas to develop. Above all, we found the authoritative leadership style is the most effective as the hallmarks are based around passion and vision. Authoritative leaders make clear how the work of their staff contributes to the big picture. They give people the freedom to innovate, experiment and take calculated risks.</p>
+      
+      <p>I also shared the work of Harvard University's Irvin Scott around leadership and the Inner Work with my team. This focused on the capacity to engage in deep, inner exploration and reflection that leads to increased self-awareness, empathy, insight and self-mastery.</p>
+      
+      <h3>Parental involvement</h3>
+      <p>In the past, we have run parent workshops with very little success. We know now that parent involvement in their child's learning is our focus and there is a lot of untapped potential. This year, the attendance at our three-way goal setting interviews was 88 per cent, which is evidence that parents do care about their child's learning. Parents have expressed that they value these interviews as there is a clear focus on learning.</p>
+      
+      <p>We also ran initial parent workshops for each stage around practical ways parents may help their child with homework
+      </article>
+      `
+      },
+
+
+      {
+        status: 'published',
+        rank: 0,
+        title: 'The future of early childhood education',
+        slug: 'empowering-early-childhood-educators-deakin-university',
+        author: 'Gabrielle Ryan',
+        published_at: '2024-03-13',
+        updated_at: '2024-03-13',
+        image_url: '/blogs/image_8.jpeg',
+        alt: 'Early childhood education classroom',
+        summary: 'Discover how Deakin University is revolutionizing early childhood education, addressing challenges, and providing meaningful solutions for educators and students alike.',
+        tags: 'education, early childhood education, Deakin University, teacher training, childhood development',
+        keywords: 'early childhood education, Deakin University, teacher training, childhood development, education courses, preschool, Australian government initiatives, education sector challenges, career changers, employment-based pathways, leadership skills',
+        content: `<article class="blog-content">
+          <p>Across Australia, education departments are prioritizing early childhood education, recognizing its profound impact on cognitive development. Recent initiatives like the 'Free Kinder' program in Victoria and increased funding in NSW demonstrate a commitment to this cause.</p>
+          <p>While commendable progress is made at the state level, sustained government investment is imperative for lasting change. In a significant move, Treasurer Josh Frydenberg allocated $2bn in the Federal Budget 2021-22, guaranteeing preschool access for all Australian children.</p>
+          <p>Despite these strides, challenges persist. Under the Universal Access National Partnership, not all eligible children utilize the available hours, particularly among disadvantaged and Indigenous communities.</p>
+          <p>Recognizing the need for innovation, Deakin University collaborates with education leaders and government bodies to address sector challenges. New early childhood education courses offer flexibility, meeting evolving learner needs.</p>
+          <p>The Educator speaks to Professor Damian Blake, Head of School of Education, about Deakin's approach. Blake highlights efforts to fast-track early childhood teacher graduation and remove barriers to qualification.</p>
+          <p>Deakin's Bachelor of Early Childhood Education and Graduate Diploma of Early Childhood Education (Leadership) provide practical pathways for aspiring educators. These programs cater to career changers, offering accessible learning models.</p>
+          <p>By empowering educators and fostering leadership, Deakin University contributes significantly to Australia's early childhood education sector, paving the way for a brighter future for both children and communities.</p>
+        </article>`
+      },
+
+
+      {
+        status: `published`,
+        rank: 0,
+        title:`The State of Teacher Retention in Australia: Challenges and Opportunities`,
+        slug: `teacher-retention-australia-challenges-opportunities`,
+        author: `Gabrielle Ryan`,
+        published_at: '2024-03-13',
+        updated_at: `2024-03-13`,
+        image_url: `/blogs/image_3.jpeg`,
+        alt: `Teacher retention in Australia`,
+        summary: `Explore the challenges facing teacher retention in Australia and the opportunities for improvement, including insights from recent studies and expert opinions.`,
+        tags: `education, teacher retention, Australia`,
+        keywords: `teacher retention Australia, education system challenges, teacher workload, COVID-19 impact on education, teacher recruitment, Australian schools, principal health and wellbeing`,
+        content: `<article class="blog-content">
+          <p>In recent years, there have been heightened concerns about teacher retention across Australia – an issue that is taking on greater urgency as schools expect a flood of new student enrolments at a time when many educators are leaving the job within the first five years.</p>
+          <p>A sign of things to come was revealed last year following reports that Australian universities experienced a decline of up to 40% in initial teacher education (ITE) course applications between 2015 and 2017.</p>
+          <p>In response to this, the House Standing Committee on Employment, Education launched a federal inquiry into the status of the teaching profession to examine ways to improve the retention of teachers in Australian schools.</p>
+          <p>However, the ongoing issue of massive workloads and personal safety concerns is pushing many educators to the brink.</p>
+          <p>The latest national report into principal health and wellbeing found that nearly one in three principals face stress and burnout, as well as high levels of threats and physical violence by parents and students.</p>
+          <p>More than 84% of school leaders reported being subjected to an offensive behaviour over the last year, with 51% reported having received threats of violence, and over 42% being exposed to physical violence.</p>
+          <p>Despite this, most Australian teachers are happy with their job.</p>
+          <p>A recent study by the Australian Council for Educational Research (ACER) found that more than 90% of teachers in Australia and across the OECD on average reported being satisfied with their job and enjoying working in their school, while 88% agreed that the advantages of being a teacher clearly outweigh the disadvantages, compared to the OECD average of 76%.</p>
+          <p>Teachers furious about ‘insulting’ cuts</p>
+          <p>While surveys have shown that very few teachers go into the job for the money, remuneration has unsurprisingly been on the minds of many educators during the COVID-19 recession.</p>
+          <p>A recent announcement by the NSW Government to cap pay increases for teachers and other sector workers at 1.5% has only exacerbated these worries and prompted a furious reaction from the education sector.</p>
+          <p>The decision, to be handed down by Treasurer Dominic Perrottet in the state budget on November 17, aims at saving $1.8bn over the next three years.</p>
+          <p>“We think that's fair and reasonable,” Perrottet said. “Obviously, we want to make sure that we have a balanced wages policy in our state, we're going through a pandemic, we have an unemployment rate currently at 7.2%”.</p>
+          <p>However, NSW Teachers Federation president, Angelo Gavrielatos, said the “insulting” decision by the Treasurer was “bad economics” and warned that the cuts would “torpedo” any effort to rebuild the economy after the COVID-19 pandemic.</p>
+          <p>“Teachers and principals need a competitive salary when compared with other, like professions and they deserve a hell of a lot more respect than they’ve been shown [by this announcement],” Gavrielatos said.</p>
+          <p>“A competitive salary is particularly important in the context of the 25 per cent student enrolment boom expected over the next 20 years”.</p>
+          <p>Gavrielatos added teachers need a competitive salary in order for the public education system to attract and retain teachers.</p>
+          <p>Are the tables turning?</p>
+          <p>Dr Adam Fraser, a peak performance expert and Director of research company E-Lab, recently studied how parents’ attitudes towards teachers changed over the COVID-19 home schooling period.</p>
+          <p>The study of over 1,000 NSW parents of primary-aged children from a diverse range of socioeconomic and ethnic backgrounds found that a whopping 99.7% of parents were satisfied with the work of their child’s teacher, and 98.5% were satisfied with the communication they received from the school.</p>
+          <p>Importantly, 91% of parents said they had a greater level of respect for teachers following the COVID-19 lockdown.</p>
+          <p>Other key findings included that 96.6% of parents felt supported by the school during the COVID-19 home schooling period, and 86.8% reported that their child was moderately to highly engaged in learning during the COVID-19 home schooling.</p>
+          <p>Berry Public School principal, Bob Willetts, who has worked closely with Dr Fraser, said there is much to learn from the study, and the remote learning experience.</p>
+          <p>“Firstly, I think it shows that parents truly value and respect the work of teachers, and they really value clear insight into what their children are learning,” he told The Educator.</p>
+          <p>One of the key learnings moving forward, says Willetts, is the paramount importance of the partnership between parents and teachers to maximise student outcomes.</p>
+          <p>“In many ways the experience broke down barriers and built bridges, it would wonderful to think we could build on this in the future”.</p>
+          <p>Looking ahead</p>
+          <p>As restrictions are eased in some parts of Australia, the question is turning to what teaching and learning – and teacher recruitment – will look like in the post lockdown environment.</p>
+          <p>Tyson Wood, Company Manager at Smart Teachers Australia and Tes Australia said says it’s important to remember that the ‘new normal’ is still being defined.</p>
+          <p>“We do know schools are recognising a greater need for teachers with IT literacy,” he told The Educator.</p>
+          <p>“We can assume this skill will remain relevant as we continue classroom learning, to adapt to any number of disruptions that are faced in a school year, that ‘on demand’ remote learning can aid”.</p>
+          <p>To that end, says Wood, the use and need for technological innovations in schools will remain, as will need for teachers able to use technology to educate and engage students.</p>
+          <p>“As school vacancies continue to resurface, we predict this skillset will be widely sought after,” he said.</p>
+          <p>“Vacancies registered with our recruiters or posted on Tes Jobs have climbed in recent weeks, and we’re continuing to see the numbers grow”.</p>
+          </article>`
+        },
+
+
+        {
+          status: `published`,
+          rank: 0,
+          title:`Revealed: Parents’ view of home-schooling`,
+          slug: `reality-home-schooling-lockdown-ipos-mori-poll-insights`,
+          author: `Gabrielle Ryan`,
+          published_at: '2024-03-13',
+          updated_at: `2024-03-13`,
+          image_url: `/blogs/image.jpeg`,
+          alt: `Home schooling during lockdown`,
+          summary: `As lockdown restrictions ease, an Ipsos MORI poll sheds light on the effectiveness of home-schooling during the pandemic. While some found it manageable, others, particularly from lower-income backgrounds, faced significant challenges.`,
+          tags: `education, lockdown, home-schooling, Ipsos MORI, pandemic`,
+          keywords: `home schooling lockdown, Ipsos MORI poll, pandemic education, lockdown effects, home schooling disparities`,
+          content: `
+        <article class="blog-content">
+          <p>As lockdown restrictions ease, many are reflecting on the experiences of home-schooling during the pandemic. The Ipsos MORI poll provides valuable insights into the varied realities families faced.</p>
+        
+          <h2>The Mixed Verdict on Home-Schooling</h2>
+          <p>According to the survey, around two-thirds of parents believe that home-schooling during the last lockdown went well. However, a concerning 24% felt it didn't go very well. Notably, this dissatisfaction was more pronounced among families with lower incomes, those residing in deprived areas, and those with three or more children.</p>
+        
+          <h2>Challenges Faced Over Time</h2>
+          <p>While some families found home-schooling easier as they adapted to the demands, others continued to struggle. Students with specific learning needs often found remote learning insufficient, and disadvantaged children faced growing disadvantages. The lack of conducive learning environments and necessary digital devices exacerbated these challenges.</p>
+        
+          <h2>Disparity in Adaptation</h2>
+          <p>There's a clear link between parents' earnings and their experience with home-schooling. Parents with lower incomes reported more difficulties compared to those earning higher salaries.</p>
+        
+          <h2>Impact on Disadvantaged Pupils</h2>
+          <p>The Ipsos MORI poll underscores concerns about the attainment gap, particularly among the most disadvantaged pupils. Families with resources found online learning a viable alternative, but for others, it widened the educational divide.</p>
+        
+          <p>In conclusion, the survey highlights the complexities of home-schooling during lockdown and the urgent need to address disparities in access to education resources.</p>
+        </article>
+          `
+        },
+
+
+        {
+          status: `published`,
+          rank: 0,
+          title: `Promise to boost mental health support in schools`,
+          slug: `expanding-mental-health-support-australian-rural-schools-smiling-mind-program`,
+          author: `Lauren Brown`,
+          published_at: '2024-03-13',
+          updated_at: '2024-03-13',
+          image_url: `/blogs/photo_2.png`,
+          alt: `Australian rural school children`,
+          summary: `Australian rural and regional primary schools receive a $2.5 million boost for mental health support through the Smiling Mind program, targeting children's well-being and academic success.`,
+          tags: `education, mental health, mindfulness, rural schools, Smiling Mind`,
+          keywords: `Australian rural schools, mental health support, Smiling Mind program, mindfulness in education, rural education, social and emotional learning, children's mental health, early intervention, academic success`,
+          content: `
+        <article class="blog-content">
+          <p>School children across six hundred of Australia’s rural and regional primary schools will have access to expanded mental health supports through $2.5 million funding for the Smiling Mind evidence-based mindfulness social and emotional learning program, according to a new media release from the federal government.</p>
+        
+          <p>Half of all mental health issues emerge before the age of 14 years and poor mental health affects learning. Prevention and early intervention – both early in life and in the development of a condition – hope to minimise the impact of mental illness across a lifetime.</p>
+        
+          <p>The government said the Smiling Mind Regional and Rural Schools Program “will benefit thousands of children a year”. The online program runs over three school terms each year, involving both school staff training in mindfulness and resources to sustain the program and its benefits for the school.</p>
+        
+          <p>It will also include assistance for schools to gauge the positive impact the program is having on each school community, as well as ongoing support from psychologists and mindfulness experts.</p>
+        
+          <p>Australian school students and their families have faced many challenges over the past year as the nation responded to the COVID-19 pandemic. Smiling Minds will ensure more children can access mental health supports, which will help keep their education on track.</p>
+        
+          <p>Smiling Mind focuses on building healthy minds, engaged classrooms, and equipping a generation of children with skills they need to thrive in life.</p>
+        
+          <p>The program will be available in government, Catholic and independent primary schools in rural or regional communities experiencing disadvantage. Rural and regional schools in South Australia and Queensland joined the program in November 2020, which is now open across the entire country.</p>
+        </article>
+        `
+        }, 
+
+        
+
+
+        
+
+
+      
+      
+      
 
 
 
