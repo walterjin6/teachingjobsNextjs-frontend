@@ -12,12 +12,12 @@ import { getContentRegion } from '@/actions/getContentRegion';
 export const metadata: Metadata = {
   // title: 'About', //Option 1 replaces the %s in layout.tsx
   title: {
-    absolute: '  Teaching Jobs: All Higher Ed Positions Locally and Globally.', //Option 2 overrides the title in layout.tsx
+    absolute: '  Teaching Jobs: All School Jobs in Australia.', //Option 2 overrides the title in layout.tsx
   },
   description:
-    'Search for academic positions, research, science and university staff jobs here. Find higher ed jobs at all universities today!',
+    'Looking for Teaching Jobs in Australia? Visit our website at Teaching Jobs, to see our range of teaching jobs available near Melbourne, Sydney, Perth and all major cities.',
   keywords:
-    'Teaching Jobs. Higher Ed Jobs, Academic positions, University Jobs, College Jobs',
+    'Teaching Jobs. TeachingJobs, Teacher Jobs, Teacher positions',
 };
 
 export default async function myPage() {

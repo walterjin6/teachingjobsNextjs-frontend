@@ -54,7 +54,7 @@ export default function myPage() {
         <div className="listings_panel">
           <div className="listings_content">
             {/* <SearchResults1 q={{ q: q, l: l || '', filter1 }} /> */}
-            <SearchResults q={{ q: 'online' || 0 }} />
+            <SearchResults q={{ q: '' || 0 }} />
           </div>
         </div>
       </section>

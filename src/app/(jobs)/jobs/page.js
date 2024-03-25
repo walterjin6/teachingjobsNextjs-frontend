@@ -280,7 +280,7 @@ export default function Page() {
             </div>
           </div>
         </section>
-        <div className="max-w-4xl mx-auto py-8"></div>
+        {/* <div className="max-w-4xl mx-auto py-8"></div>
         <div className="max-w-4xl mx-auto py-8"></div>
         <div className="bg-gray-100">
           <div className="container mx-auto py-8">
@@ -342,7 +342,7 @@ export default function Page() {
               Quick Job Post
             </Link>
           </div>
-        </div>
+        </div> */}
       </main>
     </>
   );
