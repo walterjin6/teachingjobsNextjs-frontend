@@ -34,7 +34,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >The New South Wales Education Standards Authority (NESA), an independent statutory body distinct from any educational authority, is where one must register in order to teach in the state. Teachers in all New South Wales schools and colleges are registered with the NESA. Teachers who are currently registered in other states or territories may be eligible for mutual recognition. We hope that this information may be useful to you as you look for Sydney teaching opportunities. Best of luck! </p>
+            <p >Find all Sydney School Positions on Teaching Jobs Today. The New South Wales Education Standards Authority (NESA), an independent statutory body distinct from any educational authority, is where one must register in order to teach in the state. Teachers in all New South Wales schools and colleges are registered with the NESA. Teachers who are currently registered in other states or territories may be eligible for mutual recognition. We hope that this information may be useful to you as you look for Sydney teaching opportunities. Best of luck! </p>
           </div>
           <div className="newLine mb-2"></div>
    

@@ -31,7 +31,7 @@ export default function myPage() {
       <HeroBanner
         bgColorClass="bg-slate-200"
         h1="Find the best  Schools to work for here..."
-        h2="Use Top School to search for Teaching Jobs."
+        h2="Seek The Best Teaching Jobs Here"
         para1="Search for Teaching career opportunities by Schools on the number 1 Teaching job board. Discover Teaching positions at the top schools with current openings through our 'Top Schools' page."
         src="/employers/top-universities-world-wide.jpg"
         alt="People immersed in Teaching blogs at our vibrant Teaching Hub"
@@ -41,7 +41,7 @@ export default function myPage() {
         imgRight={false}
       />
 
-<h2 className="underline-full mt-6 max-w-screen-xl mx-auto ">Top Teaching Jobs at Schools</h2>
+<h2 className="underline-full mt-6 max-w-screen-xl mx-auto ">Top Schools to work for</h2>
       <div className="cate-group section23 ">
         <div className="widget__text-block">
           <div className="max-w-screen-xl mx-auto faculty-container grid-cols-2 grid md:grid-cols-4 gap-8 py-2 px-7">

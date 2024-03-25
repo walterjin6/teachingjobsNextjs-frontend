@@ -32,7 +32,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >Renowned Australian and international universities, including Bond University, Griffith University, Southern Cross University, and others, are located in the Gold Coast. From the humanities and arts to science and engineering, from health and medicine to law and business, these universities provide a broad range of Teaching specialisations. Joining their outstanding and cooperative uni jobs will allow you to support their outstanding influence, teaching, lecturing, and research.  </p>
+            <p >Find all Gold Coast School Positions on Teaching Jobs Today. Renowned Australian and international universities, including Bond University, Griffith University, Southern Cross University, and others, are located in the Gold Coast. From the humanities and arts to science and engineering, from health and medicine to law and business, these universities provide a broad range of Teaching specialisations. Joining their outstanding and cooperative uni jobs will allow you to support their outstanding influence, teaching, lecturing, and research.  </p>
           </div>
           <div className="newLine mb-2"></div>
    

@@ -32,7 +32,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >The Teacher Registration Board of the Northern Territory (TRBNT), an independent statutory body distinct from any educational authority, is where you must register if you want to teach in the Northern Territory. Teachers are registered with the TRBNT for all Northern Territory colleges and schools. Teachers who are currently registered in other states or territories may be eligible for mutual recognition. With this material, we hope to assist you in your quest for Darwin teaching possibilities. Best of luck!  </p>
+            <p >Find all Darwin School Positions on Teaching Jobs Today. The Teacher Registration Board of the Northern Territory (TRBNT), an independent statutory body distinct from any educational authority, is where you must register if you want to teach in the Northern Territory. Teachers are registered with the TRBNT for all Northern Territory colleges and schools. Teachers who are currently registered in other states or territories may be eligible for mutual recognition. With this material, we hope to assist you in your quest for Darwin teaching possibilities. Best of luck!  </p>
           </div>
           <div className="newLine mb-2"></div>
    

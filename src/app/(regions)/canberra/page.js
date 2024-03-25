@@ -32,7 +32,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >A registration with the Teacher Quality Institute (TQI), an autonomous statutory body distinct from any educational authority, is a prerequisite for teaching in the Australian Capital Territory. All ACT schools and institutions register teachers with the TQI. For teachers who are currently registered in other states or territories, mutual recognition may be applicable. In your pursuit of teaching opportunities in Canberra, we hope this material is useful. Wishing you luck!  </p>
+            <p >Find all Canberra School Positions on Teaching Jobs Today. A registration with the Teacher Quality Institute (TQI), an autonomous statutory body distinct from any educational authority, is a prerequisite for teaching in the Australian Capital Territory. All ACT schools and institutions register teachers with the TQI. For teachers who are currently registered in other states or territories, mutual recognition may be applicable. In your pursuit of teaching opportunities in Canberra, we hope this material is useful. Wishing you luck!  </p>
           </div>
           <div className="newLine mb-2"></div>
    

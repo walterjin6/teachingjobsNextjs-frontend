@@ -23,6 +23,9 @@ export default function myPage() {
         <meta name="keywords" content="Teaching Jobs Brisbane, teaching positions Brisbane" />
       </Helmet> */}
       <div className="blurb text-left py-8 content-grid">
+
+
+
         <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl ">Teaching Jobs Brisbane | Apply Online - Job Vacancies</h1>
 
         <div className="newLine mb-4">
@@ -32,7 +35,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >Being registered with the Queensland College of Teachers (QCT), an independent statutory body distinct from any educational authority, is a requirement for teaching in Queensland. Teachers in all Queensland colleges and schools are registered with the QCT. Teachers who are now registered in other states or territories may be eligible for mutual recognition. We hope that this information will be useful to you as you look for teaching opportunities in Brisbane. I wish you luck!  </p>
+            <p >Find all Brisbane School Positions on Teaching Jobs Today. Being registered with the Queensland College of Teachers (QCT), an independent statutory body distinct from any educational authority, is a requirement for teaching in Queensland. Teachers in all Queensland colleges and schools are registered with the QCT. Teachers who are now registered in other states or territories may be eligible for mutual recognition. We hope that this information will be useful to you as you look for teaching opportunities in Brisbane. I wish you luck!  </p>
           </div>
           <div className="newLine mb-2"></div>
    

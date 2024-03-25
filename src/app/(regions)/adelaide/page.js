@@ -16,7 +16,17 @@ export default function myPage() {
   return (
     <div className="">
       <div className="blurb text-left py-8 content-grid">
-        <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#00aeef] text-white rounded-full shadow-xl ">
+
+      <div className="bg-slate-200 full-width">
+        <div className="  hero-content flex-col lg:flex-row mx-auto items-start py-12">
+          <h1 className="md:text-6xl font-bold  md:text-right text-gray-500 pb-4 capitalize m-0">
+          Adelaide Teaching Jobs Australia
+          </h1>
+          <p className="px-7 mb-4 mt-1"> Seek your teaching jobs in Adelaide now, it’s important to meet the mandatory requirements such as holding a relevant university qualification, a current South Australian teacher registration, and a working with children check. Additionally, there’s a focus on continuous learning and development, with expectations for teachers to engage in ongoing training and adhere to the latest educational standards</p>
+        </div>
+      </div>
+
+        {/* <h1 className=" font-bold text-lg md:text-2xl py-4 px-7 bg-[#e39e39] text-white rounded-full shadow-xl ">
           Adelaide Teaching Jobs Australia
         </h1>
         <div className="newLine mb-4">
@@ -26,18 +36,12 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
             <p>
-              The University of Adelaide, Flinders University, and the
-              University of South Australia provide a broad spectrum of Teaching
-              programs, spanning from business and law to science and
-              engineering, health and medical, and the arts and humanities. To
-              support their brilliance in research, teaching, and impact, you
-              can become a member of their outstanding and cooperative Teaching
-              communities.
+            For those interested in teaching in Adelaide, it’s important to meet the mandatory requirements such as holding a relevant university qualification, a current South Australian teacher registration, and a working with children check. Additionally, there’s a focus on continuous learning and development, with expectations for teachers to engage in ongoing training and adhere to the latest educational standards
             </p>{' '}
           </div>
-          <div className="newLine mb-2"></div>
+          <div className="newLine mb-2"></div> */}
 
-          <h2 className="text-1xl font-bold py-1 px-7 border-2 border-[#00aeef] text-[#00aeef] rounded-3xl  shadow-md">
+          {/* <h2 className="text-1xl font-bold py-1 px-7 border-2 border-[#e39e39] text-[#e39e39] rounded-3xl  shadow-md">
             Top Australian Universities To Work For
           </h2>
           <div className="cate-group section23 ">
@@ -162,7 +166,7 @@ export default function myPage() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
           {/* <div className="container mx-auto px-4 sm:px-6 lg:px-8 mb-4">
         <div className="max-w-screen-xl mx-auto">
@@ -181,7 +185,7 @@ export default function myPage() {
               ref={locationRef}
             />
             <button
-              className="bg-[#00aeef] hover:bg-orange-600 text-white py-2 px-6 rounded-md focus:ring-2 focus:ring-orange-300"
+              className="bg-[#e39e39] hover:bg-orange-600 text-white py-2 px-6 rounded-md focus:ring-2 focus:ring-orange-300"
               type="submit"
             >
               Find Jobs
@@ -193,6 +197,6 @@ export default function myPage() {
           <SearchResults q={{ q: '', l: 'Adelaide' || 0 }} />
         </div>
       </div>
-    </div>
+   
   );
 }

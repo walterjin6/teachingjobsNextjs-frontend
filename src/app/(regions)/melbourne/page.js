@@ -32,7 +32,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >to teach in Victoria, you must be registered with the Victorian Institute of Teaching (VIT), an independent statutory authority separate from any educational authority. The VIT registers teachers for all Victorian schools and colleges. Mutual recognition may apply for teachers who are currently registered in other states or territories.We hope this information helps you in your search for teaching opportunities in Melbourne. Good luck!  </p>
+            <p >Find all Melbourne School Positions on Teaching Jobs Today. To teach in Victoria, you must be registered with the Victorian Institute of Teaching (VIT), an independent statutory authority separate from any educational authority. The VIT registers teachers for all Victorian schools and colleges. Mutual recognition may apply for teachers who are currently registered in other states or territories.We hope this information helps you in your search for teaching opportunities in Melbourne. Good luck!  </p>
           </div>
           <div className="newLine mb-2"></div>
    
@@ -77,7 +77,7 @@ export default function myPage() {
 
 
 <JobSearchBox l="melbourne" />
-      <SearchResults q={{ q: "", l:"melbourne"  }} />
+      <SearchResults q={{ q: "", l:""  }} />
     </div> </div>
 
   );

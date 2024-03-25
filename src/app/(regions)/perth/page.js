@@ -34,7 +34,7 @@ export default function myPage() {
         <div className="newLine">
           <div className="py-4 px-7 rounded-2xl ">
 
-            <p >You need to be registered with the Teacher Registration Board of Western Australia (TRBWA), a separate and independent statutory body from any educational authority, in order to teach in Western Australia. Teachers are registered with the TRBWA for all schools and colleges in Western Australia. For educators who are currently registered in different states or territories, mutual recognition may be applicable. With any luck, this material will be useful to you as you look for teaching opportunities in Perth. Hope all goes well!  </p>
+            <p >Find all Perth School Positions on Teaching Jobs Today. You need to be registered with the Teacher Registration Board of Western Australia (TRBWA), a separate and independent statutory body from any educational authority, in order to teach in Western Australia. Teachers are registered with the TRBWA for all schools and colleges in Western Australia. For educators who are currently registered in different states or territories, mutual recognition may be applicable. With any luck, this material will be useful to you as you look for teaching opportunities in Perth. Hope all goes well!  </p>
           </div>
           <div className="newLine mb-2"></div>
    

@@ -29,7 +29,7 @@ export default async function myPage() {
 
   return (
     <main className="content-grid">
-      <div className="flex flex-col items-center justify-center mb-32">
+      <div className="flex flex-col items-center justify-center mb-20">
         <div className="h-[15vh] flex flex-col items-end justify-end mb-8">
           <Link href={`/`}>
             <Logo width={300} height={170} />
@@ -41,15 +41,45 @@ export default async function myPage() {
         </div>
       </div>
 
+
+   
+    
+        <ul className=" mb-4 text-center justify-center flex  md:gap-4 py-2 pl-8 h-auto w-full text-transform: capitalize text-gray-500 ">
+          <li className="pb-2 flex hover:underline ">
+            <a href="/melbourne/">melbourne</a>
+          </li>
+          <li className="pb-2 flex  hover:underline">
+            <a href="/sydney/">sydney</a>
+          </li>
+          <li className="pb-2 flex md:break hover:underline">
+            <a href="/brisbane/">brisbane</a>
+          </li>
+          <li className="pb-2 flex md:break hover:underline">
+            <a href="/gold-coast/">gold coast</a>
+          </li>
+          <li className="pb-2 flex  hover:underline">
+            <a href="/canberra/">canberra</a>
+          </li>
+          <li className="pb-2 flex md:break hover:underline">
+            <a href="/perth/">perth</a>
+          </li>
+          <li className="pb-2 flex md:break hover:underline">
+            <a href="/adelaide/">adelaide</a>
+          </li>
+          <li className="pb-2 flex md:break hover:underline">
+            <a href="/darwin/">darwin</a>
+          </li>
+        </ul>
+    
       <JobCategoryAndLocationLinks />
 
       <div id="section" className="bg-slate-200 full-width py-12 mb-16 mt-12">
         <div className="md:hero-content flex flex-col lg:flex-row mx-auto md:items-start py-12">
           <h1 className="text-2xl font-normal sm:text-right text-gray-400 m-0 pb-8  md:px-0">
             <span className="md:text-6xl font-bold text-gray-500 pb-4 ">
-              TEACHINGJOBS: <br />
+              TEACHING JOBS AUSTRALIA: <br />
             </span>{' '}
-            Australia's #1 Teaching Job Board Site{' '}
+            All Schools and Teaching Positions{' '}
           </h1>
 
           <div>
@@ -506,7 +536,7 @@ export default async function myPage() {
         <div className="newLine"></div>
       </div>
 
-      <div className="bg-white flex flex-col  ">
+      {/* <div className="bg-white flex flex-col  ">
         <h2 className="underline-full mt-6 ">Choose Teaching Jobs by City</h2>
         <ul className=" mb-8 text-left columns-1 md:columns-4  md:gap-2 py-2 pl-8 h-auto w-full text-transform: capitalize">
           <li className="pb-2 flex  ">
@@ -535,7 +565,7 @@ export default async function myPage() {
           </li>
         </ul>
         <div className="newLine"></div>
-      </div>
+      </div> */}
 
       <div className="bg-white flex flex-col  ">
         <h2 className="underline-full mt-6 ">Choose Teaching Jobs by State</h2>
