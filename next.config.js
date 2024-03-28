@@ -4198,6 +4198,11 @@ const nextConfig = {
           'https://www.academicjobs.com/city/sacramento-usa-education-hub',
         permanent: true,
       },
+      {
+        source: '/employers/:slug*',
+        destination: 'https://www.academicjobs.com/employers/:slug*',
+        permanent: true,
+      },
     ];
   },
 };
